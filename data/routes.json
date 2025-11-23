@@ -1,0 +1,34 @@
+[
+  {
+    "id": "morning-coffee",
+    "title": "☕ 아침 커피 투어",
+    "description": "강릉의 대표 커피 명소를 한번에",
+    "spots": ["6", "2", "8"],
+    "duration": "2-3시간",
+    "distance": "차로 약 25분"
+  },
+  {
+    "id": "ocean-view",
+    "title": "🌊 오션뷰 감성 루트",
+    "description": "바다가 보이는 카페 투어",
+    "spots": ["3", "6", "12"],
+    "duration": "3-4시간",
+    "distance": "차로 약 30분"
+  },
+  {
+    "id": "food-tour",
+    "title": "🍜 강릉 맛집 정복",
+    "description": "순두부부터 막국수까지",
+    "spots": ["1", "14", "13"],
+    "duration": "하루",
+    "distance": "차로 약 40분"
+  },
+  {
+    "id": "insta-tour",
+    "title": "📸 인스타 감성 루트",
+    "description": "사진 찍기 좋은 핫플",
+    "spots": ["3", "2", "9"],
+    "duration": "3-4시간",
+    "distance": "차로 약 35분"
+  }
+]

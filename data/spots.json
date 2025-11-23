@@ -9,7 +9,9 @@
     "address_short": "초당동",
     "rating": 4.5,
     "image_url": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=400",
-    "is_hot": true
+    "is_hot": true,
+    "moods": ["family", "friends"],
+    "best_time": ["morning", "afternoon"]
   },
   {
     "id": "2",
@@ -21,7 +23,9 @@
     "address_short": "구정면",
     "rating": 4.7,
     "image_url": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?w=400",
-    "is_hot": true
+    "is_hot": true,
+    "moods": ["date", "friends", "solo"],
+    "best_time": ["morning", "afternoon"]
   },
   {
     "id": "3",
@@ -33,7 +37,9 @@
     "address_short": "강문동",
     "rating": 4.6,
     "image_url": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=400",
-    "is_hot": true
+    "is_hot": true,
+    "moods": ["date", "solo", "sunrise"],
+    "best_time": ["morning", "afternoon", "evening"]
   },
   {
     "id": "4",
@@ -45,7 +51,9 @@
     "address_short": "초당동",
     "rating": 4.4,
     "image_url": "https://images.unsplash.com/photo-1580822184713-fc5400e7fe10?w=400",
-    "is_hot": false
+    "is_hot": false,
+    "moods": ["family", "solo"],
+    "best_time": ["morning", "afternoon"]
   },
   {
     "id": "5",
@@ -57,7 +65,9 @@
     "address_short": "성산면",
     "rating": 4.8,
     "image_url": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=400",
-    "is_hot": true
+    "is_hot": true,
+    "moods": ["solo", "date"],
+    "best_time": ["morning", "afternoon"]
   },
   {
     "id": "6",
@@ -69,7 +79,9 @@
     "address_short": "안목동",
     "rating": 4.5,
     "image_url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400",
-    "is_hot": false
+    "is_hot": false,
+    "moods": ["date", "friends", "sunrise"],
+    "best_time": ["morning", "afternoon", "evening"]
   },
   {
     "id": "7",
@@ -81,7 +93,9 @@
     "address_short": "주문진",
     "rating": 4.6,
     "image_url": "https://images.unsplash.com/photo-1534604973900-c43ab4c2e0ab?w=400",
-    "is_hot": false
+    "is_hot": false,
+    "moods": ["family", "friends"],
+    "best_time": ["afternoon", "evening"]
   },
   {
     "id": "8",
@@ -93,7 +107,9 @@
     "address_short": "안목동",
     "rating": 4.7,
     "image_url": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400",
-    "is_hot": true
+    "is_hot": true,
+    "moods": ["solo", "date", "friends"],
+    "best_time": ["morning", "afternoon"]
   },
   {
     "id": "9",
@@ -105,11 +121,13 @@
     "address_short": "강동면",
     "rating": 4.3,
     "image_url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400",
-    "is_hot": false
+    "is_hot": false,
+    "moods": ["date", "family", "sunrise"],
+    "best_time": ["morning", "afternoon", "evening", "night"]
   },
   {
     "id": "10",
-    "name": "GS25 강릉경포대점",
+    "name": "경포대",
     "category_main": "activity",
     "category_sub": "산책로",
     "tags": ["#경포대", "#호수", "#산책"],
@@ -117,7 +135,9 @@
     "address_short": "경포동",
     "rating": 4.5,
     "image_url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400",
-    "is_hot": false
+    "is_hot": false,
+    "moods": ["solo", "date", "family", "sunrise"],
+    "best_time": ["morning", "afternoon", "evening"]
   },
   {
     "id": "11",
@@ -129,7 +149,9 @@
     "address_short": "교동",
     "rating": 4.4,
     "image_url": "https://images.unsplash.com/photo-1555126634-323283e090fa?w=400",
-    "is_hot": false
+    "is_hot": false,
+    "moods": ["solo", "friends", "rainy"],
+    "best_time": ["afternoon", "evening"]
   },
   {
     "id": "12",
@@ -141,7 +163,9 @@
     "address_short": "사천면",
     "rating": 4.6,
     "image_url": "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?w=400",
-    "is_hot": true
+    "is_hot": true,
+    "moods": ["date", "friends", "sunrise"],
+    "best_time": ["morning", "afternoon"]
   },
   {
     "id": "13",
@@ -153,7 +177,9 @@
     "address_short": "성남동",
     "rating": 4.5,
     "image_url": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400",
-    "is_hot": false
+    "is_hot": false,
+    "moods": ["family", "friends", "rainy"],
+    "best_time": ["morning", "afternoon", "evening"]
   },
   {
     "id": "14",
@@ -165,7 +191,9 @@
     "address_short": "옥계면",
     "rating": 4.7,
     "image_url": "https://images.unsplash.com/photo-1596040033229-a0b13b1c0af4?w=400",
-    "is_hot": true
+    "is_hot": true,
+    "moods": ["family", "friends"],
+    "best_time": ["afternoon", "evening"]
   },
   {
     "id": "15",
@@ -177,7 +205,9 @@
     "address_short": "강문동",
     "rating": 4.2,
     "image_url": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=400",
-    "is_hot": false
+    "is_hot": false,
+    "moods": ["solo"],
+    "best_time": ["morning", "afternoon", "evening"]
   },
   {
     "id": "16",
@@ -189,7 +219,9 @@
     "address_short": "주문진",
     "rating": 4.4,
     "image_url": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=400",
-    "is_hot": false
+    "is_hot": false,
+    "moods": ["family", "friends"],
+    "best_time": ["morning", "afternoon"]
   },
   {
     "id": "17",
@@ -201,7 +233,9 @@
     "address_short": "경포동",
     "rating": 4.3,
     "image_url": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=400",
-    "is_hot": false
+    "is_hot": false,
+    "moods": ["family", "friends"],
+    "best_time": ["afternoon", "evening"]
   },
   {
     "id": "18",
@@ -213,7 +247,9 @@
     "address_short": "연곡면",
     "rating": 4.6,
     "image_url": "https://images.unsplash.com/photo-1502933691298-84fc14542831?w=400",
-    "is_hot": true
+    "is_hot": true,
+    "moods": ["friends", "solo", "sunrise"],
+    "best_time": ["morning", "afternoon"]
   },
   {
     "id": "19",
@@ -225,7 +261,9 @@
     "address_short": "교동",
     "rating": 4.3,
     "image_url": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=400",
-    "is_hot": false
+    "is_hot": false,
+    "moods": ["date", "friends", "family"],
+    "best_time": ["afternoon", "evening"]
   },
   {
     "id": "20",
@@ -237,6 +275,8 @@
     "address_short": "포남동",
     "rating": 4.5,
     "image_url": "https://images.unsplash.com/photo-1547592180-85f173990554?w=400",
-    "is_hot": false
+    "is_hot": false,
+    "moods": ["solo", "friends"],
+    "best_time": ["morning", "night"]
   }
 ]
