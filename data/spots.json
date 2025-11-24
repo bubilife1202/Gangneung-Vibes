@@ -3417,5 +3417,30 @@
     ],
     "name_en": "Heo Gyun Memorial Hall",
     "name_ko": "허균기념관"
+  },
+  {
+    "id": "118",
+    "name": "박종수세무회계사무소",
+    "name_en": "Park Jong-soo Tax & Accounting Office",
+    "name_ko": "박종수세무회계사무소",
+    "category_main": "business",
+    "category_sub": "Tax Accountant",
+    "tags": [
+      "#business",
+      "#tax",
+      "#세무사",
+      "#회계",
+      "#박종수세무회계사무소"
+    ],
+    "naver_search_query": "강릉 박종수세무회계사무소",
+    "address_short": "Gangneung-si",
+    "rating": null,
+    "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=400",
+    "is_hot": false,
+    "moods": [],
+    "best_time": [
+      "morning",
+      "afternoon"
+    ]
   }
 ]
