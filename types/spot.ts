@@ -1,4 +1,4 @@
-export type Category = "food" | "cafe" | "activity" | "stay";
+export type Category = "food" | "cafe" | "activity" | "stay" | "business";
 
 export type Mood = "solo" | "date" | "family" | "friends" | "rainy" | "sunrise";
 
@@ -27,6 +27,7 @@ export const CATEGORY_LABELS: Record<Category, string> = {
   cafe: "☕ 카페",
   activity: "💪 운동",
   stay: "🏠 숙소",
+  business: "💼 비즈니스",
 };
 
 export const MOOD_LABELS: Record<Mood, string> = {
