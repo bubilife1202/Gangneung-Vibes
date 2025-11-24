@@ -1,26 +1,14 @@
 "use client";
 
-import { useState, useEffect } from "react";
 import { Spot, CATEGORY_LABELS } from "@/types/spot";
 import Image from "next/image";
-import { markAsVisited, getVisitedSpots } from "@/lib/utils";
 
 interface SpotCardProps {
   spot: Spot;
 }
 
 export default function SpotCard({ spot }: SpotCardProps) {
-  const [isVisited, setIsVisited] = useState(false);
-
-  useEffect(() => {
-    setIsVisited(getVisitedSpots().includes(spot.id));
-  }, [spot.id]);
-
   const handleClick = () => {
-    // 방문 체크
-    markAsVisited(spot.id);
-    setIsVisited(true);
-
     const naverMapUrl = `https://m.map.naver.com/search2/search.naver?query=${encodeURIComponent(
       spot.naver_search_query
     )}`;
@@ -40,21 +28,14 @@ export default function SpotCard({ spot }: SpotCardProps) {
           className="object-cover"
           sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
         />
-        {isVisited && (
-          <div className="absolute top-3 left-3 bg-green-500 text-white px-3 py-1 rounded-full text-sm font-bold shadow-md z-10">
-            ✓ 방문완료
-          </div>
-        )}
         {spot.is_hot && (
           <div className="absolute top-3 right-3 bg-accent text-white px-3 py-1 rounded-full text-sm font-bold shadow-md">
             🔥 HOT
           </div>
         )}
-        {!isVisited && (
-          <div className="absolute bottom-3 left-3 bg-white/90 backdrop-blur-sm px-3 py-1 rounded-full text-sm font-semibold text-primary">
-            {CATEGORY_LABELS[spot.category_main]}
-          </div>
-        )}
+        <div className="absolute bottom-3 left-3 bg-white/90 backdrop-blur-sm px-3 py-1 rounded-full text-sm font-semibold text-primary">
+          {CATEGORY_LABELS[spot.category_main]}
+        </div>
       </div>
 
       <div className="p-5">
