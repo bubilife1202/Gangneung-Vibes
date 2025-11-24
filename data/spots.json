@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "name": "Terarosa Coffee",
+    "name": "테라로사 커피공장",
     "category_main": "cafe",
     "category_sub": "Coffee roasters",
     "tags": [
@@ -9,9 +9,10 @@
       "#Coffeeroasters",
       "#카페",
       "#강릉카페",
-      "#디저트"
+      "#디저트",
+      "#테라로사 커피공장"
     ],
-    "naver_search_query": "강릉 Terarosa Coffee",
+    "naver_search_query": "강릉 테라로사 커피공장",
     "address_short": "Gujeong-myeon",
     "rating": 4.1,
     "image_url": "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?w=400",
@@ -24,11 +25,13 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Terarosa Coffee",
+    "name_ko": "테라로사 커피공장"
   },
   {
     "id": "2",
-    "name": "Coffee Cupper Museum",
+    "name": "커피커퍼 박물관",
     "category_main": "cafe",
     "category_sub": "Museum",
     "tags": [
@@ -36,9 +39,10 @@
       "#Museum",
       "#카페",
       "#강릉카페",
-      "#디저트"
+      "#디저트",
+      "#커피커퍼 박물관"
     ],
-    "naver_search_query": "강릉 Coffee Cupper Museum",
+    "naver_search_query": "강릉 커피커퍼 박물관",
     "address_short": "Wangsan-myeon",
     "rating": 4.4,
     "image_url": "https://images.unsplash.com/photo-1569096651661-820d0de8b4ab?w=400",
@@ -51,20 +55,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Coffee Cupper Museum",
+    "name_ko": "커피커퍼 박물관"
   },
   {
     "id": "3",
-    "name": "Long Bread",
+    "name": "롱브레드",
     "category_main": "food",
     "category_sub": "Brunch",
     "tags": [
       "#food",
       "#Brunch",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#롱브레드"
     ],
-    "naver_search_query": "강릉 Long Bread",
+    "naver_search_query": "강릉 롱브레드",
     "address_short": "Chodang-dong",
     "rating": 4.2,
     "image_url": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400",
@@ -77,11 +84,13 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Long Bread",
+    "name_ko": "롱브레드"
   },
   {
     "id": "4",
-    "name": "Bohemian Roasters",
+    "name": "보헤미안 박이추 커피",
     "category_main": "cafe",
     "category_sub": "Coffee shop",
     "tags": [
@@ -89,9 +98,10 @@
       "#Coffeeshop",
       "#카페",
       "#강릉카페",
-      "#디저트"
+      "#디저트",
+      "#보헤미안 박이추 커피"
     ],
-    "naver_search_query": "강릉 Bohemian Roasters",
+    "naver_search_query": "강릉 보헤미안 박이추 커피",
     "address_short": "Sacheon-myeon",
     "rating": 4.3,
     "image_url": "https://images.unsplash.com/photo-1542372147193-a7aca54189cd?w=400",
@@ -104,11 +114,13 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Bohemian Roasters",
+    "name_ko": "보헤미안 박이추 커피"
   },
   {
     "id": "5",
-    "name": "Seowon Coffee Lab",
+    "name": "서원커피랩",
     "category_main": "cafe",
     "category_sub": "Cafe",
     "tags": [
@@ -116,9 +128,10 @@
       "#Cafe",
       "#카페",
       "#강릉카페",
-      "#디저트"
+      "#디저트",
+      "#서원커피랩"
     ],
-    "naver_search_query": "강릉 Seowon Coffee Lab",
+    "naver_search_query": "강릉 서원커피랩",
     "address_short": "Jukheon-gil",
     "rating": 4.3,
     "image_url": "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?w=400",
@@ -131,11 +144,13 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Seowon Coffee Lab",
+    "name_ko": "서원커피랩"
   },
   {
     "id": "6",
-    "name": "AM BREAD&COFFEE",
+    "name": "에이엠브레드앤커피",
     "category_main": "cafe",
     "category_sub": "Bakery",
     "tags": [
@@ -143,9 +158,10 @@
       "#Bakery",
       "#카페",
       "#강릉카페",
-      "#디저트"
+      "#디저트",
+      "#에이엠브레드앤커피"
     ],
-    "naver_search_query": "강릉 AM BREAD&COFFEE",
+    "naver_search_query": "강릉 에이엠브레드앤커피",
     "address_short": "Gangmun-dong",
     "rating": 3.9,
     "image_url": "https://images.unsplash.com/photo-1569096651661-820d0de8b4ab?w=400",
@@ -158,11 +174,13 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "AM BREAD&COFFEE",
+    "name_ko": "에이엠브레드앤커피"
   },
   {
     "id": "7",
-    "name": "Cafe Kiwa",
+    "name": "카페 기와",
     "category_main": "cafe",
     "category_sub": "Cafe",
     "tags": [
@@ -170,9 +188,10 @@
       "#Cafe",
       "#카페",
       "#강릉카페",
-      "#디저트"
+      "#디저트",
+      "#카페 기와"
     ],
-    "naver_search_query": "강릉 Cafe Kiwa",
+    "naver_search_query": "강릉 카페 기와",
     "address_short": "Chodang-dong",
     "rating": 4.3,
     "image_url": "https://images.unsplash.com/photo-1569096651661-820d0de8b4ab?w=400",
@@ -185,11 +204,13 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Cafe Kiwa",
+    "name_ko": "카페 기와"
   },
   {
     "id": "8",
-    "name": "Gangneung Cafe Street",
+    "name": "강릉 카페거리",
     "category_main": "cafe",
     "category_sub": "Street",
     "tags": [
@@ -197,9 +218,10 @@
       "#Street",
       "#카페",
       "#강릉카페",
-      "#디저트"
+      "#디저트",
+      "#강릉 카페거리"
     ],
-    "naver_search_query": "강릉 Gangneung Cafe Street",
+    "naver_search_query": "강릉 강릉 카페거리",
     "address_short": "Anmok Beach",
     "rating": 4.3,
     "image_url": "https://images.unsplash.com/photo-1511920170033-f8396924c348?w=400",
@@ -212,11 +234,13 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Gangneung Cafe Street",
+    "name_ko": "강릉 카페거리"
   },
   {
     "id": "9",
-    "name": "Espresso Square",
+    "name": "에스프레소 스퀘어",
     "category_main": "cafe",
     "category_sub": "Espresso bar",
     "tags": [
@@ -224,9 +248,10 @@
       "#Espressobar",
       "#카페",
       "#강릉카페",
-      "#디저트"
+      "#디저트",
+      "#에스프레소 스퀘어"
     ],
-    "naver_search_query": "강릉 Espresso Square",
+    "naver_search_query": "강릉 에스프레소 스퀘어",
     "address_short": "Okcheon-dong",
     "rating": 4.8,
     "image_url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400",
@@ -239,11 +264,13 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Espresso Square",
+    "name_ko": "에스프레소 스퀘어"
   },
   {
     "id": "10",
-    "name": "Wave Lounge",
+    "name": "웨이브 라운지",
     "category_main": "cafe",
     "category_sub": "Book cafe",
     "tags": [
@@ -251,9 +278,10 @@
       "#Bookcafe",
       "#카페",
       "#강릉카페",
-      "#디저트"
+      "#디저트",
+      "#웨이브 라운지"
     ],
-    "naver_search_query": "강릉 Wave Lounge",
+    "naver_search_query": "강릉 웨이브 라운지",
     "address_short": "Ponam-dong",
     "rating": 4.8,
     "image_url": "https://images.unsplash.com/photo-1511920170033-f8396924c348?w=400",
@@ -266,11 +294,13 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Wave Lounge",
+    "name_ko": "웨이브 라운지"
   },
   {
     "id": "11",
-    "name": "Bossa Nova Coffee Roasters",
+    "name": "보사노바 커피로스터스",
     "category_main": "cafe",
     "category_sub": "Rooftop",
     "tags": [
@@ -278,9 +308,10 @@
       "#Rooftop",
       "#카페",
       "#강릉카페",
-      "#디저트"
+      "#디저트",
+      "#보사노바 커피로스터스"
     ],
-    "naver_search_query": "강릉 Bossa Nova Coffee Roasters",
+    "naver_search_query": "강릉 보사노바 커피로스터스",
     "address_short": "Anmok Beach",
     "rating": 4.2,
     "image_url": "https://images.unsplash.com/photo-1569096651661-820d0de8b4ab?w=400",
@@ -293,11 +324,13 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Bossa Nova Coffee Roasters",
+    "name_ko": "보사노바 커피로스터스"
   },
   {
     "id": "12",
-    "name": "Starbucks Anmok",
+    "name": "스타벅스 강릉안목항점",
     "category_main": "cafe",
     "category_sub": "Franchise",
     "tags": [
@@ -305,9 +338,10 @@
       "#Franchise",
       "#카페",
       "#강릉카페",
-      "#디저트"
+      "#디저트",
+      "#스타벅스 강릉안목항점"
     ],
-    "naver_search_query": "강릉 Starbucks Anmok",
+    "naver_search_query": "강릉 스타벅스 강릉안목항점",
     "address_short": "Anmok Beach",
     "rating": 4.1,
     "image_url": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=400",
@@ -320,11 +354,13 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Starbucks Anmok",
+    "name_ko": "스타벅스 강릉안목항점"
   },
   {
     "id": "13",
-    "name": "Hollys Coffee Anmok",
+    "name": "할리스 강릉항마리나점",
     "category_main": "cafe",
     "category_sub": "Franchise",
     "tags": [
@@ -332,9 +368,10 @@
       "#Franchise",
       "#카페",
       "#강릉카페",
-      "#디저트"
+      "#디저트",
+      "#할리스 강릉항마리나점"
     ],
-    "naver_search_query": "강릉 Hollys Coffee Anmok",
+    "naver_search_query": "강릉 할리스 강릉항마리나점",
     "address_short": "Anmok Beach",
     "rating": 4.1,
     "image_url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400",
@@ -347,11 +384,13 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Hollys Coffee Anmok",
+    "name_ko": "할리스 강릉항마리나점"
   },
   {
     "id": "14",
-    "name": "Cafe Lumiere",
+    "name": "카페 뤼미에르",
     "category_main": "cafe",
     "category_sub": "Ocean view",
     "tags": [
@@ -359,9 +398,10 @@
       "#Oceanview",
       "#카페",
       "#강릉카페",
-      "#디저트"
+      "#디저트",
+      "#카페 뤼미에르"
     ],
-    "naver_search_query": "강릉 Cafe Lumiere",
+    "naver_search_query": "강릉 카페 뤼미에르",
     "address_short": "Sacheon Beach",
     "rating": 4.5,
     "image_url": "https://images.unsplash.com/photo-1569096651661-820d0de8b4ab?w=400",
@@ -374,11 +414,13 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Cafe Lumiere",
+    "name_ko": "카페 뤼미에르"
   },
   {
     "id": "15",
-    "name": "Kikrus Coffee",
+    "name": "키크러스 커피",
     "category_main": "cafe",
     "category_sub": "Bakery",
     "tags": [
@@ -386,9 +428,10 @@
       "#Bakery",
       "#카페",
       "#강릉카페",
-      "#디저트"
+      "#디저트",
+      "#키크러스 커피"
     ],
-    "naver_search_query": "강릉 Kikrus Coffee",
+    "naver_search_query": "강릉 키크러스 커피",
     "address_short": "Anmok Beach",
     "rating": 4.0,
     "image_url": "https://images.unsplash.com/photo-1567880905822-56f8e06fe630?w=400",
@@ -401,11 +444,13 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Kikrus Coffee",
+    "name_ko": "키크러스 커피"
   },
   {
     "id": "16",
-    "name": "L.Bean",
+    "name": "엘빈",
     "category_main": "cafe",
     "category_sub": "Cafe",
     "tags": [
@@ -413,9 +458,10 @@
       "#Cafe",
       "#카페",
       "#강릉카페",
-      "#디저트"
+      "#디저트",
+      "#엘빈"
     ],
-    "naver_search_query": "강릉 L.Bean",
+    "naver_search_query": "강릉 엘빈",
     "address_short": "Anmok Beach",
     "rating": 3.8,
     "image_url": "https://images.unsplash.com/photo-1511920170033-f8396924c348?w=400",
@@ -428,11 +474,13 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "L.Bean",
+    "name_ko": "엘빈"
   },
   {
     "id": "17",
-    "name": "Santorini Coffee",
+    "name": "산토리니 커피",
     "category_main": "cafe",
     "category_sub": "Hand drip",
     "tags": [
@@ -440,9 +488,10 @@
       "#Handdrip",
       "#카페",
       "#강릉카페",
-      "#디저트"
+      "#디저트",
+      "#산토리니 커피"
     ],
-    "naver_search_query": "강릉 Santorini Coffee",
+    "naver_search_query": "강릉 산토리니 커피",
     "address_short": "Anmok Beach",
     "rating": 3.9,
     "image_url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400",
@@ -455,11 +504,13 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Santorini Coffee",
+    "name_ko": "산토리니 커피"
   },
   {
     "id": "18",
-    "name": "Coffee America",
+    "name": "커피 아메리카",
     "category_main": "cafe",
     "category_sub": "Cafe",
     "tags": [
@@ -467,9 +518,10 @@
       "#Cafe",
       "#카페",
       "#강릉카페",
-      "#디저트"
+      "#디저트",
+      "#커피 아메리카"
     ],
-    "naver_search_query": "강릉 Coffee America",
+    "naver_search_query": "강릉 커피 아메리카",
     "address_short": "Anmok Beach",
     "rating": 3.7,
     "image_url": "https://images.unsplash.com/photo-1445116572660-236099ec97a0?w=400",
@@ -482,11 +534,13 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Coffee America",
+    "name_ko": "커피 아메리카"
   },
   {
     "id": "19",
-    "name": "Gong Cha Anmok",
+    "name": "공차 강릉안목항점",
     "category_main": "cafe",
     "category_sub": "Bubble tea",
     "tags": [
@@ -494,9 +548,10 @@
       "#Bubbletea",
       "#카페",
       "#강릉카페",
-      "#디저트"
+      "#디저트",
+      "#공차 강릉안목항점"
     ],
-    "naver_search_query": "강릉 Gong Cha Anmok",
+    "naver_search_query": "강릉 공차 강릉안목항점",
     "address_short": "Anmok Beach",
     "rating": 4.0,
     "image_url": "https://images.unsplash.com/photo-1481833761820-0509d3217039?w=400",
@@ -509,11 +564,13 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Gong Cha Anmok",
+    "name_ko": "공차 강릉안목항점"
   },
   {
     "id": "20",
-    "name": "Droptop",
+    "name": "드롭탑 강릉안목점",
     "category_main": "cafe",
     "category_sub": "Franchise",
     "tags": [
@@ -521,9 +578,10 @@
       "#Franchise",
       "#카페",
       "#강릉카페",
-      "#디저트"
+      "#디저트",
+      "#드롭탑 강릉안목점"
     ],
-    "naver_search_query": "강릉 Droptop",
+    "naver_search_query": "강릉 드롭탑 강릉안목점",
     "address_short": "Anmok Beach",
     "rating": 3.8,
     "image_url": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=400",
@@ -536,20 +594,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Droptop",
+    "name_ko": "드롭탑 강릉안목점"
   },
   {
     "id": "21",
-    "name": "Donghwa Garden",
+    "name": "동화가든",
     "category_main": "food",
     "category_sub": "Soft Tofu",
     "tags": [
       "#food",
       "#SoftTofu",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#동화가든"
     ],
-    "naver_search_query": "강릉 Donghwa Garden",
+    "naver_search_query": "강릉 동화가든",
     "address_short": "Chodang-dong",
     "rating": 4.3,
     "image_url": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=400",
@@ -562,20 +623,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Donghwa Garden",
+    "name_ko": "동화가든"
   },
   {
     "id": "22",
-    "name": "Umjine Pojangmacha",
+    "name": "엄지네 포장마차",
     "category_main": "food",
     "category_sub": "Cockle Bibimbap",
     "tags": [
       "#food",
       "#CockleBibimbap",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#엄지네 포장마차"
     ],
-    "naver_search_query": "강릉 Umjine Pojangmacha",
+    "naver_search_query": "강릉 엄지네 포장마차",
     "address_short": "Ponam-dong",
     "rating": 4.5,
     "image_url": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400",
@@ -588,20 +652,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Umjine Pojangmacha",
+    "name_ko": "엄지네 포장마차"
   },
   {
     "id": "23",
-    "name": "Beoljip",
+    "name": "벌집",
     "category_main": "food",
     "category_sub": "Jang Kalguksu",
     "tags": [
       "#food",
       "#JangKalguksu",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#벌집"
     ],
-    "naver_search_query": "강릉 Beoljip",
+    "naver_search_query": "강릉 벌집",
     "address_short": "Imdang-dong",
     "rating": 4.5,
     "image_url": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=400",
@@ -614,20 +681,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Beoljip",
+    "name_ko": "벌집"
   },
   {
     "id": "24",
-    "name": "Gyodong Banjeom",
+    "name": "교동반점",
     "category_main": "food",
     "category_sub": "Jjamppong",
     "tags": [
       "#food",
       "#Jjamppong",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#교동반점"
     ],
-    "naver_search_query": "강릉 Gyodong Banjeom",
+    "naver_search_query": "강릉 교동반점",
     "address_short": "Gyodong",
     "rating": 4.0,
     "image_url": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=400",
@@ -640,20 +710,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Gyodong Banjeom",
+    "name_ko": "교동반점"
   },
   {
     "id": "25",
-    "name": "Hyeondae Jang Kalguksu",
+    "name": "현대장칼국수",
     "category_main": "food",
     "category_sub": "Kalguksu",
     "tags": [
       "#food",
       "#Kalguksu",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#현대장칼국수"
     ],
-    "naver_search_query": "강릉 Hyeondae Jang Kalguksu",
+    "naver_search_query": "강릉 현대장칼국수",
     "address_short": "Imdang-dong",
     "rating": 4.4,
     "image_url": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=400",
@@ -666,20 +739,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Hyeondae Jang Kalguksu",
+    "name_ko": "현대장칼국수"
   },
   {
     "id": "26",
-    "name": "Geumhak Kalguksu",
+    "name": "금학칼국수",
     "category_main": "food",
     "category_sub": "Kalguksu",
     "tags": [
       "#food",
       "#Kalguksu",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#금학칼국수"
     ],
-    "naver_search_query": "강릉 Geumhak Kalguksu",
+    "naver_search_query": "강릉 금학칼국수",
     "address_short": "Geumhak-dong",
     "rating": 4.6,
     "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=400",
@@ -692,20 +768,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Geumhak Kalguksu",
+    "name_ko": "금학칼국수"
   },
   {
     "id": "27",
-    "name": "Hyeongje Kalguksu",
+    "name": "형제칼국수",
     "category_main": "food",
     "category_sub": "Kalguksu",
     "tags": [
       "#food",
       "#Kalguksu",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#형제칼국수"
     ],
-    "naver_search_query": "강릉 Hyeongje Kalguksu",
+    "naver_search_query": "강릉 형제칼국수",
     "address_short": "Gyodong",
     "rating": 4.2,
     "image_url": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400",
@@ -718,20 +797,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Hyeongje Kalguksu",
+    "name_ko": "형제칼국수"
   },
   {
     "id": "28",
-    "name": "Gangneung Gamja Ongsimi",
+    "name": "강릉감자옹심이",
     "category_main": "food",
     "category_sub": "Potato Dough",
     "tags": [
       "#food",
       "#PotatoDough",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#강릉감자옹심이"
     ],
-    "naver_search_query": "강릉 Gangneung Gamja Ongsimi",
+    "naver_search_query": "강릉 강릉감자옹심이",
     "address_short": "Imdang-dong",
     "rating": 4.4,
     "image_url": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=400",
@@ -744,20 +826,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Gangneung Gamja Ongsimi",
+    "name_ko": "강릉감자옹심이"
   },
   {
     "id": "29",
-    "name": "Chodang Halmeoni Sundubu",
+    "name": "초당할머니순두부",
     "category_main": "food",
     "category_sub": "Soft Tofu",
     "tags": [
       "#food",
       "#SoftTofu",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#초당할머니순두부"
     ],
-    "naver_search_query": "강릉 Chodang Halmeoni Sundubu",
+    "naver_search_query": "강릉 초당할머니순두부",
     "address_short": "Chodang-dong",
     "rating": 4.2,
     "image_url": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=400",
@@ -770,20 +855,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Chodang Halmeoni Sundubu",
+    "name_ko": "초당할머니순두부"
   },
   {
     "id": "30",
-    "name": "Gim Ujeong Chodang Jjamppong Sundubu",
+    "name": "김우정초당짬뽕순두부",
     "category_main": "food",
     "category_sub": "Soft Tofu",
     "tags": [
       "#food",
       "#SoftTofu",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#김우정초당짬뽕순두부"
     ],
-    "naver_search_query": "강릉 Gim Ujeong Chodang Jjamppong Sundubu",
+    "naver_search_query": "강릉 김우정초당짬뽕순두부",
     "address_short": "Chodang-dong",
     "rating": 4.3,
     "image_url": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=400",
@@ -796,20 +884,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Gim Ujeong Chodang Jjamppong Sundubu",
+    "name_ko": "김우정초당짬뽕순두부"
   },
   {
     "id": "31",
-    "name": "So Na Mu Jip Chodang Sundubu",
+    "name": "소나무집초당순두부",
     "category_main": "food",
     "category_sub": "Soft Tofu Gelato",
     "tags": [
       "#food",
       "#SoftTofuGelato",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#소나무집초당순두부"
     ],
-    "naver_search_query": "강릉 So Na Mu Jip Chodang Sundubu",
+    "naver_search_query": "강릉 소나무집초당순두부",
     "address_short": "Chodang-dong",
     "rating": 4.1,
     "image_url": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=400",
@@ -822,20 +913,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "So Na Mu Jip Chodang Sundubu",
+    "name_ko": "소나무집초당순두부"
   },
   {
     "id": "32",
-    "name": "Cha Hyeon Hui Sundubu",
+    "name": "차현희순두부청국장",
     "category_main": "food",
     "category_sub": "Soft Tofu",
     "tags": [
       "#food",
       "#SoftTofu",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#차현희순두부청국장"
     ],
-    "naver_search_query": "강릉 Cha Hyeon Hui Sundubu",
+    "naver_search_query": "강릉 차현희순두부청국장",
     "address_short": "Chodang-dong",
     "rating": 4.2,
     "image_url": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?w=400",
@@ -848,20 +942,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Cha Hyeon Hui Sundubu",
+    "name_ko": "차현희순두부청국장"
   },
   {
     "id": "33",
-    "name": "400nyeon Jip Chodang Sundubu",
+    "name": "400년집초당순두부",
     "category_main": "food",
     "category_sub": "Soft Tofu",
     "tags": [
       "#food",
       "#SoftTofu",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#400년집초당순두부"
     ],
-    "naver_search_query": "강릉 400nyeon Jip Chodang Sundubu",
+    "naver_search_query": "강릉 400년집초당순두부",
     "address_short": "Chodang-dong",
     "rating": 4.0,
     "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=400",
@@ -874,20 +971,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "400nyeon Jip Chodang Sundubu",
+    "name_ko": "400년집초당순두부"
   },
   {
     "id": "34",
-    "name": "Nongchon Sundubu",
+    "name": "농촌순두부",
     "category_main": "food",
     "category_sub": "Soft Tofu",
     "tags": [
       "#food",
       "#SoftTofu",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#농촌순두부"
     ],
-    "naver_search_query": "강릉 Nongchon Sundubu",
+    "naver_search_query": "강릉 농촌순두부",
     "address_short": "Chodang-dong",
     "rating": 3.9,
     "image_url": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=400",
@@ -900,20 +1000,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Nongchon Sundubu",
+    "name_ko": "농촌순두부"
   },
   {
     "id": "35",
-    "name": "Gangneung Jjamppong Sundubu",
+    "name": "강릉짬뽕순두부",
     "category_main": "food",
     "category_sub": "Soft Tofu",
     "tags": [
       "#food",
       "#SoftTofu",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#강릉짬뽕순두부"
     ],
-    "naver_search_query": "강릉 Gangneung Jjamppong Sundubu",
+    "naver_search_query": "강릉 강릉짬뽕순두부",
     "address_short": "Chodang-dong",
     "rating": 4.1,
     "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=400",
@@ -926,20 +1029,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Gangneung Jjamppong Sundubu",
+    "name_ko": "강릉짬뽕순두부"
   },
   {
     "id": "36",
-    "name": "Haewon",
+    "name": "해원",
     "category_main": "food",
     "category_sub": "Seafood",
     "tags": [
       "#food",
       "#Seafood",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#해원"
     ],
-    "naver_search_query": "강릉 Haewon",
+    "naver_search_query": "강릉 해원",
     "address_short": "Gangmun-dong",
     "rating": 4.0,
     "image_url": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400",
@@ -952,20 +1058,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Haewon",
+    "name_ko": "해원"
   },
   {
     "id": "37",
-    "name": "Yeongjin Hoetjip",
+    "name": "영진횟집",
     "category_main": "food",
     "category_sub": "Sashimi",
     "tags": [
       "#food",
       "#Sashimi",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#영진횟집"
     ],
-    "naver_search_query": "강릉 Yeongjin Hoetjip",
+    "naver_search_query": "강릉 영진횟집",
     "address_short": "Yeongjin-ri",
     "rating": 4.2,
     "image_url": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=400",
@@ -978,20 +1087,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Yeongjin Hoetjip",
+    "name_ko": "영진횟집"
   },
   {
     "id": "38",
-    "name": "Jeju Haenyeo Mulhoe",
+    "name": "제주해녀물회",
     "category_main": "food",
     "category_sub": "Mulhoe",
     "tags": [
       "#food",
       "#Mulhoe",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#제주해녀물회"
     ],
-    "naver_search_query": "강릉 Jeju Haenyeo Mulhoe",
+    "naver_search_query": "강릉 제주해녀물회",
     "address_short": "Sacheon-myeon",
     "rating": 4.1,
     "image_url": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=400",
@@ -1004,20 +1116,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Jeju Haenyeo Mulhoe",
+    "name_ko": "제주해녀물회"
   },
   {
     "id": "39",
-    "name": "Jang An Hoetjip",
+    "name": "장안횟집",
     "category_main": "food",
     "category_sub": "Mulhoe",
     "tags": [
       "#food",
       "#Mulhoe",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#장안횟집"
     ],
-    "naver_search_query": "강릉 Jang An Hoetjip",
+    "naver_search_query": "강릉 장안횟집",
     "address_short": "Sacheon-myeon",
     "rating": 4.3,
     "image_url": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?w=400",
@@ -1030,20 +1145,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Jang An Hoetjip",
+    "name_ko": "장안횟집"
   },
   {
     "id": "40",
-    "name": "Hwang To Mulhoe",
+    "name": "황토물회",
     "category_main": "food",
     "category_sub": "Mulhoe",
     "tags": [
       "#food",
       "#Mulhoe",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#황토물회"
     ],
-    "naver_search_query": "강릉 Hwang To Mulhoe",
+    "naver_search_query": "강릉 황토물회",
     "address_short": "Sacheon-myeon",
     "rating": 4.0,
     "image_url": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=400",
@@ -1056,20 +1174,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Hwang To Mulhoe",
+    "name_ko": "황토물회"
   },
   {
     "id": "41",
-    "name": "Sacheon Mulhoe",
+    "name": "사천물회",
     "category_main": "food",
     "category_sub": "Mulhoe",
     "tags": [
       "#food",
       "#Mulhoe",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#사천물회"
     ],
-    "naver_search_query": "강릉 Sacheon Mulhoe",
+    "naver_search_query": "강릉 사천물회",
     "address_short": "Sacheon-myeon",
     "rating": 3.9,
     "image_url": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400",
@@ -1082,20 +1203,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Sacheon Mulhoe",
+    "name_ko": "사천물회"
   },
   {
     "id": "42",
-    "name": "Gim Seon Saeng Hoetjip",
+    "name": "김선생횟집",
     "category_main": "food",
     "category_sub": "Sashimi",
     "tags": [
       "#food",
       "#Sashimi",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#김선생횟집"
     ],
-    "naver_search_query": "강릉 Gim Seon Saeng Hoetjip",
+    "naver_search_query": "강릉 김선생횟집",
     "address_short": "Gyeongpo",
     "rating": 3.8,
     "image_url": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=400",
@@ -1108,20 +1232,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Gim Seon Saeng Hoetjip",
+    "name_ko": "김선생횟집"
   },
   {
     "id": "43",
-    "name": "Gyeongpo Donghae Hoetjip",
+    "name": "경포동해횟집",
     "category_main": "food",
     "category_sub": "Sashimi",
     "tags": [
       "#food",
       "#Sashimi",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#경포동해횟집"
     ],
-    "naver_search_query": "강릉 Gyeongpo Donghae Hoetjip",
+    "naver_search_query": "강릉 경포동해횟집",
     "address_short": "Gyeongpo",
     "rating": 3.9,
     "image_url": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=400",
@@ -1134,20 +1261,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Gyeongpo Donghae Hoetjip",
+    "name_ko": "경포동해횟집"
   },
   {
     "id": "44",
-    "name": "Busan Cheo Nyeo Hoetjip",
+    "name": "부산처녀횟집",
     "category_main": "food",
     "category_sub": "Sashimi",
     "tags": [
       "#food",
       "#Sashimi",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#부산처녀횟집"
     ],
-    "naver_search_query": "강릉 Busan Cheo Nyeo Hoetjip",
+    "naver_search_query": "강릉 부산처녀횟집",
     "address_short": "Gyeongpo",
     "rating": 3.7,
     "image_url": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?w=400",
@@ -1160,20 +1290,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Busan Cheo Nyeo Hoetjip",
+    "name_ko": "부산처녀횟집"
   },
   {
     "id": "45",
-    "name": "Yeongdeok Daegu Meori",
+    "name": "영덕대구머리",
     "category_main": "food",
     "category_sub": "Fish Head Stew",
     "tags": [
       "#food",
       "#FishHeadStew",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#영덕대구머리"
     ],
-    "naver_search_query": "강릉 Yeongdeok Daegu Meori",
+    "naver_search_query": "강릉 영덕대구머리",
     "address_short": "Seongsan-myeon",
     "rating": 4.2,
     "image_url": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=400",
@@ -1186,20 +1319,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Yeongdeok Daegu Meori",
+    "name_ko": "영덕대구머리"
   },
   {
     "id": "46",
-    "name": "Yet Kael Guksu",
+    "name": "옛카네",
     "category_main": "food",
     "category_sub": "Kalguksu",
     "tags": [
       "#food",
       "#Kalguksu",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#옛카네"
     ],
-    "naver_search_query": "강릉 Yet Kael Guksu",
+    "naver_search_query": "강릉 옛카네",
     "address_short": "Seongsan-myeon",
     "rating": 4.1,
     "image_url": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=400",
@@ -1212,20 +1348,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Yet Kael Guksu",
+    "name_ko": "옛카네"
   },
   {
     "id": "47",
-    "name": "Seongsan Meokgeori",
+    "name": "성산먹거리",
     "category_main": "food",
     "category_sub": "Korean",
     "tags": [
       "#food",
       "#Korean",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#성산먹거리"
     ],
-    "naver_search_query": "강릉 Seongsan Meokgeori",
+    "naver_search_query": "강릉 성산먹거리",
     "address_short": "Seongsan-myeon",
     "rating": 4.0,
     "image_url": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=400",
@@ -1238,20 +1377,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Seongsan Meokgeori",
+    "name_ko": "성산먹거리"
   },
   {
     "id": "48",
-    "name": "Daegwallyeong Yetgil",
+    "name": "대관령옛길",
     "category_main": "food",
     "category_sub": "Korean",
     "tags": [
       "#food",
       "#Korean",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#대관령옛길"
     ],
-    "naver_search_query": "강릉 Daegwallyeong Yetgil",
+    "naver_search_query": "강릉 대관령옛길",
     "address_short": "Seongsan-myeon",
     "rating": 4.3,
     "image_url": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400",
@@ -1264,20 +1406,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Daegwallyeong Yetgil",
+    "name_ko": "대관령옛길"
   },
   {
     "id": "49",
-    "name": "Gangneung Bulgogi",
+    "name": "강릉불고기",
     "category_main": "food",
     "category_sub": "Bulgogi",
     "tags": [
       "#food",
       "#Bulgogi",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#강릉불고기"
     ],
-    "naver_search_query": "강릉 Gangneung Bulgogi",
+    "naver_search_query": "강릉 강릉불고기",
     "address_short": "Chodang-dong",
     "rating": 4.1,
     "image_url": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=400",
@@ -1290,20 +1435,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Gangneung Bulgogi",
+    "name_ko": "강릉불고기"
   },
   {
     "id": "50",
-    "name": "Pungnyeon Galbi",
+    "name": "풍년갈비",
     "category_main": "food",
     "category_sub": "Galbi",
     "tags": [
       "#food",
       "#Galbi",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#풍년갈비"
     ],
-    "naver_search_query": "강릉 Pungnyeon Galbi",
+    "naver_search_query": "강릉 풍년갈비",
     "address_short": "Chodang-dong",
     "rating": 4.2,
     "image_url": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400",
@@ -1316,20 +1464,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Pungnyeon Galbi",
+    "name_ko": "풍년갈비"
   },
   {
     "id": "51",
-    "name": "Taebaek San Maek",
+    "name": "태백산맥",
     "category_main": "food",
     "category_sub": "Korean BBQ",
     "tags": [
       "#food",
       "#KoreanBBQ",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#태백산맥"
     ],
-    "naver_search_query": "강릉 Taebaek San Maek",
+    "naver_search_query": "강릉 태백산맥",
     "address_short": "Gyodong",
     "rating": 4.0,
     "image_url": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=400",
@@ -1342,20 +1493,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Taebaek San Maek",
+    "name_ko": "태백산맥"
   },
   {
     "id": "52",
-    "name": "Dokdo Ne Kko",
+    "name": "독도네",
     "category_main": "food",
     "category_sub": "Seafood",
     "tags": [
       "#food",
       "#Seafood",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#독도네"
     ],
-    "naver_search_query": "강릉 Dokdo Ne Kko",
+    "naver_search_query": "강릉 독도네",
     "address_short": "Okcheon-dong",
     "rating": 4.4,
     "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=400",
@@ -1368,20 +1522,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Dokdo Ne Kko",
+    "name_ko": "독도네"
   },
   {
     "id": "53",
-    "name": "Gangneung Galbi Jjim",
+    "name": "강릉갈비찜",
     "category_main": "food",
     "category_sub": "Galbi Jjim",
     "tags": [
       "#food",
       "#GalbiJjim",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#강릉갈비찜"
     ],
-    "naver_search_query": "강릉 Gangneung Galbi Jjim",
+    "naver_search_query": "강릉 강릉갈비찜",
     "address_short": "Gyodong",
     "rating": 4.1,
     "image_url": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400",
@@ -1394,20 +1551,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Gangneung Galbi Jjim",
+    "name_ko": "강릉갈비찜"
   },
   {
     "id": "54",
-    "name": "Meat Culture",
+    "name": "미트컬쳐",
     "category_main": "food",
     "category_sub": "Western",
     "tags": [
       "#food",
       "#Western",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#미트컬쳐"
     ],
-    "naver_search_query": "강릉 Meat Culture",
+    "naver_search_query": "강릉 미트컬쳐",
     "address_short": "Anmok",
     "rating": 4.7,
     "image_url": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=400",
@@ -1420,20 +1580,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Meat Culture",
+    "name_ko": "미트컬쳐"
   },
   {
     "id": "55",
-    "name": "Under the Sea",
+    "name": "언더더씨",
     "category_main": "food",
     "category_sub": "Pasta",
     "tags": [
       "#food",
       "#Pasta",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#언더더씨"
     ],
-    "naver_search_query": "강릉 Under the Sea",
+    "naver_search_query": "강릉 언더더씨",
     "address_short": "Gyeongpo",
     "rating": 4.6,
     "image_url": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=400",
@@ -1446,20 +1609,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Under the Sea",
+    "name_ko": "언더더씨"
   },
   {
     "id": "56",
-    "name": "Imone Saengseon Jjim",
+    "name": "이모네생선찜",
     "category_main": "food",
     "category_sub": "Braised Fish",
     "tags": [
       "#food",
       "#BraisedFish",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#이모네생선찜"
     ],
-    "naver_search_query": "강릉 Imone Saengseon Jjim",
+    "naver_search_query": "강릉 이모네생선찜",
     "address_short": "Gyodong",
     "rating": 4.3,
     "image_url": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400",
@@ -1472,20 +1638,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Imone Saengseon Jjim",
+    "name_ko": "이모네생선찜"
   },
   {
     "id": "57",
-    "name": "Wolseong Sikdang",
+    "name": "월성식당",
     "category_main": "food",
     "category_sub": "Braised Fish",
     "tags": [
       "#food",
       "#BraisedFish",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#월성식당"
     ],
-    "naver_search_query": "강릉 Wolseong Sikdang",
+    "naver_search_query": "강릉 월성식당",
     "address_short": "Jumunjin",
     "rating": 4.1,
     "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=400",
@@ -1498,20 +1667,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Wolseong Sikdang",
+    "name_ko": "월성식당"
   },
   {
     "id": "58",
-    "name": "Silbi Saengseon Gui",
+    "name": "실비생선구이",
     "category_main": "food",
     "category_sub": "Grilled Fish",
     "tags": [
       "#food",
       "#GrilledFish",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#실비생선구이"
     ],
-    "naver_search_query": "강릉 Silbi Saengseon Gui",
+    "naver_search_query": "강릉 실비생선구이",
     "address_short": "Jumunjin",
     "rating": 4.2,
     "image_url": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?w=400",
@@ -1524,20 +1696,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Silbi Saengseon Gui",
+    "name_ko": "실비생선구이"
   },
   {
     "id": "59",
-    "name": "Gu I Bonbu",
+    "name": "구이본부",
     "category_main": "food",
     "category_sub": "Grilled Fish",
     "tags": [
       "#food",
       "#GrilledFish",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#구이본부"
     ],
-    "naver_search_query": "강릉 Gu I Bonbu",
+    "naver_search_query": "강릉 구이본부",
     "address_short": "Jumunjin",
     "rating": 4.0,
     "image_url": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=400",
@@ -1550,20 +1725,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Gu I Bonbu",
+    "name_ko": "구이본부"
   },
   {
     "id": "60",
-    "name": "Jumunjin Makguksu",
+    "name": "주문진막국수",
     "category_main": "food",
     "category_sub": "Makguksu",
     "tags": [
       "#food",
       "#Makguksu",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#주문진막국수"
     ],
-    "naver_search_query": "강릉 Jumunjin Makguksu",
+    "naver_search_query": "강릉 주문진막국수",
     "address_short": "Jumunjin",
     "rating": 4.1,
     "image_url": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400",
@@ -1576,20 +1754,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Jumunjin Makguksu",
+    "name_ko": "주문진막국수"
   },
   {
     "id": "61",
-    "name": "Daedong Myeonok",
+    "name": "대동면옥",
     "category_main": "food",
     "category_sub": "Makguksu",
     "tags": [
       "#food",
       "#Makguksu",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#대동면옥"
     ],
-    "naver_search_query": "강릉 Daedong Myeonok",
+    "naver_search_query": "강릉 대동면옥",
     "address_short": "Jumunjin",
     "rating": 4.3,
     "image_url": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400",
@@ -1602,20 +1783,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Daedong Myeonok",
+    "name_ko": "대동면옥"
   },
   {
     "id": "62",
-    "name": "Samgyori Dongchimi Makguksu",
+    "name": "삼교리동치미막국수",
     "category_main": "food",
     "category_sub": "Makguksu",
     "tags": [
       "#food",
       "#Makguksu",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#삼교리동치미막국수"
     ],
-    "naver_search_query": "강릉 Samgyori Dongchimi Makguksu",
+    "naver_search_query": "강릉 삼교리동치미막국수",
     "address_short": "Jumunjin",
     "rating": 4.2,
     "image_url": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=400",
@@ -1628,20 +1812,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Samgyori Dongchimi Makguksu",
+    "name_ko": "삼교리동치미막국수"
   },
   {
     "id": "63",
-    "name": "Yeongdong Makguksu",
+    "name": "영동막국수",
     "category_main": "food",
     "category_sub": "Makguksu",
     "tags": [
       "#food",
       "#Makguksu",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#영동막국수"
     ],
-    "naver_search_query": "강릉 Yeongdong Makguksu",
+    "naver_search_query": "강릉 영동막국수",
     "address_short": "Sacheon",
     "rating": 4.0,
     "image_url": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400",
@@ -1654,20 +1841,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Yeongdong Makguksu",
+    "name_ko": "영동막국수"
   },
   {
     "id": "64",
-    "name": "Haedong Makguksu",
+    "name": "해동막국수",
     "category_main": "food",
     "category_sub": "Makguksu",
     "tags": [
       "#food",
       "#Makguksu",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#해동막국수"
     ],
-    "naver_search_query": "강릉 Haedong Makguksu",
+    "naver_search_query": "강릉 해동막국수",
     "address_short": "Sacheon",
     "rating": 3.9,
     "image_url": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=400",
@@ -1680,11 +1870,13 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Haedong Makguksu",
+    "name_ko": "해동막국수"
   },
   {
     "id": "65",
-    "name": "Sinsadong Injeolmi",
+    "name": "신사동인절미",
     "category_main": "cafe",
     "category_sub": "Dessert",
     "tags": [
@@ -1692,9 +1884,10 @@
       "#Dessert",
       "#카페",
       "#강릉카페",
-      "#디저트"
+      "#디저트",
+      "#신사동인절미"
     ],
-    "naver_search_query": "강릉 Sinsadong Injeolmi",
+    "naver_search_query": "강릉 신사동인절미",
     "address_short": "Ponam-dong",
     "rating": 4.5,
     "image_url": "https://images.unsplash.com/photo-1481833761820-0509d3217039?w=400",
@@ -1707,11 +1900,13 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Sinsadong Injeolmi",
+    "name_ko": "신사동인절미"
   },
   {
     "id": "66",
-    "name": "Soon Tofu Gelato No.1",
+    "name": "순두부젤라또 1호점",
     "category_main": "cafe",
     "category_sub": "Gelato",
     "tags": [
@@ -1719,9 +1914,10 @@
       "#Gelato",
       "#카페",
       "#강릉카페",
-      "#디저트"
+      "#디저트",
+      "#순두부젤라또 1호점"
     ],
-    "naver_search_query": "강릉 Soon Tofu Gelato No.1",
+    "naver_search_query": "강릉 순두부젤라또 1호점",
     "address_short": "Chodang-dong",
     "rating": 4.3,
     "image_url": "https://images.unsplash.com/photo-1569096651661-820d0de8b4ab?w=400",
@@ -1734,11 +1930,13 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Soon Tofu Gelato No.1",
+    "name_ko": "순두부젤라또 1호점"
   },
   {
     "id": "67",
-    "name": "Soon Tofu Gelato No.2",
+    "name": "순두부젤라또 2호점",
     "category_main": "cafe",
     "category_sub": "Gelato",
     "tags": [
@@ -1746,9 +1944,10 @@
       "#Gelato",
       "#카페",
       "#강릉카페",
-      "#디저트"
+      "#디저트",
+      "#순두부젤라또 2호점"
     ],
-    "naver_search_query": "강릉 Soon Tofu Gelato No.2",
+    "naver_search_query": "강릉 순두부젤라또 2호점",
     "address_short": "Anmok",
     "rating": 4.4,
     "image_url": "https://images.unsplash.com/photo-1445116572660-236099ec97a0?w=400",
@@ -1761,11 +1960,13 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Soon Tofu Gelato No.2",
+    "name_ko": "순두부젤라또 2호점"
   },
   {
     "id": "68",
-    "name": "Gangneung Coffee Bread",
+    "name": "강릉커피빵",
     "category_main": "cafe",
     "category_sub": "Bakery",
     "tags": [
@@ -1773,9 +1974,10 @@
       "#Bakery",
       "#카페",
       "#강릉카페",
-      "#디저트"
+      "#디저트",
+      "#강릉커피빵"
     ],
-    "naver_search_query": "강릉 Gangneung Coffee Bread",
+    "naver_search_query": "강릉 강릉커피빵",
     "address_short": "Anmok",
     "rating": 3.8,
     "image_url": "https://images.unsplash.com/photo-1556742393-d75f468bfcb0?w=400",
@@ -1788,11 +1990,13 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Gangneung Coffee Bread",
+    "name_ko": "강릉커피빵"
   },
   {
     "id": "69",
-    "name": "Pangpaemiyu",
+    "name": "팡파미유",
     "category_main": "cafe",
     "category_sub": "Bakery",
     "tags": [
@@ -1800,9 +2004,10 @@
       "#Bakery",
       "#카페",
       "#강릉카페",
-      "#디저트"
+      "#디저트",
+      "#팡파미유"
     ],
-    "naver_search_query": "강릉 Pangpaemiyu",
+    "naver_search_query": "강릉 팡파미유",
     "address_short": "Jumunjin",
     "rating": 4.2,
     "image_url": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=400",
@@ -1815,11 +2020,13 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Pangpaemiyu",
+    "name_ko": "팡파미유"
   },
   {
     "id": "70",
-    "name": "Man Dong Jegwa",
+    "name": "만동제과",
     "category_main": "cafe",
     "category_sub": "Garlic Bread",
     "tags": [
@@ -1827,9 +2034,10 @@
       "#GarlicBread",
       "#카페",
       "#강릉카페",
-      "#디저트"
+      "#디저트",
+      "#만동제과"
     ],
-    "naver_search_query": "강릉 Man Dong Jegwa",
+    "naver_search_query": "강릉 만동제과",
     "address_short": "Jungang Market",
     "rating": 4.4,
     "image_url": "https://images.unsplash.com/photo-1556742393-d75f468bfcb0?w=400",
@@ -1842,20 +2050,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Man Dong Jegwa",
+    "name_ko": "만동제과"
   },
   {
     "id": "71",
-    "name": "Jungang Dakgangjeong",
+    "name": "중앙닭강정",
     "category_main": "food",
     "category_sub": "Chicken",
     "tags": [
       "#food",
       "#Chicken",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#중앙닭강정"
     ],
-    "naver_search_query": "강릉 Jungang Dakgangjeong",
+    "naver_search_query": "강릉 중앙닭강정",
     "address_short": "Jungang Market",
     "rating": 4.0,
     "image_url": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=400",
@@ -1868,20 +2079,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Jungang Dakgangjeong",
+    "name_ko": "중앙닭강정"
   },
   {
     "id": "72",
-    "name": "Baeni Dakgangjeong",
+    "name": "배니닭강정",
     "category_main": "food",
     "category_sub": "Chicken",
     "tags": [
       "#food",
       "#Chicken",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#배니닭강정"
     ],
-    "naver_search_query": "강릉 Baeni Dakgangjeong",
+    "naver_search_query": "강릉 배니닭강정",
     "address_short": "Jungang Market",
     "rating": 3.8,
     "image_url": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400",
@@ -1894,20 +2108,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Baeni Dakgangjeong",
+    "name_ko": "배니닭강정"
   },
   {
     "id": "73",
-    "name": "Myung Sung Dakgangjeong",
+    "name": "명성닭강정",
     "category_main": "food",
     "category_sub": "Chicken",
     "tags": [
       "#food",
       "#Chicken",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#명성닭강정"
     ],
-    "naver_search_query": "강릉 Myung Sung Dakgangjeong",
+    "naver_search_query": "강릉 명성닭강정",
     "address_short": "Jungang Market",
     "rating": 4.1,
     "image_url": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400",
@@ -1920,20 +2137,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Myung Sung Dakgangjeong",
+    "name_ko": "명성닭강정"
   },
   {
     "id": "74",
-    "name": "Moja Hotteok",
+    "name": "모자호떡",
     "category_main": "food",
     "category_sub": "Snack",
     "tags": [
       "#food",
       "#Snack",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#모자호떡"
     ],
-    "naver_search_query": "강릉 Moja Hotteok",
+    "naver_search_query": "강릉 모자호떡",
     "address_short": "Jungang Market",
     "rating": 4.3,
     "image_url": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=400",
@@ -1946,20 +2166,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Moja Hotteok",
+    "name_ko": "모자호떡"
   },
   {
     "id": "75",
-    "name": "Nolal Hotteok",
+    "name": "놀랄호떡",
     "category_main": "food",
     "category_sub": "Snack",
     "tags": [
       "#food",
       "#Snack",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#놀랄호떡"
     ],
-    "naver_search_query": "강릉 Nolal Hotteok",
+    "naver_search_query": "강릉 놀랄호떡",
     "address_short": "Jungang Market",
     "rating": 4.5,
     "image_url": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400",
@@ -1972,11 +2195,13 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Nolal Hotteok",
+    "name_ko": "놀랄호떡"
   },
   {
     "id": "76",
-    "name": "Gangneung Sand",
+    "name": "강릉샌드",
     "category_main": "cafe",
     "category_sub": "Dessert",
     "tags": [
@@ -1984,9 +2209,10 @@
       "#Dessert",
       "#카페",
       "#강릉카페",
-      "#디저트"
+      "#디저트",
+      "#강릉샌드"
     ],
-    "naver_search_query": "강릉 Gangneung Sand",
+    "naver_search_query": "강릉 강릉샌드",
     "address_short": "Jungang Market",
     "rating": 4.2,
     "image_url": "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?w=400",
@@ -1999,20 +2225,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Gangneung Sand",
+    "name_ko": "강릉샌드"
   },
   {
     "id": "77",
-    "name": "Yeowang Gae",
+    "name": "여왕개",
     "category_main": "food",
     "category_sub": "Crab",
     "tags": [
       "#food",
       "#Crab",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#여왕개"
     ],
-    "naver_search_query": "강릉 Yeowang Gae",
+    "naver_search_query": "강릉 여왕개",
     "address_short": "Jumunjin",
     "rating": 3.9,
     "image_url": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400",
@@ -2025,20 +2254,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Yeowang Gae",
+    "name_ko": "여왕개"
   },
   {
     "id": "78",
-    "name": "Choego Hoetjip",
+    "name": "최고횟집",
     "category_main": "food",
     "category_sub": "Sashimi",
     "tags": [
       "#food",
       "#Sashimi",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#최고횟집"
     ],
-    "naver_search_query": "강릉 Choego Hoetjip",
+    "naver_search_query": "강릉 최고횟집",
     "address_short": "Jumunjin",
     "rating": 3.8,
     "image_url": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=400",
@@ -2051,20 +2283,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Choego Hoetjip",
+    "name_ko": "최고횟집"
   },
   {
     "id": "79",
-    "name": "Jumunjin Susansijang",
+    "name": "주문진수산시장",
     "category_main": "food",
     "category_sub": "Market",
     "tags": [
       "#food",
       "#Market",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#주문진수산시장"
     ],
-    "naver_search_query": "강릉 Jumunjin Susansijang",
+    "naver_search_query": "강릉 주문진수산시장",
     "address_short": "Jumunjin",
     "rating": 4.0,
     "image_url": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400",
@@ -2077,20 +2312,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Jumunjin Susansijang",
+    "name_ko": "주문진수산시장"
   },
   {
     "id": "80",
-    "name": "Anmok Haemul 1beonji",
+    "name": "안목해물1번지",
     "category_main": "food",
     "category_sub": "Seafood",
     "tags": [
       "#food",
       "#Seafood",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#안목해물1번지"
     ],
-    "naver_search_query": "강릉 Anmok Haemul 1beonji",
+    "naver_search_query": "강릉 안목해물1번지",
     "address_short": "Anmok",
     "rating": 3.7,
     "image_url": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=400",
@@ -2103,20 +2341,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Anmok Haemul 1beonji",
+    "name_ko": "안목해물1번지"
   },
   {
     "id": "81",
-    "name": "Yeolhae",
+    "name": "열해",
     "category_main": "food",
     "category_sub": "Seafood",
     "tags": [
       "#food",
       "#Seafood",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#열해"
     ],
-    "naver_search_query": "강릉 Yeolhae",
+    "naver_search_query": "강릉 열해",
     "address_short": "Anmok",
     "rating": 3.8,
     "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=400",
@@ -2129,20 +2370,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Yeolhae",
+    "name_ko": "열해"
   },
   {
     "id": "82",
-    "name": "Meorissudal",
+    "name": "머리스수달",
     "category_main": "food",
     "category_sub": "Seafood",
     "tags": [
       "#food",
       "#Seafood",
       "#맛집",
-      "#강릉맛집"
+      "#강릉맛집",
+      "#머리스수달"
     ],
-    "naver_search_query": "강릉 Meorissudal",
+    "naver_search_query": "강릉 머리스수달",
     "address_short": "Anmok",
     "rating": 4.0,
     "image_url": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?w=400",
@@ -2155,20 +2399,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Meorissudal",
+    "name_ko": "머리스수달"
   },
   {
     "id": "83",
-    "name": "Gyeongpodae Pavilion",
+    "name": "경포대",
     "category_main": "activity",
     "category_sub": "History",
     "tags": [
       "#activity",
       "#History",
       "#여행",
-      "#가볼만한곳"
+      "#가볼만한곳",
+      "#경포대"
     ],
-    "naver_search_query": "강릉 Gyeongpodae Pavilion",
+    "naver_search_query": "강릉 경포대",
     "address_short": "Gyeongpo",
     "rating": 4.6,
     "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=400",
@@ -2181,20 +2428,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Gyeongpodae Pavilion",
+    "name_ko": "경포대"
   },
   {
     "id": "84",
-    "name": "Ojukheon",
+    "name": "오죽헌",
     "category_main": "activity",
     "category_sub": "History",
     "tags": [
       "#activity",
       "#History",
       "#여행",
-      "#가볼만한곳"
+      "#가볼만한곳",
+      "#오죽헌"
     ],
-    "naver_search_query": "강릉 Ojukheon",
+    "naver_search_query": "강릉 오죽헌",
     "address_short": "Jukheon-dong",
     "rating": 4.5,
     "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=400",
@@ -2207,20 +2457,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Ojukheon",
+    "name_ko": "오죽헌"
   },
   {
     "id": "85",
-    "name": "Seongyojang",
+    "name": "선교장",
     "category_main": "activity",
     "category_sub": "History",
     "tags": [
       "#activity",
       "#History",
       "#여행",
-      "#가볼만한곳"
+      "#가볼만한곳",
+      "#선교장"
     ],
-    "naver_search_query": "강릉 Seongyojang",
+    "naver_search_query": "강릉 선교장",
     "address_short": "Unjeong-dong",
     "rating": 4.4,
     "image_url": "https://images.unsplash.com/photo-1480480565647-1c4385c7c0bf?w=400",
@@ -2233,20 +2486,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Seongyojang",
+    "name_ko": "선교장"
   },
   {
     "id": "86",
-    "name": "Haslla Art World",
+    "name": "하슬라아트월드",
     "category_main": "activity",
     "category_sub": "Art",
     "tags": [
       "#activity",
       "#Art",
       "#여행",
-      "#가볼만한곳"
+      "#가볼만한곳",
+      "#하슬라아트월드"
     ],
-    "naver_search_query": "강릉 Haslla Art World",
+    "naver_search_query": "강릉 하슬라아트월드",
     "address_short": "Gangdong-myeon",
     "rating": 4.6,
     "image_url": "https://images.unsplash.com/photo-1523582407565-efee5cf4a353?w=400",
@@ -2259,20 +2515,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Haslla Art World",
+    "name_ko": "하슬라아트월드"
   },
   {
     "id": "87",
-    "name": "Arte Museum Gangneung",
+    "name": "아르떼뮤지엄 강릉",
     "category_main": "activity",
     "category_sub": "Art",
     "tags": [
       "#activity",
       "#Art",
       "#여행",
-      "#가볼만한곳"
+      "#가볼만한곳",
+      "#아르떼뮤지엄 강릉"
     ],
-    "naver_search_query": "강릉 Arte Museum Gangneung",
+    "naver_search_query": "강릉 아르떼뮤지엄 강릉",
     "address_short": "Chodang-dong",
     "rating": 4.7,
     "image_url": "https://images.unsplash.com/photo-1480480565647-1c4385c7c0bf?w=400",
@@ -2285,20 +2544,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Arte Museum Gangneung",
+    "name_ko": "아르떼뮤지엄 강릉"
   },
   {
     "id": "88",
-    "name": "Jeongdongjin Station",
+    "name": "정동진역",
     "category_main": "activity",
     "category_sub": "Landmark",
     "tags": [
       "#activity",
       "#Landmark",
       "#여행",
-      "#가볼만한곳"
+      "#가볼만한곳",
+      "#정동진역"
     ],
-    "naver_search_query": "강릉 Jeongdongjin Station",
+    "naver_search_query": "강릉 정동진역",
     "address_short": "Jeongdongjin",
     "rating": 4.3,
     "image_url": "https://images.unsplash.com/photo-1635702961175-f6949dded992?w=400",
@@ -2311,20 +2573,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Jeongdongjin Station",
+    "name_ko": "정동진역"
   },
   {
     "id": "89",
-    "name": "Sandglass Park",
+    "name": "모래시계공원",
     "category_main": "activity",
     "category_sub": "Park",
     "tags": [
       "#activity",
       "#Park",
       "#여행",
-      "#가볼만한곳"
+      "#가볼만한곳",
+      "#모래시계공원"
     ],
-    "naver_search_query": "강릉 Sandglass Park",
+    "naver_search_query": "강릉 모래시계공원",
     "address_short": "Jeongdongjin",
     "rating": 4.1,
     "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=400",
@@ -2337,20 +2602,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Sandglass Park",
+    "name_ko": "모래시계공원"
   },
   {
     "id": "90",
-    "name": "Jeongdongjin Rail Bike",
+    "name": "정동진 레일바이크",
     "category_main": "activity",
     "category_sub": "Activity",
     "tags": [
       "#activity",
       "#Activity",
       "#여행",
-      "#가볼만한곳"
+      "#가볼만한곳",
+      "#정동진 레일바이크"
     ],
-    "naver_search_query": "강릉 Jeongdongjin Rail Bike",
+    "naver_search_query": "강릉 정동진 레일바이크",
     "address_short": "Jeongdongjin",
     "rating": 4.2,
     "image_url": "https://images.unsplash.com/photo-1635702961175-f6949dded992?w=400",
@@ -2363,20 +2631,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Jeongdongjin Rail Bike",
+    "name_ko": "정동진 레일바이크"
   },
   {
     "id": "91",
-    "name": "Sun Cruise Resort Park",
+    "name": "썬크루즈 리조트 공원",
     "category_main": "activity",
     "category_sub": "Landmark",
     "tags": [
       "#activity",
       "#Landmark",
       "#여행",
-      "#가볼만한곳"
+      "#가볼만한곳",
+      "#썬크루즈 리조트 공원"
     ],
-    "naver_search_query": "강릉 Sun Cruise Resort Park",
+    "naver_search_query": "강릉 썬크루즈 리조트 공원",
     "address_short": "Jeongdongjin",
     "rating": 4.4,
     "image_url": "https://images.unsplash.com/photo-1635702961175-f6949dded992?w=400",
@@ -2389,20 +2660,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Sun Cruise Resort Park",
+    "name_ko": "썬크루즈 리조트 공원"
   },
   {
     "id": "92",
-    "name": "Badabuchaegil",
+    "name": "정동심곡바다부채길",
     "category_main": "activity",
     "category_sub": "Hiking",
     "tags": [
       "#activity",
       "#Hiking",
       "#여행",
-      "#가볼만한곳"
+      "#가볼만한곳",
+      "#정동심곡바다부채길"
     ],
-    "naver_search_query": "강릉 Badabuchaegil",
+    "naver_search_query": "강릉 정동심곡바다부채길",
     "address_short": "Jeongdongjin",
     "rating": 4.5,
     "image_url": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400",
@@ -2415,20 +2689,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Badabuchaegil",
+    "name_ko": "정동심곡바다부채길"
   },
   {
     "id": "93",
-    "name": "Anmok Beach",
+    "name": "안목해변",
     "category_main": "activity",
     "category_sub": "Beach",
     "tags": [
       "#activity",
       "#Beach",
       "#여행",
-      "#가볼만한곳"
+      "#가볼만한곳",
+      "#안목해변"
     ],
-    "naver_search_query": "강릉 Anmok Beach",
+    "naver_search_query": "강릉 안목해변",
     "address_short": "Anmok",
     "rating": 4.4,
     "image_url": "https://images.unsplash.com/photo-1540539234-c14a20fb7c7b?w=400",
@@ -2441,20 +2718,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Anmok Beach",
+    "name_ko": "안목해변"
   },
   {
     "id": "94",
-    "name": "Gangmun Beach",
+    "name": "강문해변",
     "category_main": "activity",
     "category_sub": "Beach",
     "tags": [
       "#activity",
       "#Beach",
       "#여행",
-      "#가볼만한곳"
+      "#가볼만한곳",
+      "#강문해변"
     ],
-    "naver_search_query": "강릉 Gangmun Beach",
+    "naver_search_query": "강릉 강문해변",
     "address_short": "Gangmun",
     "rating": 4.5,
     "image_url": "https://images.unsplash.com/photo-1525875098832-46c7d9d0794e?w=400",
@@ -2467,20 +2747,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Gangmun Beach",
+    "name_ko": "강문해변"
   },
   {
     "id": "95",
-    "name": "Gyeongpo Beach",
+    "name": "경포해변",
     "category_main": "activity",
     "category_sub": "Beach",
     "tags": [
       "#activity",
       "#Beach",
       "#여행",
-      "#가볼만한곳"
+      "#가볼만한곳",
+      "#경포해변"
     ],
-    "naver_search_query": "강릉 Gyeongpo Beach",
+    "naver_search_query": "강릉 경포해변",
     "address_short": "Gyeongpo",
     "rating": 4.5,
     "image_url": "https://images.unsplash.com/photo-1635702961175-f6949dded992?w=400",
@@ -2493,20 +2776,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Gyeongpo Beach",
+    "name_ko": "경포해변"
   },
   {
     "id": "96",
-    "name": "Sacheon Beach",
+    "name": "사천해변",
     "category_main": "activity",
     "category_sub": "Beach",
     "tags": [
       "#activity",
       "#Beach",
       "#여행",
-      "#가볼만한곳"
+      "#가볼만한곳",
+      "#사천해변"
     ],
-    "naver_search_query": "강릉 Sacheon Beach",
+    "naver_search_query": "강릉 사천해변",
     "address_short": "Sacheon",
     "rating": 4.4,
     "image_url": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400",
@@ -2519,20 +2805,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Sacheon Beach",
+    "name_ko": "사천해변"
   },
   {
     "id": "97",
-    "name": "Yeongjin Beach",
+    "name": "영진해변",
     "category_main": "activity",
     "category_sub": "Beach",
     "tags": [
       "#activity",
       "#Beach",
       "#여행",
-      "#가볼만한곳"
+      "#가볼만한곳",
+      "#영진해변"
     ],
-    "naver_search_query": "강릉 Yeongjin Beach",
+    "naver_search_query": "강릉 영진해변",
     "address_short": "Yeongjin",
     "rating": 4.3,
     "image_url": "https://images.unsplash.com/photo-1480480565647-1c4385c7c0bf?w=400",
@@ -2545,20 +2834,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Yeongjin Beach",
+    "name_ko": "영진해변"
   },
   {
     "id": "98",
-    "name": "Jumunjin Beach",
+    "name": "주문진해변",
     "category_main": "activity",
     "category_sub": "Beach",
     "tags": [
       "#activity",
       "#Beach",
       "#여행",
-      "#가볼만한곳"
+      "#가볼만한곳",
+      "#주문진해변"
     ],
-    "naver_search_query": "강릉 Jumunjin Beach",
+    "naver_search_query": "강릉 주문진해변",
     "address_short": "Jumunjin",
     "rating": 4.3,
     "image_url": "https://images.unsplash.com/photo-1523582407565-efee5cf4a353?w=400",
@@ -2571,20 +2863,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Jumunjin Beach",
+    "name_ko": "주문진해변"
   },
   {
     "id": "99",
-    "name": "Sodeul Adeul Bawi Park",
+    "name": "소돌아들바위공원",
     "category_main": "activity",
     "category_sub": "Park",
     "tags": [
       "#activity",
       "#Park",
       "#여행",
-      "#가볼만한곳"
+      "#가볼만한곳",
+      "#소돌아들바위공원"
     ],
-    "naver_search_query": "강릉 Sodeul Adeul Bawi Park",
+    "naver_search_query": "강릉 소돌아들바위공원",
     "address_short": "Jumunjin",
     "rating": 4.2,
     "image_url": "https://images.unsplash.com/photo-1480480565647-1c4385c7c0bf?w=400",
@@ -2597,20 +2892,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Sodeul Adeul Bawi Park",
+    "name_ko": "소돌아들바위공원"
   },
   {
     "id": "100",
-    "name": "Adeul Bawi",
+    "name": "아들바위",
     "category_main": "activity",
     "category_sub": "Rock",
     "tags": [
       "#activity",
       "#Rock",
       "#여행",
-      "#가볼만한곳"
+      "#가볼만한곳",
+      "#아들바위"
     ],
-    "naver_search_query": "강릉 Adeul Bawi",
+    "naver_search_query": "강릉 아들바위",
     "address_short": "Jumunjin",
     "rating": 4.1,
     "image_url": "https://images.unsplash.com/photo-1540539234-c14a20fb7c7b?w=400",
@@ -2623,20 +2921,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Adeul Bawi",
+    "name_ko": "아들바위"
   },
   {
     "id": "101",
-    "name": "BTS Bus Stop",
+    "name": "BTS 버스정류장",
     "category_main": "activity",
     "category_sub": "Photo Spot",
     "tags": [
       "#activity",
       "#PhotoSpot",
       "#여행",
-      "#가볼만한곳"
+      "#가볼만한곳",
+      "#BTS 버스정류장"
     ],
-    "naver_search_query": "강릉 BTS Bus Stop",
+    "naver_search_query": "강릉 BTS 버스정류장",
     "address_short": "Jumunjin",
     "rating": 4.6,
     "image_url": "https://images.unsplash.com/photo-1540539234-c14a20fb7c7b?w=400",
@@ -2649,20 +2950,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "BTS Bus Stop",
+    "name_ko": "BTS 버스정류장"
   },
   {
     "id": "102",
-    "name": "Goblin Filming Location",
+    "name": "도깨비 촬영지",
     "category_main": "activity",
     "category_sub": "Photo Spot",
     "tags": [
       "#activity",
       "#PhotoSpot",
       "#여행",
-      "#가볼만한곳"
+      "#가볼만한곳",
+      "#도깨비 촬영지"
     ],
-    "naver_search_query": "강릉 Goblin Filming Location",
+    "naver_search_query": "강릉 도깨비 촬영지",
     "address_short": "Yeongjin",
     "rating": 4.5,
     "image_url": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400",
@@ -2675,20 +2979,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Goblin Filming Location",
+    "name_ko": "도깨비 촬영지"
   },
   {
     "id": "103",
-    "name": "Heo Gyun Heo Nanseolheon Memorial Park",
+    "name": "허균허난설헌기념공원",
     "category_main": "activity",
     "category_sub": "History",
     "tags": [
       "#activity",
       "#History",
       "#여행",
-      "#가볼만한곳"
+      "#가볼만한곳",
+      "#허균허난설헌기념공원"
     ],
-    "naver_search_query": "강릉 Heo Gyun Heo Nanseolheon Memorial Park",
+    "naver_search_query": "강릉 허균허난설헌기념공원",
     "address_short": "Chodang-dong",
     "rating": 4.3,
     "image_url": "https://images.unsplash.com/photo-1635702961175-f6949dded992?w=400",
@@ -2701,20 +3008,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Heo Gyun Heo Nanseolheon Memorial Park",
+    "name_ko": "허균허난설헌기념공원"
   },
   {
     "id": "104",
-    "name": "Gangneung Olympic Park",
+    "name": "강릉올림픽파크",
     "category_main": "activity",
     "category_sub": "Sports",
     "tags": [
       "#activity",
       "#Sports",
       "#여행",
-      "#가볼만한곳"
+      "#가볼만한곳",
+      "#강릉올림픽파크"
     ],
-    "naver_search_query": "강릉 Gangneung Olympic Park",
+    "naver_search_query": "강릉 강릉올림픽파크",
     "address_short": "Gyodong",
     "rating": 4.2,
     "image_url": "https://images.unsplash.com/photo-1569965335962-2317ff2a7658?w=400",
@@ -2727,20 +3037,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Gangneung Olympic Park",
+    "name_ko": "강릉올림픽파크"
   },
   {
     "id": "105",
-    "name": "Wolhwa Street",
+    "name": "월화거리",
     "category_main": "activity",
     "category_sub": "Street",
     "tags": [
       "#activity",
       "#Street",
       "#여행",
-      "#가볼만한곳"
+      "#가볼만한곳",
+      "#월화거리"
     ],
-    "naver_search_query": "강릉 Wolhwa Street",
+    "naver_search_query": "강릉 월화거리",
     "address_short": "Jungang-dong",
     "rating": 4.1,
     "image_url": "https://images.unsplash.com/photo-1480480565647-1c4385c7c0bf?w=400",
@@ -2753,20 +3066,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Wolhwa Street",
+    "name_ko": "월화거리"
   },
   {
     "id": "106",
-    "name": "Noam Tunnel",
+    "name": "노암터널",
     "category_main": "activity",
     "category_sub": "Photo Spot",
     "tags": [
       "#activity",
       "#PhotoSpot",
       "#여행",
-      "#가볼만한곳"
+      "#가볼만한곳",
+      "#노암터널"
     ],
-    "naver_search_query": "강릉 Noam Tunnel",
+    "naver_search_query": "강릉 노암터널",
     "address_short": "Noam-dong",
     "rating": 4.0,
     "image_url": "https://images.unsplash.com/photo-1480480565647-1c4385c7c0bf?w=400",
@@ -2779,20 +3095,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Noam Tunnel",
+    "name_ko": "노암터널"
   },
   {
     "id": "107",
-    "name": "Daegwallyeong Sheep Ranch",
+    "name": "대관령양떼목장",
     "category_main": "activity",
     "category_sub": "Nature",
     "tags": [
       "#activity",
       "#Nature",
       "#여행",
-      "#가볼만한곳"
+      "#가볼만한곳",
+      "#대관령양떼목장"
     ],
-    "naver_search_query": "강릉 Daegwallyeong Sheep Ranch",
+    "naver_search_query": "강릉 대관령양떼목장",
     "address_short": "Daegwallyeong",
     "rating": 4.7,
     "image_url": "https://images.unsplash.com/photo-1635702961175-f6949dded992?w=400",
@@ -2805,20 +3124,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Daegwallyeong Sheep Ranch",
+    "name_ko": "대관령양떼목장"
   },
   {
     "id": "108",
-    "name": "Anbandegi",
+    "name": "안반데기",
     "category_main": "activity",
     "category_sub": "Nature",
     "tags": [
       "#activity",
       "#Nature",
       "#여행",
-      "#가볼만한곳"
+      "#가볼만한곳",
+      "#안반데기"
     ],
-    "naver_search_query": "강릉 Anbandegi",
+    "naver_search_query": "강릉 안반데기",
     "address_short": "Wangsan-myeon",
     "rating": 4.6,
     "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=400",
@@ -2831,20 +3153,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Anbandegi",
+    "name_ko": "안반데기"
   },
   {
     "id": "109",
-    "name": "Gangneung Solhyang Arboretum",
+    "name": "강릉솔향수목원",
     "category_main": "activity",
     "category_sub": "Nature",
     "tags": [
       "#activity",
       "#Nature",
       "#여행",
-      "#가볼만한곳"
+      "#가볼만한곳",
+      "#강릉솔향수목원"
     ],
-    "naver_search_query": "강릉 Gangneung Solhyang Arboretum",
+    "naver_search_query": "강릉 강릉솔향수목원",
     "address_short": "Gujeong-myeon",
     "rating": 4.4,
     "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=400",
@@ -2857,20 +3182,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Gangneung Solhyang Arboretum",
+    "name_ko": "강릉솔향수목원"
   },
   {
     "id": "110",
-    "name": "Tongil Park",
+    "name": "통일공원",
     "category_main": "activity",
     "category_sub": "History",
     "tags": [
       "#activity",
       "#History",
       "#여행",
-      "#가볼만한곳"
+      "#가볼만한곳",
+      "#통일공원"
     ],
-    "naver_search_query": "강릉 Tongil Park",
+    "naver_search_query": "강릉 통일공원",
     "address_short": "Gangdong-myeon",
     "rating": 3.9,
     "image_url": "https://images.unsplash.com/photo-1569965335962-2317ff2a7658?w=400",
@@ -2883,20 +3211,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Tongil Park",
+    "name_ko": "통일공원"
   },
   {
     "id": "111",
-    "name": "Pinocchio Art World",
+    "name": "피노키오마리오네트박물관",
     "category_main": "activity",
     "category_sub": "Art",
     "tags": [
       "#activity",
       "#Art",
       "#여행",
-      "#가볼만한곳"
+      "#가볼만한곳",
+      "#피노키오마리오네트박물관"
     ],
-    "naver_search_query": "강릉 Pinocchio Art World",
+    "naver_search_query": "강릉 피노키오마리오네트박물관",
     "address_short": "Gangdong-myeon",
     "rating": 4.1,
     "image_url": "https://images.unsplash.com/photo-1569965335962-2317ff2a7658?w=400",
@@ -2909,20 +3240,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Pinocchio Art World",
+    "name_ko": "피노키오마리오네트박물관"
   },
   {
     "id": "112",
-    "name": "Gangneung Science Museum",
+    "name": "강릉과학산업진흥원",
     "category_main": "activity",
     "category_sub": "Museum",
     "tags": [
       "#activity",
       "#Museum",
       "#여행",
-      "#가볼만한곳"
+      "#가볼만한곳",
+      "#강릉과학산업진흥원"
     ],
-    "naver_search_query": "강릉 Gangneung Science Museum",
+    "naver_search_query": "강릉 강릉과학산업진흥원",
     "address_short": "Daejeon-dong",
     "rating": 4.0,
     "image_url": "https://images.unsplash.com/photo-1523582407565-efee5cf4a353?w=400",
@@ -2935,20 +3269,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Gangneung Science Museum",
+    "name_ko": "강릉과학산업진흥원"
   },
   {
     "id": "113",
-    "name": "Chamsori Gramophone Museum",
+    "name": "참소리축음기에디슨과학박물관",
     "category_main": "activity",
     "category_sub": "Museum",
     "tags": [
       "#activity",
       "#Museum",
       "#여행",
-      "#가볼만한곳"
+      "#가볼만한곳",
+      "#참소리축음기에디슨과학박물관"
     ],
-    "naver_search_query": "강릉 Chamsori Gramophone Museum",
+    "naver_search_query": "강릉 참소리축음기에디슨과학박물관",
     "address_short": "Gyeongpo",
     "rating": 4.2,
     "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=400",
@@ -2961,20 +3298,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Chamsori Gramophone Museum",
+    "name_ko": "참소리축음기에디슨과학박물관"
   },
   {
     "id": "114",
-    "name": "Edision Science Museum",
+    "name": "에디슨과학박물관",
     "category_main": "activity",
     "category_sub": "Museum",
     "tags": [
       "#activity",
       "#Museum",
       "#여행",
-      "#가볼만한곳"
+      "#가볼만한곳",
+      "#에디슨과학박물관"
     ],
-    "naver_search_query": "강릉 Edision Science Museum",
+    "naver_search_query": "강릉 에디슨과학박물관",
     "address_short": "Gyeongpo",
     "rating": 4.2,
     "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=400",
@@ -2987,20 +3327,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Edision Science Museum",
+    "name_ko": "에디슨과학박물관"
   },
   {
     "id": "115",
-    "name": "Sonata of Light",
+    "name": "빛의소나타",
     "category_main": "activity",
     "category_sub": "Art",
     "tags": [
       "#activity",
       "#Art",
       "#여행",
-      "#가볼만한곳"
+      "#가볼만한곳",
+      "#빛의소나타"
     ],
-    "naver_search_query": "강릉 Sonata of Light",
+    "naver_search_query": "강릉 빛의소나타",
     "address_short": "Gyeongpo",
     "rating": 4.0,
     "image_url": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400",
@@ -3013,20 +3356,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Sonata of Light",
+    "name_ko": "빛의소나타"
   },
   {
     "id": "116",
-    "name": "Fantastica",
+    "name": "판타스틱큐",
     "category_main": "activity",
     "category_sub": "Art",
     "tags": [
       "#activity",
       "#Art",
       "#여행",
-      "#가볼만한곳"
+      "#가볼만한곳",
+      "#판타스틱큐"
     ],
-    "naver_search_query": "강릉 Fantastica",
+    "naver_search_query": "강릉 판타스틱큐",
     "address_short": "Gyeongpo",
     "rating": 3.8,
     "image_url": "https://images.unsplash.com/photo-1569965335962-2317ff2a7658?w=400",
@@ -3039,20 +3385,23 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Fantastica",
+    "name_ko": "판타스틱큐"
   },
   {
     "id": "117",
-    "name": "Heo Gyun Memorial Hall",
+    "name": "허균기념관",
     "category_main": "activity",
     "category_sub": "History",
     "tags": [
       "#activity",
       "#History",
       "#여행",
-      "#가볼만한곳"
+      "#가볼만한곳",
+      "#허균기념관"
     ],
-    "naver_search_query": "강릉 Heo Gyun Memorial Hall",
+    "naver_search_query": "강릉 허균기념관",
     "address_short": "Chodang-dong",
     "rating": 4.1,
     "image_url": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400",
@@ -3065,6 +3414,8 @@
     "best_time": [
       "afternoon",
       "evening"
-    ]
+    ],
+    "name_en": "Heo Gyun Memorial Hall",
+    "name_ko": "허균기념관"
   }
 ]

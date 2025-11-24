@@ -39,9 +39,12 @@ export default function SpotCard({ spot }: SpotCardProps) {
       </div>
 
       <div className="p-5">
-        <h3 className="text-xl font-bold text-gray-800 mb-2">{spot.name}</h3>
+        <h3 className="text-xl font-bold text-gray-800 mb-1">{spot.name}</h3>
+        {spot.name_en && spot.name_en !== spot.name && (
+          <p className="text-sm text-gray-500 mb-2">{spot.name_en}</p>
+        )}
 
-        <div className="flex items-center gap-2 mb-3">
+        <div className="flex items-center gap-2 mb-3 mt-2">
           <span className="text-sm text-gray-600 bg-gray-100 px-2 py-1 rounded">
             📍 {spot.address_short}
           </span>
