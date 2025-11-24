@@ -18,8 +18,8 @@
   {
     "id": "food-tour",
     "title": "🍜 강릉 맛집 정복",
-    "description": "순두부부터 막국수까지",
-    "spots": ["1", "14", "13"],
+    "description": "순두부부터 교동짬뽕까지",
+    "spots": ["1", "11", "13"],
     "duration": "하루",
     "distance": "차로 약 40분"
   },
@@ -30,5 +30,13 @@
     "spots": ["3", "2", "9"],
     "duration": "3-4시간",
     "distance": "차로 약 35분"
+  },
+  {
+    "id": "culture-tour",
+    "title": "🎨 예술과 문화 산책",
+    "description": "하슬라 아트월드부터 오죽헌까지",
+    "spots": ["21", "23", "22"],
+    "duration": "반나절",
+    "distance": "차로 약 45분"
   }
 ]
