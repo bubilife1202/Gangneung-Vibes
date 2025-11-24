@@ -2,7 +2,6 @@
 
 import { useState, useMemo, useEffect } from "react";
 import SpotCard from "@/components/SpotCard";
-import ChallengeModal from "@/components/ChallengeModal";
 import RouteCard from "@/components/RouteCard";
 import {
   Spot,
@@ -28,7 +27,6 @@ export default function Home() {
   );
   const [selectedMood, setSelectedMood] = useState<Mood | "all">("all");
   const [searchQuery, setSearchQuery] = useState("");
-  const [showChallenges, setShowChallenges] = useState(false);
   const [showRoutes, setShowRoutes] = useState(false);
 
   // 오늘의 추천 (매일 바뀜)
@@ -119,12 +117,6 @@ export default function Home() {
 
           {/* Quick Actions */}
           <div className="flex gap-2 justify-center flex-wrap">
-            <button
-              onClick={() => setShowChallenges(true)}
-              className="bg-accent hover:bg-accent/90 text-white px-4 py-2 rounded-full font-semibold text-sm transition-all shadow-md"
-            >
-              🏆 챌린지
-            </button>
             <button
               onClick={() => setShowRoutes(!showRoutes)}
               className="bg-white/20 hover:bg-white/30 text-white px-4 py-2 rounded-full font-semibold text-sm transition-all"
@@ -345,10 +337,6 @@ export default function Home() {
         </div>
       </footer>
 
-      {/* Challenge Modal */}
-      {showChallenges && (
-        <ChallengeModal onClose={() => setShowChallenges(false)} />
-      )}
     </div>
   );
 }
