@@ -3,30 +3,40 @@
     "id": "route-1",
     "title": "Classic Food Tour",
     "description": "강릉의 대표 맛집을 돌아보는 코스",
-    "spots": ["1", "4", "11", "41", "42"]
+    "spots": ["1", "4", "11", "41", "42"],
+    "duration": "4시간",
+    "distance": "15km"
   },
   {
     "id": "route-2",
     "title": "Ocean View Cafe Tour",
     "description": "바다를 보며 즐기는 커피 한 잔",
-    "spots": ["2", "3", "6", "12", "54"]
+    "spots": ["2", "3", "6", "12", "54"],
+    "duration": "3시간",
+    "distance": "20km"
   },
   {
     "id": "route-3",
     "title": "Culture & History",
     "description": "강릉의 역사와 예술을 만나는 시간",
-    "spots": ["22", "23", "34", "35", "20"]
+    "spots": ["22", "23", "34", "35", "20"],
+    "duration": "5시간",
+    "distance": "12km"
   },
   {
     "id": "route-4",
     "title": "Hidden Gems",
     "description": "현지인들이 찾는 숨은 명소",
-    "spots": ["19", "24", "49", "51", "55"]
+    "spots": ["19", "24", "49", "51", "55"],
+    "duration": "4시간",
+    "distance": "18km"
   },
   {
     "id": "route-5",
     "title": "Activity & Nature",
     "description": "액티비티와 자연을 동시에",
-    "spots": ["25", "26", "39", "31", "32"]
+    "spots": ["25", "26", "39", "31", "32"],
+    "duration": "6시간",
+    "distance": "30km"
   }
 ]

@@ -1452,237 +1452,206 @@
   },
   {
     "id": "63",
-    "name": "동해 펜션 62",
+    "name": "즐거운 펜션",
     "category_main": "stay",
-    "category_sub": "게스트하우스",
+    "category_sub": "호텔",
     "tags": [
-      "#게스트하우스",
-      "#포남동",
-      "#추천"
+      "#감성숙소",
+      "#오션뷰",
+      "#호텔"
     ],
-    "naver_search_query": "강릉 동해 펜션 62",
-    "address_short": "강문동",
-    "rating": 4.1,
-    "image_url": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?w=400",
+    "naver_search_query": "강릉 즐거운 펜션",
+    "address_short": "안목동",
+    "rating": 3.1,
+    "image_url": "https://images.unsplash.com/photo-1517840901100-8179e982acb7?w=400",
     "is_hot": false,
     "moods": [
-      "friends",
-      "date",
-      "rainy"
+      "solo"
     ],
     "best_time": [
-      "morning",
       "night"
     ]
   },
   {
     "id": "64",
-    "name": "솔향 랜드 63",
+    "name": "강문동 소나무 해변",
     "category_main": "activity",
-    "category_sub": "레저",
+    "category_sub": "공원",
     "tags": [
-      "#레저",
-      "#강문동",
-      "#추천"
+      "#야경",
+      "#드라이브",
+      "#공원",
+      "#송정동"
     ],
-    "naver_search_query": "강릉 솔향 랜드 63",
-    "address_short": "성산면",
-    "rating": 4.3,
-    "image_url": "https://images.unsplash.com/photo-1607962837359-5e7e89f86776?w=400",
-    "is_hot": false,
+    "naver_search_query": "강릉 강문동 소나무 해변",
+    "address_short": "송정동",
+    "rating": 4.4,
+    "image_url": "https://images.unsplash.com/photo-1525875098832-46c7d9d0794e?w=400",
+    "is_hot": true,
     "moods": [
-      "friends"
+      "date",
+      "rainy",
+      "solo"
     ],
     "best_time": [
-      "night",
-      "afternoon"
+      "morning"
     ]
   },
   {
     "id": "65",
-    "name": "관동 스테이 64",
-    "category_main": "stay",
-    "category_sub": "리조트",
+    "name": "바다 테이블",
+    "category_main": "food",
+    "category_sub": "베이커리",
     "tags": [
-      "#리조트",
-      "#교동",
-      "#추천"
+      "#웨이팅",
+      "#가족모임",
+      "#베이커리",
+      "#옥계면"
     ],
-    "naver_search_query": "강릉 관동 스테이 64",
-    "address_short": "사천면",
-    "rating": 3.6,
-    "image_url": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=400",
+    "naver_search_query": "강릉 바다 테이블",
+    "address_short": "옥계면",
+    "rating": 3.5,
+    "image_url": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400",
     "is_hot": false,
     "moods": [
-      "date",
       "friends",
       "solo"
-    ],
-    "best_time": [
-      "afternoon"
-    ]
-  },
-  {
-    "id": "66",
-    "name": "주문진 순두부 65",
-    "category_main": "food",
-    "category_sub": "술집",
-    "tags": [
-      "#술집",
-      "#연곡면",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 주문진 순두부 65",
-    "address_short": "강동면",
-    "rating": 4.6,
-    "image_url": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=400",
-    "is_hot": false,
-    "moods": [
-      "sunrise",
-      "evening"
     ],
     "best_time": [
       "night"
     ]
   },
   {
-    "id": "67",
-    "name": "경포 리조트 66",
-    "category_main": "stay",
-    "category_sub": "게스트하우스",
+    "id": "66",
+    "name": "소나무 플레이스",
+    "category_main": "cafe",
+    "category_sub": "베이커리",
     "tags": [
-      "#게스트하우스",
-      "#초당동",
-      "#추천"
+      "#테라스",
+      "#베이커리",
+      "#홍제동"
     ],
-    "naver_search_query": "강릉 경포 리조트 66",
-    "address_short": "연곡면",
-    "rating": 4.6,
-    "image_url": "https://images.unsplash.com/photo-1495365200479-c4ed1d35e1aa?w=400",
+    "naver_search_query": "강릉 소나무 플레이스",
+    "address_short": "홍제동",
+    "rating": 4.8,
+    "image_url": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=400",
     "is_hot": false,
     "moods": [
-      "sunrise"
+      "date"
     ],
     "best_time": [
-      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "67",
+    "name": "안목 미술관",
+    "category_main": "activity",
+    "category_sub": "레저",
+    "tags": [
+      "#드라이브",
+      "#데이트코스",
+      "#레저"
+    ],
+    "naver_search_query": "강릉 안목 미술관",
+    "address_short": "홍제동",
+    "rating": 4.3,
+    "image_url": "https://images.unsplash.com/photo-1502904550040-7534597429ae?w=400",
+    "is_hot": true,
+    "moods": [
+      "family"
+    ],
+    "best_time": [
       "afternoon"
     ]
   },
   {
     "id": "68",
-    "name": "초당 공원 67",
+    "name": "사천 랜드",
     "category_main": "activity",
-    "category_sub": "해변",
+    "category_sub": "역사",
     "tags": [
-      "#해변",
-      "#성산면",
-      "#추천"
+      "#드라이브",
+      "#역사",
+      "#옥계면"
     ],
-    "naver_search_query": "강릉 초당 공원 67",
-    "address_short": "강문동",
-    "rating": 3.8,
-    "image_url": "https://images.unsplash.com/photo-1502904550040-7534597429ae?w=400",
-    "is_hot": false,
+    "naver_search_query": "강릉 사천 랜드",
+    "address_short": "옥계면",
+    "rating": 3.4,
+    "image_url": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400",
+    "is_hot": true,
     "moods": [
-      "solo"
+      "family",
+      "friends",
+      "sunrise"
     ],
     "best_time": [
-      "evening",
-      "night"
+      "afternoon"
     ]
   },
   {
     "id": "69",
-    "name": "주문진 호텔 68",
+    "name": "맛있는 숙소",
     "category_main": "stay",
-    "category_sub": "게스트하우스",
+    "category_sub": "리조트",
     "tags": [
-      "#게스트하우스",
-      "#사천면",
-      "#추천"
+      "#호캉스",
+      "#리조트"
     ],
-    "naver_search_query": "강릉 주문진 호텔 68",
-    "address_short": "옥계면",
-    "rating": 3.1,
-    "image_url": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=400",
+    "naver_search_query": "강릉 맛있는 숙소",
+    "address_short": "초당동",
+    "rating": 4.0,
+    "image_url": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?w=400",
     "is_hot": false,
     "moods": [
-      "solo",
-      "friends",
-      "evening"
+      "rainy",
+      "solo"
     ],
     "best_time": [
-      "afternoon",
       "evening"
     ]
   },
   {
     "id": "70",
-    "name": "초당 스테이 69",
-    "category_main": "stay",
-    "category_sub": "게스트하우스",
+    "name": "주문진 박물관",
+    "category_main": "activity",
+    "category_sub": "서핑",
     "tags": [
-      "#게스트하우스",
-      "#초당동",
-      "#추천"
+      "#데이트코스",
+      "#바다",
+      "#서핑"
     ],
-    "naver_search_query": "강릉 초당 스테이 69",
+    "naver_search_query": "강릉 주문진 박물관",
     "address_short": "연곡면",
-    "rating": 3.5,
-    "image_url": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=400",
+    "rating": 4.1,
+    "image_url": "https://images.unsplash.com/photo-1502904550040-7534597429ae?w=400",
     "is_hot": false,
     "moods": [
-      "evening",
-      "solo"
+      "rainy",
+      "solo",
+      "friends"
     ],
     "best_time": [
-      "night",
       "evening"
     ]
   },
   {
     "id": "71",
-    "name": "관동 박물관 70",
-    "category_main": "activity",
-    "category_sub": "역사",
+    "name": "송정동 달빛 갈비",
+    "category_main": "food",
+    "category_sub": "중식",
     "tags": [
-      "#역사",
-      "#교동",
-      "#추천"
+      "#가성비",
+      "#중식",
+      "#포남동"
     ],
-    "naver_search_query": "강릉 관동 박물관 70",
-    "address_short": "연곡면",
-    "rating": 4.1,
-    "image_url": "https://images.unsplash.com/photo-1467139701929-18c0d27a7516?w=400",
+    "naver_search_query": "강릉 송정동 달빛 갈비",
+    "address_short": "포남동",
+    "rating": 3.2,
+    "image_url": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400",
     "is_hot": false,
     "moods": [
       "sunrise",
-      "solo",
-      "family"
-    ],
-    "best_time": [
-      "night",
-      "evening"
-    ]
-  },
-  {
-    "id": "72",
-    "name": "초당 커피 71",
-    "category_main": "cafe",
-    "category_sub": "베이커리",
-    "tags": [
-      "#베이커리",
-      "#포남동",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 초당 커피 71",
-    "address_short": "강동면",
-    "rating": 4.5,
-    "image_url": "https://images.unsplash.com/photo-1542372147193-a7aca54189cd?w=400",
-    "is_hot": false,
-    "moods": [
-      "friends",
-      "evening",
       "family"
     ],
     "best_time": [
@@ -1690,44 +1659,70 @@
     ]
   },
   {
-    "id": "73",
-    "name": "안목 랜드 72",
-    "category_main": "activity",
-    "category_sub": "역사",
+    "id": "72",
+    "name": "성산면 율곡 키친",
+    "category_main": "food",
+    "category_sub": "한식",
     "tags": [
-      "#역사",
-      "#옥계면",
-      "#추천"
+      "#노포",
+      "#한식",
+      "#옥계면"
     ],
-    "naver_search_query": "강릉 안목 랜드 72",
-    "address_short": "성산면",
-    "rating": 3.1,
-    "image_url": "https://images.unsplash.com/photo-1571008887538-b36bb32f4571?w=400",
+    "naver_search_query": "강릉 성산면 율곡 키친",
+    "address_short": "옥계면",
+    "rating": 3.8,
+    "image_url": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=400",
     "is_hot": false,
     "moods": [
-      "solo"
+      "family"
     ],
     "best_time": [
-      "evening"
+      "afternoon"
+    ]
+  },
+  {
+    "id": "73",
+    "name": "행복 커피",
+    "category_main": "cafe",
+    "category_sub": "로스터리",
+    "tags": [
+      "#인생샷",
+      "#로스터리",
+      "#포남동"
+    ],
+    "naver_search_query": "강릉 행복 커피",
+    "address_short": "포남동",
+    "rating": 4.0,
+    "image_url": "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?w=400",
+    "is_hot": false,
+    "moods": [
+      "date",
+      "family"
+    ],
+    "best_time": [
+      "evening",
+      "night"
     ]
   },
   {
     "id": "74",
-    "name": "강릉 칼국수 73",
-    "category_main": "food",
-    "category_sub": "술집",
+    "name": "경포 하우스",
+    "category_main": "stay",
+    "category_sub": "펜션",
     "tags": [
-      "#술집",
-      "#주문진",
-      "#추천"
+      "#호캉스",
+      "#펜션",
+      "#중앙동"
     ],
-    "naver_search_query": "강릉 강릉 칼국수 73",
-    "address_short": "교동",
-    "rating": 3.9,
-    "image_url": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?w=400",
+    "naver_search_query": "강릉 경포 하우스",
+    "address_short": "중앙동",
+    "rating": 3.7,
+    "image_url": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=400",
     "is_hot": false,
     "moods": [
-      "rainy"
+      "date",
+      "solo",
+      "family"
     ],
     "best_time": [
       "morning"
@@ -1735,90 +1730,95 @@
   },
   {
     "id": "75",
-    "name": "초당 펜션 74",
-    "category_main": "stay",
-    "category_sub": "리조트",
-    "tags": [
-      "#리조트",
-      "#포남동",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 초당 펜션 74",
-    "address_short": "성산면",
-    "rating": 4.5,
-    "image_url": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?w=400",
-    "is_hot": true,
-    "moods": [
-      "friends"
-    ],
-    "best_time": [
-      "morning"
-    ]
-  },
-  {
-    "id": "76",
-    "name": "강릉 미술관 75",
+    "name": "율곡 미술관",
     "category_main": "activity",
-    "category_sub": "전시",
+    "category_sub": "산책로",
     "tags": [
-      "#전시",
-      "#사천면",
-      "#추천"
+      "#바다",
+      "#데이트코스",
+      "#산책로",
+      "#안목동"
     ],
-    "naver_search_query": "강릉 강릉 미술관 75",
-    "address_short": "중앙동",
-    "rating": 3.4,
-    "image_url": "https://images.unsplash.com/photo-1549576490-b0b4831ef60a?w=400",
+    "naver_search_query": "강릉 율곡 미술관",
+    "address_short": "안목동",
+    "rating": 3.7,
+    "image_url": "https://images.unsplash.com/photo-1502904550040-7534597429ae?w=400",
     "is_hot": false,
     "moods": [
-      "family",
-      "sunrise"
+      "rainy"
     ],
     "best_time": [
-      "morning"
-    ]
-  },
-  {
-    "id": "77",
-    "name": "사천 카페 76",
-    "category_main": "cafe",
-    "category_sub": "대형카페",
-    "tags": [
-      "#대형카페",
-      "#교동",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 사천 카페 76",
-    "address_short": "성산면",
-    "rating": 3.2,
-    "image_url": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=400",
-    "is_hot": false,
-    "moods": [
-      "rainy",
-      "solo"
-    ],
-    "best_time": [
-      "night",
+      "afternoon",
       "evening"
     ]
   },
   {
-    "id": "78",
-    "name": "강릉 버거 77",
+    "id": "76",
+    "name": "포남동 오죽 버거",
     "category_main": "food",
-    "category_sub": "해산물",
+    "category_sub": "일식",
     "tags": [
-      "#해산물",
-      "#안목동",
-      "#추천"
+      "#가성비",
+      "#회식",
+      "#일식",
+      "#초당동"
     ],
-    "naver_search_query": "강릉 강릉 버거 77",
-    "address_short": "강동면",
-    "rating": 4.4,
-    "image_url": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=400",
+    "naver_search_query": "강릉 포남동 오죽 버거",
+    "address_short": "초당동",
+    "rating": 4.5,
+    "image_url": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400",
+    "is_hot": false,
+    "moods": [
+      "rainy",
+      "solo",
+      "sunrise"
+    ],
+    "best_time": [
+      "morning",
+      "evening"
+    ]
+  },
+  {
+    "id": "77",
+    "name": "주문진 공원",
+    "category_main": "activity",
+    "category_sub": "전시",
+    "tags": [
+      "#사진명소",
+      "#야경",
+      "#전시"
+    ],
+    "naver_search_query": "강릉 주문진 공원",
+    "address_short": "초당동",
+    "rating": 4.2,
+    "image_url": "https://images.unsplash.com/photo-1569965335962-2317ff2a7658?w=400",
     "is_hot": true,
     "moods": [
-      "solo"
+      "family"
+    ],
+    "best_time": [
+      "evening",
+      "night"
+    ]
+  },
+  {
+    "id": "78",
+    "name": "소나무 집",
+    "category_main": "food",
+    "category_sub": "분식",
+    "tags": [
+      "#맛집",
+      "#가족모임",
+      "#분식"
+    ],
+    "naver_search_query": "강릉 소나무 집",
+    "address_short": "강문동",
+    "rating": 3.1,
+    "image_url": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400",
+    "is_hot": false,
+    "moods": [
+      "solo",
+      "friends"
     ],
     "best_time": [
       "evening",
@@ -1827,428 +1827,114 @@
   },
   {
     "id": "79",
-    "name": "경포 모텔 78",
+    "name": "안목동 초당 모텔",
     "category_main": "stay",
-    "category_sub": "게스트하우스",
+    "category_sub": "민박",
     "tags": [
-      "#게스트하우스",
-      "#강문동",
-      "#추천"
+      "#호캉스",
+      "#스파",
+      "#민박",
+      "#중앙동"
     ],
-    "naver_search_query": "강릉 경포 모텔 78",
-    "address_short": "강문동",
-    "rating": 4.1,
-    "image_url": "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?w=400",
+    "naver_search_query": "강릉 안목동 초당 모텔",
+    "address_short": "중앙동",
+    "rating": 4.5,
+    "image_url": "https://images.unsplash.com/photo-1495365200479-c4ed1d35e1aa?w=400",
     "is_hot": false,
     "moods": [
-      "sunrise",
+      "solo",
       "family",
-      "date"
+      "rainy"
     ],
     "best_time": [
-      "afternoon",
       "evening"
     ]
   },
   {
     "id": "80",
-    "name": "초당 갈비 79",
-    "category_main": "food",
-    "category_sub": "한식",
+    "name": "바람 제빵소",
+    "category_main": "cafe",
+    "category_sub": "디저트",
     "tags": [
-      "#한식",
-      "#강문동",
-      "#추천"
+      "#디저트맛집",
+      "#디저트",
+      "#중앙동"
     ],
-    "naver_search_query": "강릉 초당 갈비 79",
-    "address_short": "성산면",
-    "rating": 3.2,
-    "image_url": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?w=400",
+    "naver_search_query": "강릉 바람 제빵소",
+    "address_short": "중앙동",
+    "rating": 4.0,
+    "image_url": "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?w=400",
     "is_hot": false,
     "moods": [
-      "family",
-      "sunrise"
+      "date"
     ],
     "best_time": [
-      "night"
+      "afternoon"
     ]
   },
   {
     "id": "81",
-    "name": "교동 다방 80",
-    "category_main": "cafe",
-    "category_sub": "오션뷰",
+    "name": "연곡면 모래 마을",
+    "category_main": "activity",
+    "category_sub": "해변",
     "tags": [
-      "#오션뷰",
-      "#안목동",
-      "#추천"
+      "#일몰",
+      "#해변",
+      "#노암동"
     ],
-    "naver_search_query": "강릉 교동 다방 80",
-    "address_short": "교동",
-    "rating": 3.5,
-    "image_url": "https://images.unsplash.com/photo-1556742517-fde6c2abbe11?w=400",
-    "is_hot": false,
+    "naver_search_query": "강릉 연곡면 모래 마을",
+    "address_short": "노암동",
+    "rating": 4.0,
+    "image_url": "https://images.unsplash.com/photo-1525875098832-46c7d9d0794e?w=400",
+    "is_hot": true,
     "moods": [
-      "solo",
       "rainy",
-      "date"
+      "solo",
+      "family"
     ],
     "best_time": [
-      "afternoon"
+      "evening",
+      "night"
     ]
   },
   {
     "id": "82",
-    "name": "사천 리조트 81",
-    "category_main": "stay",
-    "category_sub": "펜션",
+    "name": "연곡면 경포 테이블",
+    "category_main": "food",
+    "category_sub": "해산물",
     "tags": [
-      "#펜션",
-      "#중앙동",
-      "#추천"
+      "#회식",
+      "#해산물",
+      "#성산면"
     ],
-    "naver_search_query": "강릉 사천 리조트 81",
-    "address_short": "교동",
-    "rating": 4.4,
-    "image_url": "https://images.unsplash.com/photo-1495365200479-c4ed1d35e1aa?w=400",
-    "is_hot": true,
+    "naver_search_query": "강릉 연곡면 경포 테이블",
+    "address_short": "성산면",
+    "rating": 4.3,
+    "image_url": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=400",
+    "is_hot": false,
     "moods": [
-      "family",
-      "sunrise",
-      "solo"
+      "friends"
     ],
     "best_time": [
-      "evening"
+      "afternoon"
     ]
   },
   {
     "id": "83",
-    "name": "안목 미술관 82",
-    "category_main": "activity",
-    "category_sub": "산책로",
-    "tags": [
-      "#산책로",
-      "#교동",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 안목 미술관 82",
-    "address_short": "성산면",
-    "rating": 3.8,
-    "image_url": "https://images.unsplash.com/photo-1523582407565-efee5cf4a353?w=400",
-    "is_hot": true,
-    "moods": [
-      "rainy",
-      "solo"
-    ],
-    "best_time": [
-      "evening",
-      "night"
-    ]
-  },
-  {
-    "id": "84",
-    "name": "관동 랜드 83",
-    "category_main": "activity",
-    "category_sub": "전시",
-    "tags": [
-      "#전시",
-      "#연곡면",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 관동 랜드 83",
-    "address_short": "옥계면",
-    "rating": 4.8,
-    "image_url": "https://images.unsplash.com/photo-1624719507903-7d8b41c7c9cb?w=400",
-    "is_hot": false,
-    "moods": [
-      "solo",
-      "sunrise"
-    ],
-    "best_time": [
-      "evening"
-    ]
-  },
-  {
-    "id": "85",
-    "name": "교동 순두부 84",
-    "category_main": "food",
-    "category_sub": "한식",
-    "tags": [
-      "#한식",
-      "#초당동",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 교동 순두부 84",
-    "address_short": "옥계면",
-    "rating": 4.0,
-    "image_url": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400",
-    "is_hot": false,
-    "moods": [
-      "date",
-      "evening",
-      "solo"
-    ],
-    "best_time": [
-      "evening"
-    ]
-  },
-  {
-    "id": "86",
-    "name": "주문진 호텔 85",
+    "name": "교동 숙소",
     "category_main": "stay",
-    "category_sub": "게스트하우스",
+    "category_sub": "호텔",
     "tags": [
-      "#게스트하우스",
-      "#연곡면",
-      "#추천"
+      "#오션뷰",
+      "#호텔"
     ],
-    "naver_search_query": "강릉 주문진 호텔 85",
-    "address_short": "연곡면",
-    "rating": 4.0,
-    "image_url": "https://images.unsplash.com/photo-1517840901100-8179e982acb7?w=400",
-    "is_hot": false,
-    "moods": [
-      "sunrise",
-      "solo",
-      "friends"
-    ],
-    "best_time": [
-      "morning",
-      "evening"
-    ]
-  },
-  {
-    "id": "87",
-    "name": "사천 박물관 86",
-    "category_main": "activity",
-    "category_sub": "레저",
-    "tags": [
-      "#레저",
-      "#초당동",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 사천 박물관 86",
-    "address_short": "사천면",
-    "rating": 4.5,
-    "image_url": "https://images.unsplash.com/photo-1607962837359-5e7e89f86776?w=400",
-    "is_hot": false,
-    "moods": [
-      "rainy",
-      "friends",
-      "family"
-    ],
-    "best_time": [
-      "night",
-      "afternoon"
-    ]
-  },
-  {
-    "id": "88",
-    "name": "사천 스테이 87",
-    "category_main": "stay",
-    "category_sub": "펜션",
-    "tags": [
-      "#펜션",
-      "#포남동",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 사천 스테이 87",
-    "address_short": "교동",
-    "rating": 3.7,
-    "image_url": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?w=400",
-    "is_hot": true,
-    "moods": [
-      "rainy",
-      "sunrise",
-      "date"
-    ],
-    "best_time": [
-      "afternoon"
-    ]
-  },
-  {
-    "id": "89",
-    "name": "초당 식당 88",
-    "category_main": "food",
-    "category_sub": "한식",
-    "tags": [
-      "#한식",
-      "#초당동",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 초당 식당 88",
-    "address_short": "포남동",
-    "rating": 4.2,
-    "image_url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400",
-    "is_hot": false,
-    "moods": [
-      "rainy",
-      "friends"
-    ],
-    "best_time": [
-      "evening",
-      "afternoon"
-    ]
-  },
-  {
-    "id": "90",
-    "name": "동해 순두부 89",
-    "category_main": "food",
-    "category_sub": "중식",
-    "tags": [
-      "#중식",
-      "#초당동",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 동해 순두부 89",
-    "address_short": "안목동",
-    "rating": 3.0,
-    "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=400",
-    "is_hot": false,
-    "moods": [
-      "date"
-    ],
-    "best_time": [
-      "afternoon",
-      "evening"
-    ]
-  },
-  {
-    "id": "91",
-    "name": "사천 횟집 90",
-    "category_main": "food",
-    "category_sub": "분식",
-    "tags": [
-      "#분식",
-      "#강문동",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 사천 횟집 90",
-    "address_short": "주문진",
-    "rating": 3.5,
-    "image_url": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=400",
-    "is_hot": false,
-    "moods": [
-      "date",
-      "family",
-      "solo"
-    ],
-    "best_time": [
-      "night"
-    ]
-  },
-  {
-    "id": "92",
-    "name": "사천 갈비 91",
-    "category_main": "food",
-    "category_sub": "해산물",
-    "tags": [
-      "#해산물",
-      "#강문동",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 사천 갈비 91",
-    "address_short": "주문진",
-    "rating": 4.7,
-    "image_url": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=400",
-    "is_hot": false,
-    "moods": [
-      "friends"
-    ],
-    "best_time": [
-      "morning",
-      "evening"
-    ]
-  },
-  {
-    "id": "93",
-    "name": "강릉 베이커리 92",
-    "category_main": "cafe",
-    "category_sub": "감성카페",
-    "tags": [
-      "#감성카페",
-      "#교동",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 강릉 베이커리 92",
-    "address_short": "강동면",
-    "rating": 3.7,
-    "image_url": "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?w=400",
-    "is_hot": false,
-    "moods": [
-      "sunrise"
-    ],
-    "best_time": [
-      "afternoon",
-      "night"
-    ]
-  },
-  {
-    "id": "94",
-    "name": "교동 막국수 93",
-    "category_main": "food",
-    "category_sub": "양식",
-    "tags": [
-      "#양식",
-      "#옥계면",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 교동 막국수 93",
-    "address_short": "성산면",
-    "rating": 3.8,
-    "image_url": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?w=400",
-    "is_hot": true,
-    "moods": [
-      "friends",
-      "solo",
-      "family"
-    ],
-    "best_time": [
-      "night"
-    ]
-  },
-  {
-    "id": "95",
-    "name": "사천 식당 94",
-    "category_main": "food",
-    "category_sub": "일식",
-    "tags": [
-      "#일식",
-      "#성산면",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 사천 식당 94",
-    "address_short": "사천면",
+    "naver_search_query": "강릉 교동 숙소",
+    "address_short": "초당동",
     "rating": 4.3,
-    "image_url": "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2?w=400",
-    "is_hot": true,
-    "moods": [
-      "rainy"
-    ],
-    "best_time": [
-      "afternoon",
-      "evening"
-    ]
-  },
-  {
-    "id": "96",
-    "name": "주문진 제빵소 95",
-    "category_main": "cafe",
-    "category_sub": "대형카페",
-    "tags": [
-      "#대형카페",
-      "#초당동",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 주문진 제빵소 95",
-    "address_short": "옥계면",
-    "rating": 4.7,
-    "image_url": "https://images.unsplash.com/photo-1481833761820-0509d3217039?w=400",
+    "image_url": "https://images.unsplash.com/photo-1467139701929-18c0d27a7516?w=400",
     "is_hot": false,
     "moods": [
-      "date",
-      "sunrise",
-      "rainy"
+      "date"
     ],
     "best_time": [
       "night",
@@ -2256,21 +1942,323 @@
     ]
   },
   {
-    "id": "97",
-    "name": "주문진 박물관 96",
+    "id": "84",
+    "name": "초당동 초당 정원",
     "category_main": "activity",
-    "category_sub": "전시",
+    "category_sub": "해변",
     "tags": [
-      "#전시",
-      "#성산면",
-      "#추천"
+      "#일출",
+      "#해변"
     ],
-    "naver_search_query": "강릉 주문진 박물관 96",
-    "address_short": "포남동",
-    "rating": 3.8,
-    "image_url": "https://images.unsplash.com/photo-1467139701929-18c0d27a7516?w=400",
+    "naver_search_query": "강릉 초당동 초당 정원",
+    "address_short": "송정동",
+    "rating": 4.5,
+    "image_url": "https://images.unsplash.com/photo-1540539234-c14a20fb7c7b?w=400",
     "is_hot": false,
     "moods": [
+      "sunrise"
+    ],
+    "best_time": [
+      "morning",
+      "evening"
+    ]
+  },
+  {
+    "id": "85",
+    "name": "주문진 소나무 캠핑장",
+    "category_main": "stay",
+    "category_sub": "민박",
+    "tags": [
+      "#스파",
+      "#친절한",
+      "#민박"
+    ],
+    "naver_search_query": "강릉 주문진 소나무 캠핑장",
+    "address_short": "사천면",
+    "rating": 3.8,
+    "image_url": "https://images.unsplash.com/photo-1629140727571-9b5c6f6267b4?w=400",
+    "is_hot": false,
+    "moods": [
+      "solo",
+      "sunrise"
+    ],
+    "best_time": [
+      "night",
+      "morning"
+    ]
+  },
+  {
+    "id": "86",
+    "name": "추억 미술관",
+    "category_main": "activity",
+    "category_sub": "서핑",
+    "tags": [
+      "#사진명소",
+      "#힐링",
+      "#서핑"
+    ],
+    "naver_search_query": "강릉 추억 미술관",
+    "address_short": "교동",
+    "rating": 3.8,
+    "image_url": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400",
+    "is_hot": false,
+    "moods": [
+      "solo",
+      "family",
+      "sunrise"
+    ],
+    "best_time": [
+      "morning",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "87",
+    "name": "강문동 청춘 호텔",
+    "category_main": "stay",
+    "category_sub": "게스트하우스",
+    "tags": [
+      "#호캉스",
+      "#깨끗한",
+      "#게스트하우스"
+    ],
+    "naver_search_query": "강릉 강문동 청춘 호텔",
+    "address_short": "옥계면",
+    "rating": 3.9,
+    "image_url": "https://images.unsplash.com/photo-1517840901100-8179e982acb7?w=400",
+    "is_hot": false,
+    "moods": [
+      "date"
+    ],
+    "best_time": [
+      "morning"
+    ]
+  },
+  {
+    "id": "88",
+    "name": "즐거운 글램핑",
+    "category_main": "stay",
+    "category_sub": "리조트",
+    "tags": [
+      "#호캉스",
+      "#리조트",
+      "#연곡면"
+    ],
+    "naver_search_query": "강릉 즐거운 글램핑",
+    "address_short": "연곡면",
+    "rating": 4.6,
+    "image_url": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=400",
+    "is_hot": false,
+    "moods": [
+      "solo"
+    ],
+    "best_time": [
+      "evening"
+    ]
+  },
+  {
+    "id": "89",
+    "name": "달빛 식당",
+    "category_main": "food",
+    "category_sub": "베이커리",
+    "tags": [
+      "#데이트",
+      "#베이커리",
+      "#옥계면"
+    ],
+    "naver_search_query": "강릉 달빛 식당",
+    "address_short": "옥계면",
+    "rating": 4.5,
+    "image_url": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=400",
+    "is_hot": false,
+    "moods": [
+      "friends",
+      "family"
+    ],
+    "best_time": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "id": "90",
+    "name": "중앙동 강릉 캠핑장",
+    "category_main": "stay",
+    "category_sub": "민박",
+    "tags": [
+      "#깨끗한",
+      "#민박"
+    ],
+    "naver_search_query": "강릉 중앙동 강릉 캠핑장",
+    "address_short": "안목동",
+    "rating": 4.3,
+    "image_url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400",
+    "is_hot": false,
+    "moods": [
+      "friends"
+    ],
+    "best_time": [
+      "evening",
+      "morning"
+    ]
+  },
+  {
+    "id": "91",
+    "name": "맛있는 펜션",
+    "category_main": "stay",
+    "category_sub": "리조트",
+    "tags": [
+      "#감성숙소",
+      "#리조트",
+      "#성산면"
+    ],
+    "naver_search_query": "강릉 맛있는 펜션",
+    "address_short": "성산면",
+    "rating": 4.1,
+    "image_url": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=400",
+    "is_hot": false,
+    "moods": [
+      "solo",
+      "friends"
+    ],
+    "best_time": [
+      "evening"
+    ]
+  },
+  {
+    "id": "92",
+    "name": "즐거운 전망대",
+    "category_main": "activity",
+    "category_sub": "서핑",
+    "tags": [
+      "#산책",
+      "#서핑",
+      "#교동"
+    ],
+    "naver_search_query": "강릉 즐거운 전망대",
+    "address_short": "교동",
+    "rating": 4.1,
+    "image_url": "https://images.unsplash.com/photo-1569965335962-2317ff2a7658?w=400",
+    "is_hot": false,
+    "moods": [
+      "solo",
+      "sunrise",
+      "friends"
+    ],
+    "best_time": [
+      "morning"
+    ]
+  },
+  {
+    "id": "93",
+    "name": "해돋이 마을",
+    "category_main": "activity",
+    "category_sub": "산책로",
+    "tags": [
+      "#아이와함께",
+      "#산책로"
+    ],
+    "naver_search_query": "강릉 해돋이 마을",
+    "address_short": "옥계면",
+    "rating": 3.8,
+    "image_url": "https://images.unsplash.com/photo-1525875098832-46c7d9d0794e?w=400",
+    "is_hot": false,
+    "moods": [
+      "solo",
+      "friends",
+      "date"
+    ],
+    "best_time": [
+      "evening"
+    ]
+  },
+  {
+    "id": "94",
+    "name": "오죽 다방",
+    "category_main": "cafe",
+    "category_sub": "대형카페",
+    "tags": [
+      "#주차가능",
+      "#노트북",
+      "#대형카페"
+    ],
+    "naver_search_query": "강릉 오죽 다방",
+    "address_short": "강문동",
+    "rating": 4.8,
+    "image_url": "https://images.unsplash.com/photo-1445116572660-236099ec97a0?w=400",
+    "is_hot": false,
+    "moods": [
+      "friends",
+      "family",
+      "solo"
+    ],
+    "best_time": [
+      "morning"
+    ]
+  },
+  {
+    "id": "95",
+    "name": "달빛 제빵소",
+    "category_main": "cafe",
+    "category_sub": "오션뷰",
+    "tags": [
+      "#반려동물",
+      "#오션뷰"
+    ],
+    "naver_search_query": "강릉 달빛 제빵소",
+    "address_short": "사천면",
+    "rating": 4.0,
+    "image_url": "https://images.unsplash.com/photo-1521017432531-fbd92d768814?w=400",
+    "is_hot": false,
+    "moods": [
+      "solo"
+    ],
+    "best_time": [
+      "morning",
+      "night"
+    ]
+  },
+  {
+    "id": "96",
+    "name": "주문진 다방",
+    "category_main": "cafe",
+    "category_sub": "오션뷰",
+    "tags": [
+      "#뷰맛집",
+      "#오션뷰"
+    ],
+    "naver_search_query": "강릉 주문진 다방",
+    "address_short": "중앙동",
+    "rating": 4.7,
+    "image_url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400",
+    "is_hot": false,
+    "moods": [
+      "friends",
+      "rainy",
+      "sunrise"
+    ],
+    "best_time": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "id": "97",
+    "name": "소나무 라운지",
+    "category_main": "cafe",
+    "category_sub": "감성카페",
+    "tags": [
+      "#힐링",
+      "#감성카페",
+      "#주문진"
+    ],
+    "naver_search_query": "강릉 소나무 라운지",
+    "address_short": "주문진",
+    "rating": 4.5,
+    "image_url": "https://images.unsplash.com/photo-1511081692775-05d0f180a065?w=400",
+    "is_hot": false,
+    "moods": [
+      "rainy",
       "sunrise"
     ],
     "best_time": [
@@ -2279,44 +2267,46 @@
   },
   {
     "id": "98",
-    "name": "사천 박물관 97",
-    "category_main": "activity",
-    "category_sub": "레저",
+    "name": "노암동 구름 라운지",
+    "category_main": "cafe",
+    "category_sub": "디저트",
     "tags": [
-      "#레저",
-      "#사천면",
-      "#추천"
+      "#뷰맛집",
+      "#반려동물",
+      "#디저트",
+      "#송정동"
     ],
-    "naver_search_query": "강릉 사천 박물관 97",
-    "address_short": "강동면",
-    "rating": 3.8,
-    "image_url": "https://images.unsplash.com/photo-1635702961175-f6949dded992?w=400",
-    "is_hot": false,
+    "naver_search_query": "강릉 노암동 구름 라운지",
+    "address_short": "송정동",
+    "rating": 3.4,
+    "image_url": "https://images.unsplash.com/photo-1567880905822-56f8e06fe630?w=400",
+    "is_hot": true,
     "moods": [
-      "evening"
+      "friends",
+      "date"
     ],
     "best_time": [
-      "morning",
-      "evening"
+      "night",
+      "afternoon"
     ]
   },
   {
     "id": "99",
-    "name": "관동 스튜디오 98",
-    "category_main": "cafe",
-    "category_sub": "오션뷰",
+    "name": "강릉 테이블",
+    "category_main": "food",
+    "category_sub": "분식",
     "tags": [
-      "#오션뷰",
-      "#안목동",
-      "#추천"
+      "#회식",
+      "#분식"
     ],
-    "naver_search_query": "강릉 관동 스튜디오 98",
-    "address_short": "사천면",
-    "rating": 3.3,
-    "image_url": "https://images.unsplash.com/photo-1567880905822-56f8e06fe630?w=400",
+    "naver_search_query": "강릉 강릉 테이블",
+    "address_short": "교동",
+    "rating": 3.8,
+    "image_url": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400",
     "is_hot": false,
     "moods": [
-      "evening"
+      "family",
+      "date"
     ],
     "best_time": [
       "night"
@@ -2324,22 +2314,67 @@
   },
   {
     "id": "100",
-    "name": "경포 카페 99",
+    "name": "안목 커피",
     "category_main": "cafe",
-    "category_sub": "디저트",
+    "category_sub": "감성카페",
     "tags": [
-      "#디저트",
-      "#중앙동",
-      "#추천"
+      "#인생샷",
+      "#감성카페",
+      "#교동"
     ],
-    "naver_search_query": "강릉 경포 카페 99",
-    "address_short": "옥계면",
-    "rating": 4.4,
-    "image_url": "https://images.unsplash.com/photo-1445116572660-236099ec97a0?w=400",
+    "naver_search_query": "강릉 안목 커피",
+    "address_short": "교동",
+    "rating": 4.3,
+    "image_url": "https://images.unsplash.com/photo-1569096651661-820d0de8b4ab?w=400",
     "is_hot": false,
     "moods": [
-      "sunrise",
-      "rainy",
+      "friends",
+      "solo"
+    ],
+    "best_time": [
+      "afternoon"
+    ]
+  },
+  {
+    "id": "101",
+    "name": "옥계면 맛있는 민박",
+    "category_main": "stay",
+    "category_sub": "호텔",
+    "tags": [
+      "#수영장",
+      "#친절한",
+      "#호텔",
+      "#옥계면"
+    ],
+    "naver_search_query": "강릉 옥계면 맛있는 민박",
+    "address_short": "옥계면",
+    "rating": 4.4,
+    "image_url": "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?w=400",
+    "is_hot": false,
+    "moods": [
+      "solo",
+      "date"
+    ],
+    "best_time": [
+      "night",
+      "morning"
+    ]
+  },
+  {
+    "id": "102",
+    "name": "해돋이 랜드",
+    "category_main": "activity",
+    "category_sub": "역사",
+    "tags": [
+      "#사진명소",
+      "#역사"
+    ],
+    "naver_search_query": "강릉 해돋이 랜드",
+    "address_short": "초당동",
+    "rating": 4.5,
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=400",
+    "is_hot": false,
+    "moods": [
       "solo"
     ],
     "best_time": [
@@ -2347,95 +2382,46 @@
     ]
   },
   {
-    "id": "101",
-    "name": "사천 카페 100",
-    "category_main": "cafe",
-    "category_sub": "감성카페",
+    "id": "103",
+    "name": "옥계면 맛있는 전망대",
+    "category_main": "activity",
+    "category_sub": "포토존",
     "tags": [
-      "#감성카페",
-      "#강동면",
-      "#추천"
+      "#사진명소",
+      "#데이트코스",
+      "#포토존"
     ],
-    "naver_search_query": "강릉 사천 카페 100",
+    "naver_search_query": "강릉 옥계면 맛있는 전망대",
     "address_short": "중앙동",
-    "rating": 3.5,
-    "image_url": "https://images.unsplash.com/photo-1511920170033-f8396924c348?w=400",
-    "is_hot": true,
-    "moods": [
-      "family",
-      "rainy",
-      "sunrise"
-    ],
-    "best_time": [
-      "night",
-      "evening"
-    ]
-  },
-  {
-    "id": "102",
-    "name": "동해 갈비 101",
-    "category_main": "food",
-    "category_sub": "일식",
-    "tags": [
-      "#일식",
-      "#중앙동",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 동해 갈비 101",
-    "address_short": "중앙동",
-    "rating": 3.7,
-    "image_url": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400",
+    "rating": 4.3,
+    "image_url": "https://images.unsplash.com/photo-1624719507903-7d8b41c7c9cb?w=400",
     "is_hot": false,
     "moods": [
-      "sunrise"
+      "rainy",
+      "friends",
+      "date"
     ],
     "best_time": [
-      "evening",
+      "morning",
       "afternoon"
     ]
   },
   {
-    "id": "103",
-    "name": "동해 베이커리 102",
-    "category_main": "cafe",
-    "category_sub": "대형카페",
-    "tags": [
-      "#대형카페",
-      "#중앙동",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 동해 베이커리 102",
-    "address_short": "포남동",
-    "rating": 4.6,
-    "image_url": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=400",
-    "is_hot": false,
-    "moods": [
-      "friends",
-      "date"
-    ],
-    "best_time": [
-      "morning"
-    ]
-  },
-  {
     "id": "104",
-    "name": "경포 횟집 103",
-    "category_main": "food",
-    "category_sub": "분식",
+    "name": "송정동 낭만 공원",
+    "category_main": "activity",
+    "category_sub": "전시",
     "tags": [
-      "#분식",
-      "#포남동",
-      "#추천"
+      "#아이와함께",
+      "#전시"
     ],
-    "naver_search_query": "강릉 경포 횟집 103",
-    "address_short": "포남동",
-    "rating": 3.0,
-    "image_url": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400",
+    "naver_search_query": "강릉 송정동 낭만 공원",
+    "address_short": "사천면",
+    "rating": 3.8,
+    "image_url": "https://images.unsplash.com/photo-1569965335962-2317ff2a7658?w=400",
     "is_hot": false,
     "moods": [
-      "friends",
-      "solo",
-      "date"
+      "family"
     ],
     "best_time": [
       "evening"
@@ -2443,348 +2429,346 @@
   },
   {
     "id": "105",
-    "name": "교동 밥상 104",
-    "category_main": "food",
-    "category_sub": "일식",
+    "name": "솔향 공간",
+    "category_main": "cafe",
+    "category_sub": "로스터리",
     "tags": [
-      "#일식",
-      "#중앙동",
-      "#추천"
+      "#테라스",
+      "#로스터리",
+      "#연곡면"
     ],
-    "naver_search_query": "강릉 교동 밥상 104",
-    "address_short": "안목동",
-    "rating": 3.9,
-    "image_url": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=400",
+    "naver_search_query": "강릉 솔향 공간",
+    "address_short": "연곡면",
+    "rating": 4.8,
+    "image_url": "https://images.unsplash.com/photo-1542372147193-a7aca54189cd?w=400",
     "is_hot": false,
     "moods": [
-      "sunrise",
       "rainy",
-      "solo"
+      "friends",
+      "date"
     ],
     "best_time": [
-      "night"
+      "evening",
+      "afternoon"
     ]
   },
   {
     "id": "106",
-    "name": "솔향 순두부 105",
-    "category_main": "food",
-    "category_sub": "해산물",
+    "name": "바다 체험장",
+    "category_main": "activity",
+    "category_sub": "레저",
     "tags": [
-      "#해산물",
-      "#초당동",
-      "#추천"
+      "#드라이브",
+      "#레저",
+      "#포남동"
     ],
-    "naver_search_query": "강릉 솔향 순두부 105",
-    "address_short": "연곡면",
+    "naver_search_query": "강릉 바다 체험장",
+    "address_short": "포남동",
     "rating": 3.2,
-    "image_url": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=400",
+    "image_url": "https://images.unsplash.com/photo-1571008887538-b36bb32f4571?w=400",
     "is_hot": false,
     "moods": [
+      "sunrise",
       "date",
-      "evening"
+      "family"
     ],
     "best_time": [
-      "afternoon",
-      "night"
+      "evening",
+      "afternoon"
     ]
   },
   {
     "id": "107",
-    "name": "경포 밥상 106",
-    "category_main": "food",
-    "category_sub": "해산물",
+    "name": "푸른 미술관",
+    "category_main": "activity",
+    "category_sub": "해변",
     "tags": [
-      "#해산물",
-      "#초당동",
-      "#추천"
+      "#일몰",
+      "#해변"
     ],
-    "naver_search_query": "강릉 경포 밥상 106",
-    "address_short": "옥계면",
-    "rating": 3.0,
-    "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=400",
-    "is_hot": false,
+    "naver_search_query": "강릉 푸른 미술관",
+    "address_short": "강문동",
+    "rating": 4.0,
+    "image_url": "https://images.unsplash.com/photo-1523582407565-efee5cf4a353?w=400",
+    "is_hot": true,
     "moods": [
-      "family",
-      "sunrise"
+      "date",
+      "friends",
+      "rainy"
     ],
     "best_time": [
+      "night",
       "afternoon"
     ]
   },
   {
     "id": "108",
-    "name": "강릉 카페 107",
+    "name": "성산면 모래 베이커리",
     "category_main": "cafe",
     "category_sub": "디저트",
     "tags": [
+      "#힐링",
       "#디저트",
-      "#교동",
-      "#추천"
+      "#주문진"
     ],
-    "naver_search_query": "강릉 강릉 카페 107",
-    "address_short": "강문동",
-    "rating": 3.1,
-    "image_url": "https://images.unsplash.com/photo-1556742517-fde6c2abbe11?w=400",
+    "naver_search_query": "강릉 성산면 모래 베이커리",
+    "address_short": "주문진",
+    "rating": 3.9,
+    "image_url": "https://images.unsplash.com/photo-1569096651661-820d0de8b4ab?w=400",
     "is_hot": false,
     "moods": [
-      "evening",
-      "solo"
+      "family"
     ],
     "best_time": [
-      "evening"
+      "night"
     ]
   },
   {
     "id": "109",
-    "name": "안목 갈비 108",
-    "category_main": "food",
-    "category_sub": "중식",
+    "name": "청춘 랜드",
+    "category_main": "activity",
+    "category_sub": "역사",
     "tags": [
-      "#중식",
-      "#초당동",
-      "#추천"
+      "#일출",
+      "#역사",
+      "#노암동"
     ],
-    "naver_search_query": "강릉 안목 갈비 108",
-    "address_short": "성산면",
-    "rating": 4.6,
-    "image_url": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=400",
+    "naver_search_query": "강릉 청춘 랜드",
+    "address_short": "노암동",
+    "rating": 4.9,
+    "image_url": "https://images.unsplash.com/photo-1480480565647-1c4385c7c0bf?w=400",
     "is_hot": false,
     "moods": [
-      "evening"
+      "rainy"
     ],
     "best_time": [
-      "morning",
-      "afternoon"
+      "morning"
     ]
   },
   {
     "id": "110",
-    "name": "사천 스테이 109",
-    "category_main": "stay",
-    "category_sub": "리조트",
+    "name": "홍제동 율곡 플레이스",
+    "category_main": "cafe",
+    "category_sub": "로스터리",
     "tags": [
-      "#리조트",
-      "#안목동",
-      "#추천"
+      "#인생샷",
+      "#로스터리"
     ],
-    "naver_search_query": "강릉 사천 스테이 109",
-    "address_short": "포남동",
-    "rating": 4.8,
-    "image_url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400",
-    "is_hot": false,
+    "naver_search_query": "강릉 홍제동 율곡 플레이스",
+    "address_short": "주문진",
+    "rating": 4.0,
+    "image_url": "https://images.unsplash.com/photo-1556742393-d75f468bfcb0?w=400",
+    "is_hot": true,
     "moods": [
-      "solo",
-      "family"
+      "date",
+      "family",
+      "solo"
     ],
     "best_time": [
-      "morning"
+      "night"
     ]
   },
   {
     "id": "111",
-    "name": "초당 호텔 110",
+    "name": "해돋이 호텔",
     "category_main": "stay",
-    "category_sub": "펜션",
+    "category_sub": "리조트",
     "tags": [
-      "#펜션",
-      "#연곡면",
-      "#추천"
+      "#커플여행",
+      "#리조트"
     ],
-    "naver_search_query": "강릉 초당 호텔 110",
-    "address_short": "주문진",
-    "rating": 3.8,
-    "image_url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400",
+    "naver_search_query": "강릉 해돋이 호텔",
+    "address_short": "강문동",
+    "rating": 4.8,
+    "image_url": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?w=400",
     "is_hot": false,
     "moods": [
-      "date",
-      "solo",
-      "rainy"
+      "sunrise"
     ],
     "best_time": [
-      "afternoon"
-    ]
-  },
-  {
-    "id": "112",
-    "name": "안목 전망대 111",
-    "category_main": "activity",
-    "category_sub": "산책로",
-    "tags": [
-      "#산책로",
-      "#초당동",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 안목 전망대 111",
-    "address_short": "연곡면",
-    "rating": 4.0,
-    "image_url": "https://images.unsplash.com/photo-1540539234-c14a20fb7c7b?w=400",
-    "is_hot": false,
-    "moods": [
-      "friends"
-    ],
-    "best_time": [
-      "afternoon",
-      "morning"
-    ]
-  },
-  {
-    "id": "113",
-    "name": "솔향 막국수 112",
-    "category_main": "food",
-    "category_sub": "일식",
-    "tags": [
-      "#일식",
-      "#중앙동",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 솔향 막국수 112",
-    "address_short": "사천면",
-    "rating": 4.3,
-    "image_url": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=400",
-    "is_hot": false,
-    "moods": [
-      "friends"
-    ],
-    "best_time": [
-      "night",
       "evening"
     ]
   },
   {
+    "id": "112",
+    "name": "사천면 오죽 캠핑장",
+    "category_main": "stay",
+    "category_sub": "캠핑",
+    "tags": [
+      "#감성숙소",
+      "#조식맛집",
+      "#캠핑",
+      "#홍제동"
+    ],
+    "naver_search_query": "강릉 사천면 오죽 캠핑장",
+    "address_short": "홍제동",
+    "rating": 3.4,
+    "image_url": "https://images.unsplash.com/photo-1495365200479-c4ed1d35e1aa?w=400",
+    "is_hot": false,
+    "moods": [
+      "family",
+      "date",
+      "friends"
+    ],
+    "best_time": [
+      "evening"
+    ]
+  },
+  {
+    "id": "113",
+    "name": "별빛 체험장",
+    "category_main": "activity",
+    "category_sub": "역사",
+    "tags": [
+      "#힐링",
+      "#드라이브",
+      "#역사"
+    ],
+    "naver_search_query": "강릉 별빛 체험장",
+    "address_short": "중앙동",
+    "rating": 3.7,
+    "image_url": "https://images.unsplash.com/photo-1540539234-c14a20fb7c7b?w=400",
+    "is_hot": false,
+    "moods": [
+      "date",
+      "family",
+      "friends"
+    ],
+    "best_time": [
+      "night",
+      "afternoon"
+    ]
+  },
+  {
     "id": "114",
-    "name": "초당 칼국수 113",
+    "name": "안목 갈비",
+    "category_main": "food",
+    "category_sub": "술집",
+    "tags": [
+      "#혼밥",
+      "#술집",
+      "#중앙동"
+    ],
+    "naver_search_query": "강릉 안목 갈비",
+    "address_short": "중앙동",
+    "rating": 3.2,
+    "image_url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400",
+    "is_hot": false,
+    "moods": [
+      "rainy"
+    ],
+    "best_time": [
+      "afternoon",
+      "night"
+    ]
+  },
+  {
+    "id": "115",
+    "name": "율곡 집",
     "category_main": "food",
     "category_sub": "중식",
     "tags": [
-      "#중식",
-      "#강동면",
-      "#추천"
+      "#가성비",
+      "#중식"
     ],
-    "naver_search_query": "강릉 초당 칼국수 113",
-    "address_short": "연곡면",
-    "rating": 4.0,
-    "image_url": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=400",
+    "naver_search_query": "강릉 율곡 집",
+    "address_short": "홍제동",
+    "rating": 3.8,
+    "image_url": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=400",
     "is_hot": false,
     "moods": [
-      "date"
+      "date",
+      "rainy"
     ],
     "best_time": [
       "afternoon"
     ]
   },
   {
-    "id": "115",
-    "name": "사천 전망대 114",
-    "category_main": "activity",
-    "category_sub": "포토존",
+    "id": "116",
+    "name": "사천면 안목 글램핑",
+    "category_main": "stay",
+    "category_sub": "리조트",
     "tags": [
-      "#포토존",
-      "#성산면",
-      "#추천"
+      "#가족여행",
+      "#스파",
+      "#리조트"
     ],
-    "naver_search_query": "강릉 사천 전망대 114",
-    "address_short": "포남동",
-    "rating": 3.3,
-    "image_url": "https://images.unsplash.com/photo-1525875098832-46c7d9d0794e?w=400",
-    "is_hot": true,
+    "naver_search_query": "강릉 사천면 안목 글램핑",
+    "address_short": "강문동",
+    "rating": 4.3,
+    "image_url": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?w=400",
+    "is_hot": false,
     "moods": [
-      "family",
-      "friends",
       "rainy"
     ],
     "best_time": [
-      "morning",
-      "night"
-    ]
-  },
-  {
-    "id": "116",
-    "name": "주문진 베이커리 115",
-    "category_main": "cafe",
-    "category_sub": "베이커리",
-    "tags": [
-      "#베이커리",
-      "#연곡면",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 주문진 베이커리 115",
-    "address_short": "포남동",
-    "rating": 3.8,
-    "image_url": "https://images.unsplash.com/photo-1511920170033-f8396924c348?w=400",
-    "is_hot": true,
-    "moods": [
-      "friends",
-      "family"
-    ],
-    "best_time": [
-      "night"
+      "morning"
     ]
   },
   {
     "id": "117",
-    "name": "경포 하우스 116",
-    "category_main": "stay",
-    "category_sub": "호텔",
+    "name": "옥계면 사천 공원",
+    "category_main": "activity",
+    "category_sub": "포토존",
     "tags": [
-      "#호텔",
-      "#사천면",
-      "#추천"
+      "#야경",
+      "#포토존",
+      "#성산면"
     ],
-    "naver_search_query": "강릉 경포 하우스 116",
-    "address_short": "안목동",
-    "rating": 4.4,
-    "image_url": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=400",
+    "naver_search_query": "강릉 옥계면 사천 공원",
+    "address_short": "성산면",
+    "rating": 4.0,
+    "image_url": "https://images.unsplash.com/photo-1571008887538-b36bb32f4571?w=400",
     "is_hot": false,
     "moods": [
-      "date"
+      "sunrise",
+      "family"
     ],
     "best_time": [
-      "morning",
       "afternoon"
     ]
   },
   {
     "id": "118",
-    "name": "교동 호텔 117",
-    "category_main": "stay",
-    "category_sub": "호텔",
+    "name": "구름 밥상",
+    "category_main": "food",
+    "category_sub": "베이커리",
     "tags": [
-      "#호텔",
-      "#중앙동",
-      "#추천"
+      "#데이트",
+      "#베이커리"
     ],
-    "naver_search_query": "강릉 교동 호텔 117",
-    "address_short": "교동",
-    "rating": 4.7,
-    "image_url": "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?w=400",
+    "naver_search_query": "강릉 구름 밥상",
+    "address_short": "주문진",
+    "rating": 4.5,
+    "image_url": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=400",
     "is_hot": false,
     "moods": [
-      "family",
-      "friends",
-      "date"
+      "solo"
     ],
     "best_time": [
-      "afternoon"
+      "evening"
     ]
   },
   {
     "id": "119",
-    "name": "강릉 박물관 118",
-    "category_main": "activity",
-    "category_sub": "서핑",
+    "name": "초당 모텔",
+    "category_main": "stay",
+    "category_sub": "리조트",
     "tags": [
-      "#서핑",
-      "#성산면",
-      "#추천"
+      "#조식맛집",
+      "#친절한",
+      "#리조트"
     ],
-    "naver_search_query": "강릉 강릉 박물관 118",
-    "address_short": "성산면",
-    "rating": 3.2,
-    "image_url": "https://images.unsplash.com/photo-1569965335962-2317ff2a7658?w=400",
-    "is_hot": true,
+    "naver_search_query": "강릉 초당 모텔",
+    "address_short": "옥계면",
+    "rating": 3.4,
+    "image_url": "https://images.unsplash.com/photo-1517840901100-8179e982acb7?w=400",
+    "is_hot": false,
     "moods": [
-      "solo"
+      "date",
+      "solo",
+      "friends"
     ],
     "best_time": [
       "afternoon"
@@ -2792,71 +2776,21 @@
   },
   {
     "id": "120",
-    "name": "안목 로스터리 119",
-    "category_main": "cafe",
-    "category_sub": "디저트",
+    "name": "솔향 맛집",
+    "category_main": "food",
+    "category_sub": "양식",
     "tags": [
-      "#디저트",
-      "#초당동",
-      "#추천"
+      "#현지인추천",
+      "#양식"
     ],
-    "naver_search_query": "강릉 안목 로스터리 119",
-    "address_short": "강문동",
-    "rating": 4.6,
-    "image_url": "https://images.unsplash.com/photo-1511081692775-05d0f180a065?w=400",
-    "is_hot": false,
-    "moods": [
-      "friends",
-      "rainy",
-      "date"
-    ],
-    "best_time": [
-      "evening",
-      "afternoon"
-    ]
-  },
-  {
-    "id": "121",
-    "name": "강릉 공간 120",
-    "category_main": "cafe",
-    "category_sub": "디저트",
-    "tags": [
-      "#디저트",
-      "#안목동",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 강릉 공간 120",
-    "address_short": "강문동",
-    "rating": 4.8,
-    "image_url": "https://images.unsplash.com/photo-1511920170033-f8396924c348?w=400",
-    "is_hot": false,
-    "moods": [
-      "family",
-      "evening"
-    ],
-    "best_time": [
-      "afternoon"
-    ]
-  },
-  {
-    "id": "122",
-    "name": "초당 로스터리 121",
-    "category_main": "cafe",
-    "category_sub": "감성카페",
-    "tags": [
-      "#감성카페",
-      "#안목동",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 초당 로스터리 121",
-    "address_short": "교동",
-    "rating": 3.9,
-    "image_url": "https://images.unsplash.com/photo-1445116572660-236099ec97a0?w=400",
+    "naver_search_query": "강릉 솔향 맛집",
+    "address_short": "초당동",
+    "rating": 4.5,
+    "image_url": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=400",
     "is_hot": true,
     "moods": [
-      "rainy",
-      "sunrise",
-      "evening"
+      "date",
+      "rainy"
     ],
     "best_time": [
       "evening",
@@ -2864,185 +2798,140 @@
     ]
   },
   {
-    "id": "123",
-    "name": "경포 칼국수 122",
+    "id": "121",
+    "name": "모래 칼국수",
     "category_main": "food",
-    "category_sub": "술집",
+    "category_sub": "한식",
     "tags": [
-      "#술집",
-      "#안목동",
-      "#추천"
+      "#데이트",
+      "#맛집",
+      "#한식"
     ],
-    "naver_search_query": "강릉 경포 칼국수 122",
-    "address_short": "성산면",
-    "rating": 3.4,
-    "image_url": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400",
+    "naver_search_query": "강릉 모래 칼국수",
+    "address_short": "포남동",
+    "rating": 3.6,
+    "image_url": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=400",
     "is_hot": true,
     "moods": [
-      "evening",
-      "date",
+      "friends",
+      "rainy"
+    ],
+    "best_time": [
+      "evening"
+    ]
+  },
+  {
+    "id": "122",
+    "name": "모래 플레이스",
+    "category_main": "cafe",
+    "category_sub": "디저트",
+    "tags": [
+      "#노트북",
+      "#디저트",
+      "#연곡면"
+    ],
+    "naver_search_query": "강릉 모래 플레이스",
+    "address_short": "연곡면",
+    "rating": 4.5,
+    "image_url": "https://images.unsplash.com/photo-1521017432531-fbd92d768814?w=400",
+    "is_hot": true,
+    "moods": [
+      "sunrise",
+      "friends",
+      "date"
+    ],
+    "best_time": [
+      "afternoon"
+    ]
+  },
+  {
+    "id": "123",
+    "name": "주문진 즐거운 막국수",
+    "category_main": "food",
+    "category_sub": "해산물",
+    "tags": [
+      "#현지인추천",
+      "#해산물"
+    ],
+    "naver_search_query": "강릉 주문진 즐거운 막국수",
+    "address_short": "송정동",
+    "rating": 4.9,
+    "image_url": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=400",
+    "is_hot": false,
+    "moods": [
+      "friends",
       "family"
     ],
     "best_time": [
-      "evening",
+      "morning",
       "afternoon"
     ]
   },
   {
     "id": "124",
-    "name": "사천 해변 123",
-    "category_main": "activity",
-    "category_sub": "레저",
+    "name": "사천면 맛있는 막국수",
+    "category_main": "food",
+    "category_sub": "술집",
     "tags": [
-      "#레저",
-      "#중앙동",
-      "#추천"
+      "#웨이팅",
+      "#가족모임",
+      "#술집"
     ],
-    "naver_search_query": "강릉 사천 해변 123",
-    "address_short": "강문동",
-    "rating": 3.1,
-    "image_url": "https://images.unsplash.com/photo-1571008887538-b36bb32f4571?w=400",
+    "naver_search_query": "강릉 사천면 맛있는 막국수",
+    "address_short": "성산면",
+    "rating": 4.4,
+    "image_url": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=400",
     "is_hot": false,
     "moods": [
+      "friends",
+      "rainy",
       "sunrise"
     ],
     "best_time": [
-      "afternoon",
-      "evening"
+      "afternoon"
     ]
   },
   {
     "id": "125",
-    "name": "강릉 공원 124",
-    "category_main": "activity",
-    "category_sub": "해변",
+    "name": "포남동 행복 호텔",
+    "category_main": "stay",
+    "category_sub": "캠핑",
     "tags": [
-      "#해변",
-      "#주문진",
-      "#추천"
+      "#조식맛집",
+      "#캠핑",
+      "#홍제동"
     ],
-    "naver_search_query": "강릉 강릉 공원 124",
-    "address_short": "연곡면",
-    "rating": 4.7,
-    "image_url": "https://images.unsplash.com/photo-1480480565647-1c4385c7c0bf?w=400",
+    "naver_search_query": "강릉 포남동 행복 호텔",
+    "address_short": "홍제동",
+    "rating": 3.1,
+    "image_url": "https://images.unsplash.com/photo-1517840901100-8179e982acb7?w=400",
     "is_hot": false,
     "moods": [
-      "friends",
       "date",
-      "family"
+      "sunrise"
     ],
     "best_time": [
+      "night",
       "afternoon"
     ]
   },
   {
     "id": "126",
-    "name": "안목 순두부 125",
+    "name": "주문진 순두부",
     "category_main": "food",
-    "category_sub": "일식",
+    "category_sub": "해산물",
     "tags": [
-      "#일식",
-      "#교동",
-      "#추천"
+      "#가족모임",
+      "#해산물",
+      "#성산면"
     ],
-    "naver_search_query": "강릉 안목 순두부 125",
-    "address_short": "포남동",
-    "rating": 3.2,
-    "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=400",
+    "naver_search_query": "강릉 주문진 순두부",
+    "address_short": "성산면",
+    "rating": 4.3,
+    "image_url": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400",
     "is_hot": false,
     "moods": [
-      "friends"
-    ],
-    "best_time": [
-      "afternoon"
-    ]
-  },
-  {
-    "id": "127",
-    "name": "주문진 해변 126",
-    "category_main": "activity",
-    "category_sub": "전시",
-    "tags": [
-      "#전시",
-      "#강동면",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 주문진 해변 126",
-    "address_short": "교동",
-    "rating": 3.5,
-    "image_url": "https://images.unsplash.com/photo-1624719507903-7d8b41c7c9cb?w=400",
-    "is_hot": false,
-    "moods": [
-      "solo",
-      "sunrise",
-      "rainy"
-    ],
-    "best_time": [
-      "evening",
-      "morning"
-    ]
-  },
-  {
-    "id": "128",
-    "name": "안목 로스터리 127",
-    "category_main": "cafe",
-    "category_sub": "오션뷰",
-    "tags": [
-      "#오션뷰",
-      "#연곡면",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 안목 로스터리 127",
-    "address_short": "안목동",
-    "rating": 3.9,
-    "image_url": "https://images.unsplash.com/photo-1511920170033-f8396924c348?w=400",
-    "is_hot": false,
-    "moods": [
-      "friends"
-    ],
-    "best_time": [
-      "morning"
-    ]
-  },
-  {
-    "id": "129",
-    "name": "사천 공원 128",
-    "category_main": "activity",
-    "category_sub": "포토존",
-    "tags": [
-      "#포토존",
-      "#강동면",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 사천 공원 128",
-    "address_short": "강동면",
-    "rating": 4.7,
-    "image_url": "https://images.unsplash.com/photo-1480480565647-1c4385c7c0bf?w=400",
-    "is_hot": true,
-    "moods": [
-      "solo",
-      "date"
-    ],
-    "best_time": [
-      "night"
-    ]
-  },
-  {
-    "id": "130",
-    "name": "주문진 버거 129",
-    "category_main": "food",
-    "category_sub": "일식",
-    "tags": [
-      "#일식",
-      "#사천면",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 주문진 버거 129",
-    "address_short": "옥계면",
-    "rating": 4.4,
-    "image_url": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400",
-    "is_hot": false,
-    "moods": [
+      "friends",
       "solo",
       "family"
     ],
@@ -3051,116 +2940,47 @@
     ]
   },
   {
-    "id": "131",
-    "name": "관동 공간 130",
+    "id": "127",
+    "name": "낭만 베이커리",
     "category_main": "cafe",
-    "category_sub": "감성카페",
+    "category_sub": "로스터리",
     "tags": [
-      "#감성카페",
-      "#옥계면",
-      "#추천"
+      "#커피맛집",
+      "#로스터리",
+      "#연곡면"
     ],
-    "naver_search_query": "강릉 관동 공간 130",
-    "address_short": "중앙동",
-    "rating": 3.6,
-    "image_url": "https://images.unsplash.com/photo-1481833761820-0509d3217039?w=400",
-    "is_hot": false,
-    "moods": [
-      "date",
-      "family",
-      "friends"
-    ],
-    "best_time": [
-      "morning"
-    ]
-  },
-  {
-    "id": "132",
-    "name": "관동 박물관 131",
-    "category_main": "activity",
-    "category_sub": "해변",
-    "tags": [
-      "#해변",
-      "#옥계면",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 관동 박물관 131",
-    "address_short": "안목동",
+    "naver_search_query": "강릉 낭만 베이커리",
+    "address_short": "연곡면",
     "rating": 4.2,
-    "image_url": "https://images.unsplash.com/photo-1523582407565-efee5cf4a353?w=400",
+    "image_url": "https://images.unsplash.com/photo-1511081692775-05d0f180a065?w=400",
     "is_hot": true,
     "moods": [
-      "sunrise",
-      "friends",
-      "rainy"
+      "family"
     ],
     "best_time": [
-      "evening"
-    ]
-  },
-  {
-    "id": "133",
-    "name": "안목 전망대 132",
-    "category_main": "activity",
-    "category_sub": "해변",
-    "tags": [
-      "#해변",
-      "#사천면",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 안목 전망대 132",
-    "address_short": "강문동",
-    "rating": 4.3,
-    "image_url": "https://images.unsplash.com/photo-1523582407565-efee5cf4a353?w=400",
-    "is_hot": false,
-    "moods": [
-      "rainy"
-    ],
-    "best_time": [
+      "evening",
       "afternoon"
     ]
   },
   {
-    "id": "134",
-    "name": "강릉 로스터리 133",
-    "category_main": "cafe",
-    "category_sub": "베이커리",
+    "id": "128",
+    "name": "달빛 모텔",
+    "category_main": "stay",
+    "category_sub": "민박",
     "tags": [
-      "#베이커리",
-      "#성산면",
-      "#추천"
+      "#스파",
+      "#친절한",
+      "#민박",
+      "#사천면"
     ],
-    "naver_search_query": "강릉 강릉 로스터리 133",
-    "address_short": "연곡면",
-    "rating": 4.6,
-    "image_url": "https://images.unsplash.com/photo-1521017432531-fbd92d768814?w=400",
+    "naver_search_query": "강릉 달빛 모텔",
+    "address_short": "사천면",
+    "rating": 4.4,
+    "image_url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400",
     "is_hot": true,
     "moods": [
-      "friends",
-      "evening"
-    ],
-    "best_time": [
-      "night"
-    ]
-  },
-  {
-    "id": "135",
-    "name": "강릉 미술관 134",
-    "category_main": "activity",
-    "category_sub": "해변",
-    "tags": [
-      "#해변",
-      "#강문동",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 강릉 미술관 134",
-    "address_short": "초당동",
-    "rating": 3.4,
-    "image_url": "https://images.unsplash.com/photo-1502904550040-7534597429ae?w=400",
-    "is_hot": false,
-    "moods": [
-      "sunrise",
-      "rainy"
+      "date",
+      "friends"
     ],
     "best_time": [
       "night",
@@ -3168,24 +2988,189 @@
     ]
   },
   {
-    "id": "136",
-    "name": "초당 갈비 135",
+    "id": "129",
+    "name": "추억 키친",
     "category_main": "food",
-    "category_sub": "술집",
+    "category_sub": "베이커리",
     "tags": [
-      "#술집",
-      "#강문동",
-      "#추천"
+      "#해장",
+      "#베이커리",
+      "#초당동"
     ],
-    "naver_search_query": "강릉 초당 갈비 135",
-    "address_short": "연곡면",
-    "rating": 4.3,
-    "image_url": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=400",
+    "naver_search_query": "강릉 추억 키친",
+    "address_short": "초당동",
+    "rating": 4.4,
+    "image_url": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400",
+    "is_hot": false,
+    "moods": [
+      "friends",
+      "family"
+    ],
+    "best_time": [
+      "afternoon"
+    ]
+  },
+  {
+    "id": "130",
+    "name": "바다 스테이",
+    "category_main": "stay",
+    "category_sub": "캠핑",
+    "tags": [
+      "#호캉스",
+      "#캠핑"
+    ],
+    "naver_search_query": "강릉 바다 스테이",
+    "address_short": "노암동",
+    "rating": 4.1,
+    "image_url": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=400",
     "is_hot": false,
     "moods": [
       "solo",
+      "friends"
+    ],
+    "best_time": [
+      "morning",
+      "night"
+    ]
+  },
+  {
+    "id": "131",
+    "name": "율곡 길",
+    "category_main": "activity",
+    "category_sub": "공원",
+    "tags": [
+      "#일출",
+      "#공원"
+    ],
+    "naver_search_query": "강릉 율곡 길",
+    "address_short": "중앙동",
+    "rating": 3.2,
+    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=400",
+    "is_hot": true,
+    "moods": [
+      "date",
+      "rainy",
+      "family"
+    ],
+    "best_time": [
+      "afternoon",
+      "night"
+    ]
+  },
+  {
+    "id": "132",
+    "name": "바람 횟집",
+    "category_main": "food",
+    "category_sub": "중식",
+    "tags": [
+      "#저녁",
+      "#노포",
+      "#중식",
+      "#연곡면"
+    ],
+    "naver_search_query": "강릉 바람 횟집",
+    "address_short": "연곡면",
+    "rating": 3.3,
+    "image_url": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=400",
+    "is_hot": true,
+    "moods": [
+      "sunrise",
+      "solo",
+      "rainy"
+    ],
+    "best_time": [
+      "morning"
+    ]
+  },
+  {
+    "id": "133",
+    "name": "청춘 해변",
+    "category_main": "activity",
+    "category_sub": "전시",
+    "tags": [
+      "#데이트코스",
+      "#일출",
+      "#전시",
+      "#강문동"
+    ],
+    "naver_search_query": "강릉 청춘 해변",
+    "address_short": "강문동",
+    "rating": 4.1,
+    "image_url": "https://images.unsplash.com/photo-1480480565647-1c4385c7c0bf?w=400",
+    "is_hot": false,
+    "moods": [
       "friends",
+      "family",
+      "date"
+    ],
+    "best_time": [
+      "afternoon",
+      "morning"
+    ]
+  },
+  {
+    "id": "134",
+    "name": "강릉 공간",
+    "category_main": "cafe",
+    "category_sub": "디저트",
+    "tags": [
+      "#반려동물",
+      "#디저트",
+      "#중앙동"
+    ],
+    "naver_search_query": "강릉 강릉 공간",
+    "address_short": "중앙동",
+    "rating": 3.4,
+    "image_url": "https://images.unsplash.com/photo-1556742393-d75f468bfcb0?w=400",
+    "is_hot": false,
+    "moods": [
+      "friends",
+      "solo",
+      "family"
+    ],
+    "best_time": [
       "evening"
+    ]
+  },
+  {
+    "id": "135",
+    "name": "맛있는 테이블",
+    "category_main": "food",
+    "category_sub": "해산물",
+    "tags": [
+      "#웨이팅",
+      "#저녁",
+      "#해산물"
+    ],
+    "naver_search_query": "강릉 맛있는 테이블",
+    "address_short": "연곡면",
+    "rating": 3.2,
+    "image_url": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=400",
+    "is_hot": true,
+    "moods": [
+      "solo"
+    ],
+    "best_time": [
+      "night"
+    ]
+  },
+  {
+    "id": "136",
+    "name": "바다 커피",
+    "category_main": "cafe",
+    "category_sub": "디저트",
+    "tags": [
+      "#커피맛집",
+      "#주차가능",
+      "#디저트"
+    ],
+    "naver_search_query": "강릉 바다 커피",
+    "address_short": "주문진",
+    "rating": 4.9,
+    "image_url": "https://images.unsplash.com/photo-1567880905822-56f8e06fe630?w=400",
+    "is_hot": false,
+    "moods": [
+      "sunrise"
     ],
     "best_time": [
       "morning"
@@ -3193,22 +3178,94 @@
   },
   {
     "id": "137",
-    "name": "초당 로스터리 136",
+    "name": "안목동 경포 로스터리",
     "category_main": "cafe",
     "category_sub": "대형카페",
     "tags": [
+      "#테라스",
+      "#커피맛집",
       "#대형카페",
-      "#주문진",
-      "#추천"
+      "#연곡면"
     ],
-    "naver_search_query": "강릉 초당 로스터리 136",
-    "address_short": "중앙동",
-    "rating": 3.7,
-    "image_url": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=400",
+    "naver_search_query": "강릉 안목동 경포 로스터리",
+    "address_short": "연곡면",
+    "rating": 3.2,
+    "image_url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400",
+    "is_hot": false,
+    "moods": [
+      "family",
+      "solo"
+    ],
+    "best_time": [
+      "night"
+    ]
+  },
+  {
+    "id": "138",
+    "name": "경포 랜드",
+    "category_main": "activity",
+    "category_sub": "산책로",
+    "tags": [
+      "#일몰",
+      "#아이와함께",
+      "#산책로",
+      "#사천면"
+    ],
+    "naver_search_query": "강릉 경포 랜드",
+    "address_short": "사천면",
+    "rating": 4.6,
+    "image_url": "https://images.unsplash.com/photo-1549576490-b0b4831ef60a?w=400",
+    "is_hot": false,
+    "moods": [
+      "rainy",
+      "family",
+      "sunrise"
+    ],
+    "best_time": [
+      "evening",
+      "night"
+    ]
+  },
+  {
+    "id": "139",
+    "name": "노암동 구름 스튜디오",
+    "category_main": "cafe",
+    "category_sub": "감성카페",
+    "tags": [
+      "#노트북",
+      "#감성카페"
+    ],
+    "naver_search_query": "강릉 노암동 구름 스튜디오",
+    "address_short": "송정동",
+    "rating": 3.3,
+    "image_url": "https://images.unsplash.com/photo-1567880905822-56f8e06fe630?w=400",
+    "is_hot": false,
+    "moods": [
+      "rainy",
+      "solo",
+      "family"
+    ],
+    "best_time": [
+      "afternoon"
+    ]
+  },
+  {
+    "id": "140",
+    "name": "초당동 솔향 호텔",
+    "category_main": "stay",
+    "category_sub": "펜션",
+    "tags": [
+      "#오션뷰",
+      "#펜션"
+    ],
+    "naver_search_query": "강릉 초당동 솔향 호텔",
+    "address_short": "주문진",
+    "rating": 4.5,
+    "image_url": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=400",
     "is_hot": false,
     "moods": [
       "sunrise",
-      "rainy"
+      "family"
     ],
     "best_time": [
       "evening",
@@ -3216,233 +3273,99 @@
     ]
   },
   {
-    "id": "138",
-    "name": "주문진 버거 137",
+    "id": "141",
+    "name": "포남동 동해 막국수",
     "category_main": "food",
-    "category_sub": "한식",
+    "category_sub": "분식",
     "tags": [
-      "#한식",
-      "#옥계면",
-      "#추천"
+      "#혼밥",
+      "#웨이팅",
+      "#분식",
+      "#연곡면"
     ],
-    "naver_search_query": "강릉 주문진 버거 137",
-    "address_short": "강동면",
-    "rating": 3.4,
-    "image_url": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?w=400",
-    "is_hot": false,
+    "naver_search_query": "강릉 포남동 동해 막국수",
+    "address_short": "연곡면",
+    "rating": 4.6,
+    "image_url": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400",
+    "is_hot": true,
     "moods": [
-      "evening"
+      "friends",
+      "rainy"
     ],
     "best_time": [
       "night",
-      "evening"
-    ]
-  },
-  {
-    "id": "139",
-    "name": "강릉 미술관 138",
-    "category_main": "activity",
-    "category_sub": "역사",
-    "tags": [
-      "#역사",
-      "#초당동",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 강릉 미술관 138",
-    "address_short": "포남동",
-    "rating": 3.2,
-    "image_url": "https://images.unsplash.com/photo-1549576490-b0b4831ef60a?w=400",
-    "is_hot": false,
-    "moods": [
-      "evening"
-    ],
-    "best_time": [
-      "morning",
-      "night"
-    ]
-  },
-  {
-    "id": "140",
-    "name": "초당 모텔 139",
-    "category_main": "stay",
-    "category_sub": "호텔",
-    "tags": [
-      "#호텔",
-      "#강문동",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 초당 모텔 139",
-    "address_short": "성산면",
-    "rating": 4.8,
-    "image_url": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?w=400",
-    "is_hot": false,
-    "moods": [
-      "rainy",
-      "date"
-    ],
-    "best_time": [
       "afternoon"
     ]
   },
   {
-    "id": "141",
-    "name": "초당 해변 140",
-    "category_main": "activity",
-    "category_sub": "역사",
-    "tags": [
-      "#역사",
-      "#강동면",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 초당 해변 140",
-    "address_short": "강동면",
-    "rating": 3.3,
-    "image_url": "https://images.unsplash.com/photo-1520156557489-31c63271fcd4?w=400",
-    "is_hot": false,
-    "moods": [
-      "family",
-      "date"
-    ],
-    "best_time": [
-      "morning"
-    ]
-  },
-  {
     "id": "142",
-    "name": "주문진 하우스 141",
+    "name": "별빛 리조트",
     "category_main": "stay",
-    "category_sub": "리조트",
+    "category_sub": "민박",
     "tags": [
-      "#리조트",
-      "#옥계면",
-      "#추천"
+      "#커플여행",
+      "#감성숙소",
+      "#민박",
+      "#홍제동"
     ],
-    "naver_search_query": "강릉 주문진 하우스 141",
-    "address_short": "연곡면",
-    "rating": 4.7,
-    "image_url": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=400",
-    "is_hot": false,
+    "naver_search_query": "강릉 별빛 리조트",
+    "address_short": "홍제동",
+    "rating": 4.5,
+    "image_url": "https://images.unsplash.com/photo-1607962837359-5e7e89f86776?w=400",
+    "is_hot": true,
     "moods": [
-      "rainy",
-      "evening"
+      "friends",
+      "family"
     ],
     "best_time": [
-      "night",
+      "afternoon",
       "morning"
     ]
   },
   {
     "id": "143",
-    "name": "사천 랜드 142",
+    "name": "옥계면 해돋이 해변",
     "category_main": "activity",
     "category_sub": "역사",
     "tags": [
-      "#역사",
-      "#연곡면",
-      "#추천"
+      "#드라이브",
+      "#역사"
     ],
-    "naver_search_query": "강릉 사천 랜드 142",
-    "address_short": "옥계면",
-    "rating": 3.9,
-    "image_url": "https://images.unsplash.com/photo-1502904550040-7534597429ae?w=400",
-    "is_hot": true,
-    "moods": [
-      "solo",
-      "evening"
-    ],
-    "best_time": [
-      "afternoon"
-    ]
-  },
-  {
-    "id": "144",
-    "name": "경포 맛집 143",
-    "category_main": "food",
-    "category_sub": "한식",
-    "tags": [
-      "#한식",
-      "#중앙동",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 경포 맛집 143",
-    "address_short": "초당동",
-    "rating": 3.2,
-    "image_url": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=400",
-    "is_hot": true,
-    "moods": [
-      "family",
-      "date",
-      "friends"
-    ],
-    "best_time": [
-      "afternoon"
-    ]
-  },
-  {
-    "id": "145",
-    "name": "동해 제빵소 144",
-    "category_main": "cafe",
-    "category_sub": "대형카페",
-    "tags": [
-      "#대형카페",
-      "#강동면",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 동해 제빵소 144",
-    "address_short": "옥계면",
-    "rating": 3.1,
-    "image_url": "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?w=400",
-    "is_hot": false,
-    "moods": [
-      "friends",
-      "date"
-    ],
-    "best_time": [
-      "night"
-    ]
-  },
-  {
-    "id": "146",
-    "name": "사천 맛집 145",
-    "category_main": "food",
-    "category_sub": "한식",
-    "tags": [
-      "#한식",
-      "#안목동",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 사천 맛집 145",
-    "address_short": "안목동",
-    "rating": 4.0,
+    "naver_search_query": "강릉 옥계면 해돋이 해변",
+    "address_short": "홍제동",
+    "rating": 4.1,
     "image_url": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400",
     "is_hot": false,
     "moods": [
       "date",
-      "family"
+      "family",
+      "rainy"
     ],
     "best_time": [
-      "night"
+      "morning",
+      "evening"
     ]
   },
   {
-    "id": "147",
-    "name": "동해 미술관 146",
-    "category_main": "activity",
-    "category_sub": "산책로",
+    "id": "144",
+    "name": "홍제동 달빛 반점",
+    "category_main": "food",
+    "category_sub": "중식",
     "tags": [
-      "#산책로",
-      "#강동면",
-      "#추천"
+      "#가족모임",
+      "#웨이팅",
+      "#중식",
+      "#강문동"
     ],
-    "naver_search_query": "강릉 동해 미술관 146",
-    "address_short": "중앙동",
-    "rating": 3.6,
-    "image_url": "https://images.unsplash.com/photo-1480480565647-1c4385c7c0bf?w=400",
+    "naver_search_query": "강릉 홍제동 달빛 반점",
+    "address_short": "강문동",
+    "rating": 4.7,
+    "image_url": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=400",
     "is_hot": false,
     "moods": [
+      "sunrise",
       "family",
-      "friends",
-      "solo"
+      "friends"
     ],
     "best_time": [
       "morning",
@@ -3450,19 +3373,19 @@
     ]
   },
   {
-    "id": "148",
-    "name": "솔향 제빵소 147",
+    "id": "145",
+    "name": "송정동 하늘 카페",
     "category_main": "cafe",
-    "category_sub": "베이커리",
+    "category_sub": "감성카페",
     "tags": [
-      "#베이커리",
-      "#옥계면",
-      "#추천"
+      "#커피맛집",
+      "#감성카페",
+      "#송정동"
     ],
-    "naver_search_query": "강릉 솔향 제빵소 147",
-    "address_short": "옥계면",
-    "rating": 4.4,
-    "image_url": "https://images.unsplash.com/photo-1481833761820-0509d3217039?w=400",
+    "naver_search_query": "강릉 송정동 하늘 카페",
+    "address_short": "송정동",
+    "rating": 3.4,
+    "image_url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400",
     "is_hot": false,
     "moods": [
       "solo",
@@ -3470,27 +3393,96 @@
       "date"
     ],
     "best_time": [
-      "night"
+      "morning",
+      "evening"
+    ]
+  },
+  {
+    "id": "146",
+    "name": "하늘 키친",
+    "category_main": "food",
+    "category_sub": "분식",
+    "tags": [
+      "#해장",
+      "#맛집",
+      "#분식"
+    ],
+    "naver_search_query": "강릉 하늘 키친",
+    "address_short": "옥계면",
+    "rating": 3.4,
+    "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=400",
+    "is_hot": false,
+    "moods": [
+      "date"
+    ],
+    "best_time": [
+      "afternoon",
+      "evening"
+    ]
+  },
+  {
+    "id": "147",
+    "name": "동해 집",
+    "category_main": "food",
+    "category_sub": "베이커리",
+    "tags": [
+      "#맛집",
+      "#데이트",
+      "#베이커리"
+    ],
+    "naver_search_query": "강릉 동해 집",
+    "address_short": "중앙동",
+    "rating": 3.2,
+    "image_url": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400",
+    "is_hot": false,
+    "moods": [
+      "solo"
+    ],
+    "best_time": [
+      "night",
+      "morning"
+    ]
+  },
+  {
+    "id": "148",
+    "name": "율곡 식당",
+    "category_main": "food",
+    "category_sub": "양식",
+    "tags": [
+      "#가성비",
+      "#해장",
+      "#양식",
+      "#사천면"
+    ],
+    "naver_search_query": "강릉 율곡 식당",
+    "address_short": "사천면",
+    "rating": 4.2,
+    "image_url": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400",
+    "is_hot": false,
+    "moods": [
+      "friends"
+    ],
+    "best_time": [
+      "evening",
+      "morning"
     ]
   },
   {
     "id": "149",
-    "name": "교동 로스터리 148",
-    "category_main": "cafe",
-    "category_sub": "베이커리",
+    "name": "모래 키친",
+    "category_main": "food",
+    "category_sub": "중식",
     "tags": [
-      "#베이커리",
-      "#주문진",
-      "#추천"
+      "#저녁",
+      "#중식",
+      "#중앙동"
     ],
-    "naver_search_query": "강릉 교동 로스터리 148",
-    "address_short": "초당동",
-    "rating": 4.8,
-    "image_url": "https://images.unsplash.com/photo-1567880905822-56f8e06fe630?w=400",
-    "is_hot": false,
+    "naver_search_query": "강릉 모래 키친",
+    "address_short": "중앙동",
+    "rating": 3.8,
+    "image_url": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400",
+    "is_hot": true,
     "moods": [
-      "solo",
-      "rainy",
       "date"
     ],
     "best_time": [
@@ -3499,72 +3491,141 @@
   },
   {
     "id": "150",
-    "name": "교동 베이커리 149",
+    "name": "오죽 제빵소",
     "category_main": "cafe",
-    "category_sub": "오션뷰",
+    "category_sub": "감성카페",
     "tags": [
-      "#오션뷰",
-      "#연곡면",
-      "#추천"
+      "#커피맛집",
+      "#감성카페"
     ],
-    "naver_search_query": "강릉 교동 베이커리 149",
-    "address_short": "연곡면",
-    "rating": 4.3,
-    "image_url": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=400",
+    "naver_search_query": "강릉 오죽 제빵소",
+    "address_short": "홍제동",
+    "rating": 4.4,
+    "image_url": "https://images.unsplash.com/photo-1556742393-d75f468bfcb0?w=400",
     "is_hot": false,
     "moods": [
       "friends",
-      "evening"
+      "solo",
+      "date"
     ],
     "best_time": [
-      "night",
       "afternoon"
     ]
   },
   {
     "id": "151",
-    "name": "관동 반점 150",
-    "category_main": "food",
-    "category_sub": "한식",
+    "name": "홍제동 동해 플레이스",
+    "category_main": "cafe",
+    "category_sub": "북카페",
     "tags": [
-      "#한식",
-      "#교동",
-      "#추천"
+      "#반려동물",
+      "#북카페"
     ],
-    "naver_search_query": "강릉 관동 반점 150",
-    "address_short": "초당동",
-    "rating": 3.9,
-    "image_url": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=400",
-    "is_hot": true,
+    "naver_search_query": "강릉 홍제동 동해 플레이스",
+    "address_short": "안목동",
+    "rating": 4.2,
+    "image_url": "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?w=400",
+    "is_hot": false,
     "moods": [
-      "date",
+      "family",
       "solo",
-      "rainy"
+      "sunrise"
     ],
     "best_time": [
-      "evening",
-      "afternoon"
+      "morning",
+      "night"
     ]
   },
   {
     "id": "152",
-    "name": "솔향 막국수 151",
-    "category_main": "food",
-    "category_sub": "분식",
+    "name": "안목동 관동 미술관",
+    "category_main": "activity",
+    "category_sub": "산책로",
     "tags": [
-      "#분식",
-      "#주문진",
-      "#추천"
+      "#힐링",
+      "#산책로"
     ],
-    "naver_search_query": "강릉 솔향 막국수 151",
-    "address_short": "교동",
-    "rating": 4.2,
-    "image_url": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?w=400",
+    "naver_search_query": "강릉 안목동 관동 미술관",
+    "address_short": "포남동",
+    "rating": 3.1,
+    "image_url": "https://images.unsplash.com/photo-1540539234-c14a20fb7c7b?w=400",
     "is_hot": false,
     "moods": [
-      "rainy",
       "friends",
-      "evening"
+      "solo",
+      "sunrise"
+    ],
+    "best_time": [
+      "morning"
+    ]
+  },
+  {
+    "id": "153",
+    "name": "해돋이 식당",
+    "category_main": "food",
+    "category_sub": "한식",
+    "tags": [
+      "#웨이팅",
+      "#가족모임",
+      "#한식",
+      "#송정동"
+    ],
+    "naver_search_query": "강릉 해돋이 식당",
+    "address_short": "송정동",
+    "rating": 3.0,
+    "image_url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400",
+    "is_hot": false,
+    "moods": [
+      "family"
+    ],
+    "best_time": [
+      "afternoon"
+    ]
+  },
+  {
+    "id": "154",
+    "name": "홍제동 파도 스튜디오",
+    "category_main": "cafe",
+    "category_sub": "디저트",
+    "tags": [
+      "#반려동물",
+      "#조용한",
+      "#디저트",
+      "#포남동"
+    ],
+    "naver_search_query": "강릉 홍제동 파도 스튜디오",
+    "address_short": "포남동",
+    "rating": 3.2,
+    "image_url": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=400",
+    "is_hot": true,
+    "moods": [
+      "solo"
+    ],
+    "best_time": [
+      "evening",
+      "night"
+    ]
+  },
+  {
+    "id": "155",
+    "name": "해돋이 라운지",
+    "category_main": "cafe",
+    "category_sub": "오션뷰",
+    "tags": [
+      "#커피맛집",
+      "#테라스",
+      "#오션뷰",
+      "#옥계면"
+    ],
+    "naver_search_query": "강릉 해돋이 라운지",
+    "address_short": "옥계면",
+    "rating": 4.8,
+    "image_url": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=400",
+    "is_hot": false,
+    "moods": [
+      "sunrise",
+      "solo",
+      "date"
     ],
     "best_time": [
       "afternoon",
@@ -3572,68 +3633,23 @@
     ]
   },
   {
-    "id": "153",
-    "name": "안목 베이커리 152",
+    "id": "156",
+    "name": "감성 다방",
     "category_main": "cafe",
-    "category_sub": "디저트",
+    "category_sub": "감성카페",
     "tags": [
-      "#디저트",
-      "#사천면",
-      "#추천"
+      "#힐링",
+      "#감성카페"
     ],
-    "naver_search_query": "강릉 안목 베이커리 152",
-    "address_short": "강동면",
-    "rating": 3.1,
-    "image_url": "https://images.unsplash.com/photo-1445116572660-236099ec97a0?w=400",
-    "is_hot": false,
-    "moods": [
-      "sunrise",
-      "family",
-      "evening"
-    ],
-    "best_time": [
-      "night"
-    ]
-  },
-  {
-    "id": "154",
-    "name": "강릉 커피 153",
-    "category_main": "cafe",
-    "category_sub": "디저트",
-    "tags": [
-      "#디저트",
-      "#강동면",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 강릉 커피 153",
-    "address_short": "중앙동",
-    "rating": 4.8,
-    "image_url": "https://images.unsplash.com/photo-1567880905822-56f8e06fe630?w=400",
-    "is_hot": false,
-    "moods": [
-      "sunrise"
-    ],
-    "best_time": [
-      "afternoon"
-    ]
-  },
-  {
-    "id": "155",
-    "name": "초당 카페 154",
-    "category_main": "cafe",
-    "category_sub": "베이커리",
-    "tags": [
-      "#베이커리",
-      "#주문진",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 초당 카페 154",
-    "address_short": "초당동",
+    "naver_search_query": "강릉 감성 다방",
+    "address_short": "송정동",
     "rating": 3.9,
-    "image_url": "https://images.unsplash.com/photo-1556742393-d75f468bfcb0?w=400",
+    "image_url": "https://images.unsplash.com/photo-1542372147193-a7aca54189cd?w=400",
     "is_hot": false,
     "moods": [
-      "rainy"
+      "rainy",
+      "date",
+      "sunrise"
     ],
     "best_time": [
       "night",
@@ -3641,877 +3657,745 @@
     ]
   },
   {
-    "id": "156",
-    "name": "교동 호텔 155",
-    "category_main": "stay",
-    "category_sub": "펜션",
-    "tags": [
-      "#펜션",
-      "#연곡면",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 교동 호텔 155",
-    "address_short": "포남동",
-    "rating": 4.1,
-    "image_url": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?w=400",
-    "is_hot": false,
-    "moods": [
-      "evening",
-      "family",
-      "sunrise"
-    ],
-    "best_time": [
-      "evening",
-      "morning"
-    ]
-  },
-  {
     "id": "157",
-    "name": "강릉 펜션 156",
-    "category_main": "stay",
-    "category_sub": "리조트",
+    "name": "주문진 길",
+    "category_main": "activity",
+    "category_sub": "전시",
     "tags": [
-      "#리조트",
-      "#성산면",
-      "#추천"
+      "#아이와함께",
+      "#사진명소",
+      "#전시"
     ],
-    "naver_search_query": "강릉 강릉 펜션 156",
+    "naver_search_query": "강릉 주문진 길",
     "address_short": "성산면",
-    "rating": 3.8,
-    "image_url": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=400",
+    "rating": 3.5,
+    "image_url": "https://images.unsplash.com/photo-1523582407565-efee5cf4a353?w=400",
     "is_hot": false,
     "moods": [
       "friends",
-      "family",
-      "evening"
+      "date",
+      "solo"
     ],
     "best_time": [
-      "evening",
       "afternoon"
     ]
   },
   {
     "id": "158",
-    "name": "솔향 막국수 157",
-    "category_main": "food",
-    "category_sub": "중식",
+    "name": "포남동 소나무 정원",
+    "category_main": "activity",
+    "category_sub": "공원",
     "tags": [
-      "#중식",
-      "#교동",
-      "#추천"
+      "#아이와함께",
+      "#사진명소",
+      "#공원"
     ],
-    "naver_search_query": "강릉 솔향 막국수 157",
+    "naver_search_query": "강릉 포남동 소나무 정원",
     "address_short": "안목동",
-    "rating": 3.8,
-    "image_url": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=400",
+    "rating": 3.3,
+    "image_url": "https://images.unsplash.com/photo-1624719507903-7d8b41c7c9cb?w=400",
     "is_hot": false,
     "moods": [
-      "family"
+      "friends"
     ],
     "best_time": [
-      "evening"
+      "afternoon",
+      "morning"
     ]
   },
   {
     "id": "159",
-    "name": "동해 커피 158",
-    "category_main": "cafe",
-    "category_sub": "대형카페",
+    "name": "사천 펜션",
+    "category_main": "stay",
+    "category_sub": "리조트",
     "tags": [
-      "#대형카페",
-      "#사천면",
-      "#추천"
+      "#커플여행",
+      "#리조트"
     ],
-    "naver_search_query": "강릉 동해 커피 158",
+    "naver_search_query": "강릉 사천 펜션",
     "address_short": "사천면",
-    "rating": 4.2,
-    "image_url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400",
+    "rating": 4.4,
+    "image_url": "https://images.unsplash.com/photo-1549294413-26f195200c16?w=400",
     "is_hot": false,
     "moods": [
-      "sunrise",
-      "evening"
+      "family",
+      "date",
+      "sunrise"
     ],
     "best_time": [
-      "morning"
+      "evening",
+      "afternoon"
     ]
   },
   {
     "id": "160",
-    "name": "솔향 박물관 159",
-    "category_main": "activity",
-    "category_sub": "산책로",
+    "name": "행복 버거",
+    "category_main": "food",
+    "category_sub": "술집",
     "tags": [
-      "#산책로",
-      "#옥계면",
-      "#추천"
+      "#맛집",
+      "#술집"
     ],
-    "naver_search_query": "강릉 솔향 박물관 159",
-    "address_short": "강동면",
-    "rating": 4.6,
-    "image_url": "https://images.unsplash.com/photo-1480480565647-1c4385c7c0bf?w=400",
-    "is_hot": false,
+    "naver_search_query": "강릉 행복 버거",
+    "address_short": "옥계면",
+    "rating": 3.4,
+    "image_url": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=400",
+    "is_hot": true,
     "moods": [
       "solo",
-      "date",
-      "evening"
+      "sunrise"
     ],
     "best_time": [
-      "morning"
+      "morning",
+      "evening"
     ]
   },
   {
     "id": "161",
-    "name": "경포 식당 160",
+    "name": "오죽 칼국수",
     "category_main": "food",
-    "category_sub": "분식",
+    "category_sub": "베이커리",
     "tags": [
-      "#분식",
-      "#주문진",
-      "#추천"
+      "#가성비",
+      "#베이커리"
     ],
-    "naver_search_query": "강릉 경포 식당 160",
+    "naver_search_query": "강릉 오죽 칼국수",
     "address_short": "성산면",
-    "rating": 3.9,
-    "image_url": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?w=400",
+    "rating": 4.2,
+    "image_url": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=400",
     "is_hot": true,
     "moods": [
-      "sunrise",
-      "rainy"
+      "friends",
+      "sunrise"
     ],
     "best_time": [
-      "afternoon",
       "night"
     ]
   },
   {
     "id": "162",
-    "name": "교동 버거 161",
-    "category_main": "food",
-    "category_sub": "양식",
+    "name": "관동 스테이",
+    "category_main": "stay",
+    "category_sub": "민박",
     "tags": [
-      "#양식",
-      "#포남동",
-      "#추천"
+      "#감성숙소",
+      "#민박",
+      "#홍제동"
     ],
-    "naver_search_query": "강릉 교동 버거 161",
-    "address_short": "강동면",
-    "rating": 3.1,
-    "image_url": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=400",
+    "naver_search_query": "강릉 관동 스테이",
+    "address_short": "홍제동",
+    "rating": 4.3,
+    "image_url": "https://images.unsplash.com/photo-1517840901100-8179e982acb7?w=400",
     "is_hot": false,
     "moods": [
-      "sunrise",
-      "date"
+      "rainy",
+      "date",
+      "family"
     ],
     "best_time": [
-      "evening",
-      "night"
+      "afternoon",
+      "morning"
     ]
   },
   {
     "id": "163",
-    "name": "동해 해변 162",
-    "category_main": "activity",
-    "category_sub": "포토존",
+    "name": "맛있는 반점",
+    "category_main": "food",
+    "category_sub": "술집",
     "tags": [
-      "#포토존",
-      "#주문진",
-      "#추천"
+      "#현지인추천",
+      "#데이트",
+      "#술집",
+      "#주문진"
     ],
-    "naver_search_query": "강릉 동해 해변 162",
-    "address_short": "포남동",
-    "rating": 3.9,
-    "image_url": "https://images.unsplash.com/photo-1520156557489-31c63271fcd4?w=400",
+    "naver_search_query": "강릉 맛있는 반점",
+    "address_short": "주문진",
+    "rating": 3.4,
+    "image_url": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=400",
     "is_hot": false,
     "moods": [
-      "evening",
-      "solo",
-      "rainy"
+      "solo"
     ],
     "best_time": [
-      "night",
-      "evening"
+      "afternoon",
+      "morning"
     ]
   },
   {
     "id": "164",
-    "name": "교동 랜드 163",
-    "category_main": "activity",
-    "category_sub": "서핑",
+    "name": "사천 맛집",
+    "category_main": "food",
+    "category_sub": "일식",
     "tags": [
-      "#서핑",
-      "#주문진",
-      "#추천"
+      "#맛집",
+      "#일식"
     ],
-    "naver_search_query": "강릉 교동 랜드 163",
-    "address_short": "옥계면",
-    "rating": 3.8,
-    "image_url": "https://images.unsplash.com/photo-1607962837359-5e7e89f86776?w=400",
-    "is_hot": true,
+    "naver_search_query": "강릉 사천 맛집",
+    "address_short": "중앙동",
+    "rating": 3.6,
+    "image_url": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=400",
+    "is_hot": false,
     "moods": [
-      "friends",
-      "rainy"
+      "friends"
     ],
     "best_time": [
-      "evening",
-      "night"
+      "afternoon",
+      "morning"
     ]
   },
   {
     "id": "165",
-    "name": "경포 스테이 164",
-    "category_main": "stay",
-    "category_sub": "게스트하우스",
+    "name": "노암동 별빛 커피",
+    "category_main": "cafe",
+    "category_sub": "디저트",
     "tags": [
-      "#게스트하우스",
-      "#옥계면",
-      "#추천"
+      "#주차가능",
+      "#노트북",
+      "#디저트"
     ],
-    "naver_search_query": "강릉 경포 스테이 164",
-    "address_short": "교동",
-    "rating": 4.0,
-    "image_url": "https://images.unsplash.com/photo-1517840901100-8179e982acb7?w=400",
+    "naver_search_query": "강릉 노암동 별빛 커피",
+    "address_short": "강문동",
+    "rating": 3.3,
+    "image_url": "https://images.unsplash.com/photo-1556742393-d75f468bfcb0?w=400",
     "is_hot": false,
     "moods": [
       "solo",
-      "rainy",
-      "evening"
+      "friends"
     ],
     "best_time": [
+      "afternoon",
       "night"
     ]
   },
   {
     "id": "166",
-    "name": "강릉 베이커리 165",
-    "category_main": "cafe",
-    "category_sub": "대형카페",
+    "name": "초당 길",
+    "category_main": "activity",
+    "category_sub": "공원",
     "tags": [
-      "#대형카페",
-      "#옥계면",
-      "#추천"
+      "#데이트코스",
+      "#일몰",
+      "#공원"
     ],
-    "naver_search_query": "강릉 강릉 베이커리 165",
-    "address_short": "중앙동",
-    "rating": 3.1,
-    "image_url": "https://images.unsplash.com/photo-1511920170033-f8396924c348?w=400",
+    "naver_search_query": "강릉 초당 길",
+    "address_short": "연곡면",
+    "rating": 3.3,
+    "image_url": "https://images.unsplash.com/photo-1549576490-b0b4831ef60a?w=400",
     "is_hot": false,
     "moods": [
-      "family"
+      "solo",
+      "rainy"
     ],
     "best_time": [
-      "afternoon"
+      "evening"
     ]
   },
   {
     "id": "167",
-    "name": "솔향 랜드 166",
+    "name": "초당 박물관",
     "category_main": "activity",
-    "category_sub": "산책로",
+    "category_sub": "서핑",
     "tags": [
-      "#산책로",
-      "#포남동",
-      "#추천"
+      "#아이와함께",
+      "#서핑"
     ],
-    "naver_search_query": "강릉 솔향 랜드 166",
-    "address_short": "옥계면",
-    "rating": 3.3,
-    "image_url": "https://images.unsplash.com/photo-1520156557489-31c63271fcd4?w=400",
+    "naver_search_query": "강릉 초당 박물관",
+    "address_short": "노암동",
+    "rating": 3.2,
+    "image_url": "https://images.unsplash.com/photo-1549576490-b0b4831ef60a?w=400",
     "is_hot": false,
     "moods": [
-      "family",
-      "evening",
-      "sunrise"
+      "rainy",
+      "date",
+      "solo"
     ],
     "best_time": [
-      "morning"
+      "morning",
+      "night"
     ]
   },
   {
     "id": "168",
-    "name": "교동 맛집 167",
-    "category_main": "food",
-    "category_sub": "술집",
+    "name": "성산면 율곡 스테이",
+    "category_main": "stay",
+    "category_sub": "펜션",
     "tags": [
-      "#술집",
-      "#포남동",
-      "#추천"
+      "#친절한",
+      "#펜션",
+      "#안목동"
     ],
-    "naver_search_query": "강릉 교동 맛집 167",
+    "naver_search_query": "강릉 성산면 율곡 스테이",
     "address_short": "안목동",
-    "rating": 3.8,
-    "image_url": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?w=400",
+    "rating": 4.1,
+    "image_url": "https://images.unsplash.com/photo-1495365200479-c4ed1d35e1aa?w=400",
     "is_hot": true,
     "moods": [
-      "sunrise",
       "solo"
     ],
     "best_time": [
-      "evening",
       "night"
     ]
   },
   {
     "id": "169",
-    "name": "사천 밥상 168",
-    "category_main": "food",
-    "category_sub": "해산물",
+    "name": "경포 공간",
+    "category_main": "cafe",
+    "category_sub": "오션뷰",
     "tags": [
-      "#해산물",
-      "#교동",
-      "#추천"
+      "#힐링",
+      "#노트북",
+      "#오션뷰",
+      "#성산면"
     ],
-    "naver_search_query": "강릉 사천 밥상 168",
-    "address_short": "안목동",
-    "rating": 3.1,
-    "image_url": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=400",
+    "naver_search_query": "강릉 경포 공간",
+    "address_short": "성산면",
+    "rating": 4.0,
+    "image_url": "https://images.unsplash.com/photo-1521017432531-fbd92d768814?w=400",
     "is_hot": false,
     "moods": [
-      "rainy",
-      "sunrise",
-      "solo"
+      "family"
     ],
     "best_time": [
-      "evening",
-      "morning"
+      "morning",
+      "night"
     ]
   },
   {
     "id": "170",
-    "name": "교동 펜션 169",
-    "category_main": "stay",
-    "category_sub": "게스트하우스",
+    "name": "달빛 체험장",
+    "category_main": "activity",
+    "category_sub": "역사",
     "tags": [
-      "#게스트하우스",
-      "#포남동",
-      "#추천"
+      "#바다",
+      "#역사"
     ],
-    "naver_search_query": "강릉 교동 펜션 169",
-    "address_short": "중앙동",
-    "rating": 4.0,
-    "image_url": "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?w=400",
+    "naver_search_query": "강릉 달빛 체험장",
+    "address_short": "포남동",
+    "rating": 3.7,
+    "image_url": "https://images.unsplash.com/photo-1571008887538-b36bb32f4571?w=400",
     "is_hot": false,
     "moods": [
-      "friends"
+      "solo",
+      "date",
+      "sunrise"
     ],
     "best_time": [
-      "afternoon",
-      "morning"
+      "morning",
+      "evening"
     ]
   },
   {
     "id": "171",
-    "name": "관동 막국수 170",
-    "category_main": "food",
-    "category_sub": "일식",
+    "name": "구름 스테이",
+    "category_main": "stay",
+    "category_sub": "민박",
     "tags": [
-      "#일식",
-      "#연곡면",
-      "#추천"
+      "#친절한",
+      "#민박",
+      "#주문진"
     ],
-    "naver_search_query": "강릉 관동 막국수 170",
-    "address_short": "연곡면",
-    "rating": 3.3,
-    "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=400",
+    "naver_search_query": "강릉 구름 스테이",
+    "address_short": "주문진",
+    "rating": 4.9,
+    "image_url": "https://images.unsplash.com/photo-1549294413-26f195200c16?w=400",
     "is_hot": false,
     "moods": [
-      "evening",
-      "rainy"
+      "solo",
+      "family",
+      "sunrise"
     ],
     "best_time": [
-      "evening",
-      "morning"
+      "morning",
+      "afternoon"
     ]
   },
   {
     "id": "172",
-    "name": "동해 카페 171",
-    "category_main": "cafe",
-    "category_sub": "디저트",
+    "name": "안목동 감성 공원",
+    "category_main": "activity",
+    "category_sub": "서핑",
     "tags": [
-      "#디저트",
-      "#강동면",
-      "#추천"
+      "#바다",
+      "#일출",
+      "#서핑"
     ],
-    "naver_search_query": "강릉 동해 카페 171",
-    "address_short": "성산면",
-    "rating": 4.0,
-    "image_url": "https://images.unsplash.com/photo-1481833761820-0509d3217039?w=400",
-    "is_hot": false,
+    "naver_search_query": "강릉 안목동 감성 공원",
+    "address_short": "송정동",
+    "rating": 4.7,
+    "image_url": "https://images.unsplash.com/photo-1523582407565-efee5cf4a353?w=400",
+    "is_hot": true,
     "moods": [
-      "sunrise",
-      "friends"
+      "family"
     ],
     "best_time": [
-      "afternoon",
       "night"
     ]
   },
   {
     "id": "173",
-    "name": "사천 스테이 172",
-    "category_main": "stay",
-    "category_sub": "리조트",
+    "name": "구름 숲",
+    "category_main": "activity",
+    "category_sub": "포토존",
     "tags": [
-      "#리조트",
-      "#주문진",
-      "#추천"
+      "#사진명소",
+      "#포토존"
     ],
-    "naver_search_query": "강릉 사천 스테이 172",
-    "address_short": "사천면",
-    "rating": 4.7,
-    "image_url": "https://images.unsplash.com/photo-1629140727571-9b5c6f6267b4?w=400",
+    "naver_search_query": "강릉 구름 숲",
+    "address_short": "홍제동",
+    "rating": 3.4,
+    "image_url": "https://images.unsplash.com/photo-1635702961175-f6949dded992?w=400",
     "is_hot": false,
     "moods": [
-      "rainy"
+      "rainy",
+      "solo"
     ],
     "best_time": [
-      "afternoon",
       "night"
     ]
   },
   {
     "id": "174",
-    "name": "동해 모텔 173",
+    "name": "별빛 민박",
     "category_main": "stay",
-    "category_sub": "펜션",
+    "category_sub": "리조트",
     "tags": [
-      "#펜션",
-      "#주문진",
-      "#추천"
+      "#스파",
+      "#오션뷰",
+      "#리조트"
     ],
-    "naver_search_query": "강릉 동해 모텔 173",
-    "address_short": "강동면",
-    "rating": 4.6,
-    "image_url": "https://images.unsplash.com/photo-1495365200479-c4ed1d35e1aa?w=400",
+    "naver_search_query": "강릉 별빛 민박",
+    "address_short": "주문진",
+    "rating": 3.3,
+    "image_url": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?w=400",
     "is_hot": false,
     "moods": [
-      "sunrise",
-      "date"
+      "friends"
     ],
     "best_time": [
-      "evening"
-    ]
-  },
-  {
-    "id": "175",
-    "name": "초당 박물관 174",
-    "category_main": "activity",
-    "category_sub": "해변",
-    "tags": [
-      "#해변",
-      "#강동면",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 초당 박물관 174",
-    "address_short": "포남동",
-    "rating": 3.9,
-    "image_url": "https://images.unsplash.com/photo-1624719507903-7d8b41c7c9cb?w=400",
-    "is_hot": false,
-    "moods": [
-      "rainy",
-      "evening"
-    ],
-    "best_time": [
-      "afternoon",
       "morning"
     ]
   },
   {
-    "id": "176",
-    "name": "관동 리조트 175",
-    "category_main": "stay",
-    "category_sub": "게스트하우스",
+    "id": "175",
+    "name": "감성 스튜디오",
+    "category_main": "cafe",
+    "category_sub": "로스터리",
     "tags": [
-      "#게스트하우스",
-      "#강동면",
-      "#추천"
+      "#테라스",
+      "#로스터리"
     ],
-    "naver_search_query": "강릉 관동 리조트 175",
-    "address_short": "안목동",
-    "rating": 4.8,
-    "image_url": "https://images.unsplash.com/photo-1629140727571-9b5c6f6267b4?w=400",
-    "is_hot": false,
+    "naver_search_query": "강릉 감성 스튜디오",
+    "address_short": "사천면",
+    "rating": 4.9,
+    "image_url": "https://images.unsplash.com/photo-1445116572660-236099ec97a0?w=400",
+    "is_hot": true,
     "moods": [
       "friends",
       "rainy",
-      "solo"
+      "date"
     ],
     "best_time": [
       "night"
+    ]
+  },
+  {
+    "id": "176",
+    "name": "홍제동 초당 게스트하우스",
+    "category_main": "stay",
+    "category_sub": "리조트",
+    "tags": [
+      "#깨끗한",
+      "#리조트",
+      "#성산면"
+    ],
+    "naver_search_query": "강릉 홍제동 초당 게스트하우스",
+    "address_short": "성산면",
+    "rating": 4.5,
+    "image_url": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=400",
+    "is_hot": false,
+    "moods": [
+      "family",
+      "solo",
+      "friends"
+    ],
+    "best_time": [
+      "morning"
     ]
   },
   {
     "id": "177",
-    "name": "관동 펜션 176",
-    "category_main": "stay",
-    "category_sub": "호텔",
+    "name": "청춘 밥상",
+    "category_main": "food",
+    "category_sub": "중식",
     "tags": [
-      "#호텔",
-      "#강문동",
-      "#추천"
+      "#데이트",
+      "#혼밥",
+      "#중식"
     ],
-    "naver_search_query": "강릉 관동 펜션 176",
-    "address_short": "초당동",
-    "rating": 4.4,
-    "image_url": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?w=400",
-    "is_hot": false,
+    "naver_search_query": "강릉 청춘 밥상",
+    "address_short": "강문동",
+    "rating": 4.3,
+    "image_url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400",
+    "is_hot": true,
     "moods": [
-      "family",
-      "date"
+      "rainy"
     ],
     "best_time": [
-      "morning",
-      "night"
+      "afternoon"
     ]
   },
   {
     "id": "178",
-    "name": "교동 밥상 177",
-    "category_main": "food",
-    "category_sub": "한식",
+    "name": "옥계면 모래 게스트하우스",
+    "category_main": "stay",
+    "category_sub": "리조트",
     "tags": [
-      "#한식",
-      "#사천면",
-      "#추천"
+      "#가족여행",
+      "#스파",
+      "#리조트",
+      "#포남동"
     ],
-    "naver_search_query": "강릉 교동 밥상 177",
-    "address_short": "옥계면",
-    "rating": 4.2,
-    "image_url": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=400",
-    "is_hot": false,
+    "naver_search_query": "강릉 옥계면 모래 게스트하우스",
+    "address_short": "포남동",
+    "rating": 3.2,
+    "image_url": "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?w=400",
+    "is_hot": true,
     "moods": [
-      "date",
-      "rainy",
       "solo"
     ],
     "best_time": [
-      "evening",
-      "night"
+      "evening"
     ]
   },
   {
     "id": "179",
-    "name": "솔향 전망대 178",
-    "category_main": "activity",
-    "category_sub": "해변",
+    "name": "사천 호텔",
+    "category_main": "stay",
+    "category_sub": "리조트",
     "tags": [
-      "#해변",
-      "#안목동",
-      "#추천"
+      "#수영장",
+      "#호캉스",
+      "#리조트"
     ],
-    "naver_search_query": "강릉 솔향 전망대 178",
+    "naver_search_query": "강릉 사천 호텔",
     "address_short": "교동",
-    "rating": 3.7,
-    "image_url": "https://images.unsplash.com/photo-1525875098832-46c7d9d0794e?w=400",
+    "rating": 3.6,
+    "image_url": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?w=400",
     "is_hot": false,
     "moods": [
-      "date",
-      "evening"
+      "rainy",
+      "friends"
     ],
     "best_time": [
-      "evening",
+      "morning",
       "afternoon"
     ]
   },
   {
     "id": "180",
-    "name": "주문진 랜드 179",
-    "category_main": "activity",
-    "category_sub": "전시",
+    "name": "맛있는 공간",
+    "category_main": "cafe",
+    "category_sub": "디저트",
     "tags": [
-      "#전시",
-      "#포남동",
-      "#추천"
+      "#디저트맛집",
+      "#반려동물",
+      "#디저트",
+      "#중앙동"
     ],
-    "naver_search_query": "강릉 주문진 랜드 179",
-    "address_short": "교동",
-    "rating": 3.2,
-    "image_url": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=400",
+    "naver_search_query": "강릉 맛있는 공간",
+    "address_short": "중앙동",
+    "rating": 3.1,
+    "image_url": "https://images.unsplash.com/photo-1481833761820-0509d3217039?w=400",
     "is_hot": false,
     "moods": [
-      "family"
+      "family",
+      "solo",
+      "rainy"
     ],
     "best_time": [
-      "morning"
+      "morning",
+      "night"
     ]
   },
   {
     "id": "181",
-    "name": "경포 맛집 180",
-    "category_main": "food",
-    "category_sub": "술집",
+    "name": "중앙동 추억 라운지",
+    "category_main": "cafe",
+    "category_sub": "로스터리",
     "tags": [
-      "#술집",
-      "#강동면",
-      "#추천"
+      "#조용한",
+      "#로스터리"
     ],
-    "naver_search_query": "강릉 경포 맛집 180",
-    "address_short": "안목동",
-    "rating": 3.2,
-    "image_url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400",
-    "is_hot": true,
-    "moods": [
-      "evening"
-    ],
-    "best_time": [
-      "afternoon",
-      "evening"
-    ]
-  },
-  {
-    "id": "182",
-    "name": "경포 스테이 181",
-    "category_main": "stay",
-    "category_sub": "리조트",
-    "tags": [
-      "#리조트",
-      "#포남동",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 경포 스테이 181",
+    "naver_search_query": "강릉 중앙동 추억 라운지",
     "address_short": "포남동",
-    "rating": 3.9,
-    "image_url": "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?w=400",
+    "rating": 4.7,
+    "image_url": "https://images.unsplash.com/photo-1481833761820-0509d3217039?w=400",
     "is_hot": false,
     "moods": [
-      "family",
-      "rainy",
-      "evening"
+      "friends"
     ],
     "best_time": [
-      "morning",
+      "evening",
       "afternoon"
     ]
   },
   {
-    "id": "183",
-    "name": "초당 길 182",
-    "category_main": "activity",
-    "category_sub": "포토존",
+    "id": "182",
+    "name": "포남동 바람 버거",
+    "category_main": "food",
+    "category_sub": "중식",
     "tags": [
-      "#포토존",
-      "#안목동",
-      "#추천"
+      "#맛집",
+      "#중식"
     ],
-    "naver_search_query": "강릉 초당 길 182",
-    "address_short": "중앙동",
+    "naver_search_query": "강릉 포남동 바람 버거",
+    "address_short": "성산면",
     "rating": 3.4,
-    "image_url": "https://images.unsplash.com/photo-1571008887538-b36bb32f4571?w=400",
+    "image_url": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=400",
     "is_hot": false,
     "moods": [
-      "rainy",
-      "evening"
+      "sunrise",
+      "date"
     ],
     "best_time": [
-      "morning",
+      "night"
+    ]
+  },
+  {
+    "id": "183",
+    "name": "바람 스튜디오",
+    "category_main": "cafe",
+    "category_sub": "로스터리",
+    "tags": [
+      "#주차가능",
+      "#커피맛집",
+      "#로스터리",
+      "#초당동"
+    ],
+    "naver_search_query": "강릉 바람 스튜디오",
+    "address_short": "초당동",
+    "rating": 3.6,
+    "image_url": "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?w=400",
+    "is_hot": false,
+    "moods": [
+      "family",
+      "friends"
+    ],
+    "best_time": [
       "afternoon"
     ]
   },
   {
     "id": "184",
-    "name": "초당 다방 183",
-    "category_main": "cafe",
-    "category_sub": "베이커리",
+    "name": "추억 모텔",
+    "category_main": "stay",
+    "category_sub": "호텔",
     "tags": [
-      "#베이커리",
-      "#옥계면",
-      "#추천"
+      "#감성숙소",
+      "#스파",
+      "#호텔",
+      "#안목동"
     ],
-    "naver_search_query": "강릉 초당 다방 183",
-    "address_short": "주문진",
-    "rating": 3.7,
-    "image_url": "https://images.unsplash.com/photo-1569096651661-820d0de8b4ab?w=400",
+    "naver_search_query": "강릉 추억 모텔",
+    "address_short": "안목동",
+    "rating": 4.8,
+    "image_url": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?w=400",
     "is_hot": false,
     "moods": [
-      "solo",
-      "date"
+      "sunrise",
+      "friends",
+      "family"
     ],
     "best_time": [
-      "evening",
+      "night",
       "afternoon"
     ]
   },
   {
     "id": "185",
-    "name": "관동 체험장 184",
-    "category_main": "activity",
-    "category_sub": "레저",
+    "name": "사천 막국수",
+    "category_main": "food",
+    "category_sub": "술집",
     "tags": [
-      "#레저",
-      "#중앙동",
-      "#추천"
+      "#데이트",
+      "#술집"
     ],
-    "naver_search_query": "강릉 관동 체험장 184",
-    "address_short": "주문진",
-    "rating": 4.0,
-    "image_url": "https://images.unsplash.com/photo-1480480565647-1c4385c7c0bf?w=400",
-    "is_hot": false,
-    "moods": [
-      "sunrise",
-      "solo",
-      "rainy"
-    ],
-    "best_time": [
-      "evening"
-    ]
-  },
-  {
-    "id": "186",
-    "name": "안목 박물관 185",
-    "category_main": "activity",
-    "category_sub": "해변",
-    "tags": [
-      "#해변",
-      "#옥계면",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 안목 박물관 185",
-    "address_short": "연곡면",
-    "rating": 4.6,
-    "image_url": "https://images.unsplash.com/photo-1520156557489-31c63271fcd4?w=400",
+    "naver_search_query": "강릉 사천 막국수",
+    "address_short": "송정동",
+    "rating": 4.8,
+    "image_url": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=400",
     "is_hot": false,
     "moods": [
       "family",
       "date"
     ],
     "best_time": [
-      "evening"
-    ]
-  },
-  {
-    "id": "187",
-    "name": "경포 밥상 186",
-    "category_main": "food",
-    "category_sub": "중식",
-    "tags": [
-      "#중식",
-      "#연곡면",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 경포 밥상 186",
-    "address_short": "포남동",
-    "rating": 4.4,
-    "image_url": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400",
-    "is_hot": true,
-    "moods": [
-      "friends"
-    ],
-    "best_time": [
-      "afternoon",
-      "night"
-    ]
-  },
-  {
-    "id": "188",
-    "name": "솔향 공원 187",
-    "category_main": "activity",
-    "category_sub": "서핑",
-    "tags": [
-      "#서핑",
-      "#포남동",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 솔향 공원 187",
-    "address_short": "강동면",
-    "rating": 4.8,
-    "image_url": "https://images.unsplash.com/photo-1502904550040-7534597429ae?w=400",
-    "is_hot": false,
-    "moods": [
-      "solo",
-      "sunrise"
-    ],
-    "best_time": [
-      "evening"
-    ]
-  },
-  {
-    "id": "189",
-    "name": "동해 맛집 188",
-    "category_main": "food",
-    "category_sub": "한식",
-    "tags": [
-      "#한식",
-      "#강동면",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 동해 맛집 188",
-    "address_short": "옥계면",
-    "rating": 3.8,
-    "image_url": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=400",
-    "is_hot": false,
-    "moods": [
-      "date",
-      "rainy"
-    ],
-    "best_time": [
-      "evening"
-    ]
-  },
-  {
-    "id": "190",
-    "name": "관동 민박 189",
-    "category_main": "stay",
-    "category_sub": "펜션",
-    "tags": [
-      "#펜션",
-      "#주문진",
-      "#추천"
-    ],
-    "naver_search_query": "강릉 관동 민박 189",
-    "address_short": "강문동",
-    "rating": 3.4,
-    "image_url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400",
-    "is_hot": false,
-    "moods": [
       "evening",
-      "rainy",
-      "sunrise"
+      "morning"
+    ]
+  },
+  {
+    "id": "186",
+    "name": "바람 키친",
+    "category_main": "food",
+    "category_sub": "분식",
+    "tags": [
+      "#가성비",
+      "#분식"
+    ],
+    "naver_search_query": "강릉 바람 키친",
+    "address_short": "초당동",
+    "rating": 4.5,
+    "image_url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400",
+    "is_hot": false,
+    "moods": [
+      "solo"
     ],
     "best_time": [
+      "night",
       "afternoon"
     ]
   },
   {
-    "id": "191",
-    "name": "동해 공간 190",
-    "category_main": "cafe",
-    "category_sub": "베이커리",
+    "id": "187",
+    "name": "구름 해변",
+    "category_main": "activity",
+    "category_sub": "해변",
     "tags": [
-      "#베이커리",
-      "#사천면",
-      "#추천"
+      "#일출",
+      "#야경",
+      "#해변"
     ],
-    "naver_search_query": "강릉 동해 공간 190",
-    "address_short": "사천면",
-    "rating": 4.4,
-    "image_url": "https://images.unsplash.com/photo-1511920170033-f8396924c348?w=400",
+    "naver_search_query": "강릉 구름 해변",
+    "address_short": "옥계면",
+    "rating": 3.9,
+    "image_url": "https://images.unsplash.com/photo-1525875098832-46c7d9d0794e?w=400",
     "is_hot": false,
     "moods": [
-      "rainy"
+      "date",
+      "family"
     ],
     "best_time": [
-      "night"
+      "evening"
     ]
   },
   {
-    "id": "192",
-    "name": "주문진 체험장 191",
-    "category_main": "activity",
-    "category_sub": "포토존",
+    "id": "188",
+    "name": "경포 제빵소",
+    "category_main": "cafe",
+    "category_sub": "대형카페",
     "tags": [
-      "#포토존",
-      "#사천면",
-      "#추천"
+      "#뷰맛집",
+      "#대형카페",
+      "#안목동"
     ],
-    "naver_search_query": "강릉 주문진 체험장 191",
-    "address_short": "초당동",
-    "rating": 3.7,
-    "image_url": "https://images.unsplash.com/photo-1467139701929-18c0d27a7516?w=400",
-    "is_hot": false,
+    "naver_search_query": "강릉 경포 제빵소",
+    "address_short": "안목동",
+    "rating": 4.4,
+    "image_url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400",
+    "is_hot": true,
     "moods": [
-      "family",
-      "date",
-      "friends"
+      "rainy"
     ],
     "best_time": [
       "night",
@@ -4519,91 +4403,191 @@
     ]
   },
   {
-    "id": "193",
-    "name": "강릉 스테이 192",
+    "id": "189",
+    "name": "소나무 캠핑장",
     "category_main": "stay",
     "category_sub": "호텔",
     "tags": [
-      "#호텔",
-      "#포남동",
-      "#추천"
+      "#감성숙소",
+      "#호캉스",
+      "#호텔"
     ],
-    "naver_search_query": "강릉 강릉 스테이 192",
-    "address_short": "성산면",
-    "rating": 4.0,
-    "image_url": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=400",
+    "naver_search_query": "강릉 소나무 캠핑장",
+    "address_short": "사천면",
+    "rating": 4.1,
+    "image_url": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?w=400",
     "is_hot": false,
     "moods": [
-      "friends"
+      "rainy"
     ],
     "best_time": [
+      "morning",
       "evening"
     ]
   },
   {
-    "id": "194",
-    "name": "주문진 로스터리 193",
-    "category_main": "cafe",
-    "category_sub": "디저트",
+    "id": "190",
+    "name": "모래 펜션",
+    "category_main": "stay",
+    "category_sub": "게스트하우스",
     "tags": [
-      "#디저트",
-      "#포남동",
-      "#추천"
+      "#깨끗한",
+      "#게스트하우스",
+      "#사천면"
     ],
-    "naver_search_query": "강릉 주문진 로스터리 193",
-    "address_short": "주문진",
-    "rating": 3.7,
-    "image_url": "https://images.unsplash.com/photo-1521017432531-fbd92d768814?w=400",
-    "is_hot": true,
+    "naver_search_query": "강릉 모래 펜션",
+    "address_short": "사천면",
+    "rating": 3.3,
+    "image_url": "https://images.unsplash.com/photo-1467139701929-18c0d27a7516?w=400",
+    "is_hot": false,
     "moods": [
-      "friends"
+      "friends",
+      "date"
+    ],
+    "best_time": [
+      "night",
+      "morning"
+    ]
+  },
+  {
+    "id": "191",
+    "name": "달빛 순두부",
+    "category_main": "food",
+    "category_sub": "해산물",
+    "tags": [
+      "#저녁",
+      "#해산물"
+    ],
+    "naver_search_query": "강릉 달빛 순두부",
+    "address_short": "교동",
+    "rating": 3.1,
+    "image_url": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=400",
+    "is_hot": false,
+    "moods": [
+      "solo",
+      "rainy",
+      "family"
     ],
     "best_time": [
       "afternoon"
+    ]
+  },
+  {
+    "id": "192",
+    "name": "파도 베이커리",
+    "category_main": "cafe",
+    "category_sub": "감성카페",
+    "tags": [
+      "#테라스",
+      "#인생샷",
+      "#감성카페",
+      "#사천면"
+    ],
+    "naver_search_query": "강릉 파도 베이커리",
+    "address_short": "사천면",
+    "rating": 4.4,
+    "image_url": "https://images.unsplash.com/photo-1567880905822-56f8e06fe630?w=400",
+    "is_hot": true,
+    "moods": [
+      "date",
+      "friends",
+      "family"
+    ],
+    "best_time": [
+      "morning"
+    ]
+  },
+  {
+    "id": "193",
+    "name": "강릉 하우스",
+    "category_main": "stay",
+    "category_sub": "리조트",
+    "tags": [
+      "#친절한",
+      "#감성숙소",
+      "#리조트",
+      "#교동"
+    ],
+    "naver_search_query": "강릉 강릉 하우스",
+    "address_short": "교동",
+    "rating": 3.0,
+    "image_url": "https://images.unsplash.com/photo-1607962837359-5e7e89f86776?w=400",
+    "is_hot": false,
+    "moods": [
+      "date",
+      "friends",
+      "family"
+    ],
+    "best_time": [
+      "afternoon",
+      "morning"
+    ]
+  },
+  {
+    "id": "194",
+    "name": "안목동 즐거운 테이블",
+    "category_main": "food",
+    "category_sub": "해산물",
+    "tags": [
+      "#데이트",
+      "#웨이팅",
+      "#해산물"
+    ],
+    "naver_search_query": "강릉 안목동 즐거운 테이블",
+    "address_short": "초당동",
+    "rating": 4.7,
+    "image_url": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400",
+    "is_hot": false,
+    "moods": [
+      "family",
+      "rainy",
+      "solo"
+    ],
+    "best_time": [
+      "evening",
+      "morning"
     ]
   },
   {
     "id": "195",
-    "name": "솔향 공원 194",
+    "name": "경포 공원",
     "category_main": "activity",
-    "category_sub": "서핑",
+    "category_sub": "레저",
     "tags": [
-      "#서핑",
-      "#안목동",
-      "#추천"
+      "#야경",
+      "#레저",
+      "#교동"
     ],
-    "naver_search_query": "강릉 솔향 공원 194",
-    "address_short": "초당동",
-    "rating": 3.8,
-    "image_url": "https://images.unsplash.com/photo-1520156557489-31c63271fcd4?w=400",
+    "naver_search_query": "강릉 경포 공원",
+    "address_short": "교동",
+    "rating": 3.4,
+    "image_url": "https://images.unsplash.com/photo-1549576490-b0b4831ef60a?w=400",
     "is_hot": false,
     "moods": [
-      "rainy",
-      "friends"
+      "family"
     ],
     "best_time": [
       "night",
-      "afternoon"
+      "evening"
     ]
   },
   {
     "id": "196",
-    "name": "사천 박물관 195",
-    "category_main": "activity",
-    "category_sub": "해변",
+    "name": "초당 공간",
+    "category_main": "cafe",
+    "category_sub": "대형카페",
     "tags": [
-      "#해변",
-      "#강문동",
-      "#추천"
+      "#주차가능",
+      "#대형카페",
+      "#홍제동"
     ],
-    "naver_search_query": "강릉 사천 박물관 195",
-    "address_short": "중앙동",
-    "rating": 3.6,
-    "image_url": "https://images.unsplash.com/photo-1523582407565-efee5cf4a353?w=400",
-    "is_hot": true,
+    "naver_search_query": "강릉 초당 공간",
+    "address_short": "홍제동",
+    "rating": 4.1,
+    "image_url": "https://images.unsplash.com/photo-1569096651661-820d0de8b4ab?w=400",
+    "is_hot": false,
     "moods": [
-      "sunrise",
-      "family"
+      "rainy"
     ],
     "best_time": [
       "night"
@@ -4611,96 +4595,97 @@
   },
   {
     "id": "197",
-    "name": "관동 해변 196",
-    "category_main": "activity",
-    "category_sub": "레저",
+    "name": "바람 스테이",
+    "category_main": "stay",
+    "category_sub": "게스트하우스",
     "tags": [
-      "#레저",
-      "#강동면",
-      "#추천"
+      "#스파",
+      "#감성숙소",
+      "#게스트하우스",
+      "#중앙동"
     ],
-    "naver_search_query": "강릉 관동 해변 196",
-    "address_short": "포남동",
-    "rating": 3.5,
-    "image_url": "https://images.unsplash.com/photo-1624719507903-7d8b41c7c9cb?w=400",
+    "naver_search_query": "강릉 바람 스테이",
+    "address_short": "중앙동",
+    "rating": 3.3,
+    "image_url": "https://images.unsplash.com/photo-1495365200479-c4ed1d35e1aa?w=400",
     "is_hot": false,
     "moods": [
-      "evening",
+      "rainy",
       "sunrise",
-      "friends"
+      "family"
     ],
     "best_time": [
-      "evening",
-      "morning"
+      "evening"
     ]
   },
   {
     "id": "198",
-    "name": "주문진 모텔 197",
-    "category_main": "stay",
-    "category_sub": "리조트",
+    "name": "하늘 마을",
+    "category_main": "activity",
+    "category_sub": "서핑",
     "tags": [
-      "#리조트",
-      "#교동",
-      "#추천"
+      "#바다",
+      "#서핑",
+      "#주문진"
     ],
-    "naver_search_query": "강릉 주문진 모텔 197",
-    "address_short": "초당동",
-    "rating": 4.5,
-    "image_url": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=400",
+    "naver_search_query": "강릉 하늘 마을",
+    "address_short": "주문진",
+    "rating": 3.8,
+    "image_url": "https://images.unsplash.com/photo-1571008887538-b36bb32f4571?w=400",
     "is_hot": false,
     "moods": [
       "date",
-      "sunrise"
+      "friends",
+      "rainy"
     ],
     "best_time": [
-      "morning"
+      "evening"
     ]
   },
   {
     "id": "199",
-    "name": "초당 전망대 198",
-    "category_main": "activity",
-    "category_sub": "산책로",
+    "name": "강릉 호텔",
+    "category_main": "stay",
+    "category_sub": "캠핑",
     "tags": [
-      "#산책로",
-      "#강동면",
-      "#추천"
+      "#깨끗한",
+      "#캠핑",
+      "#교동"
     ],
-    "naver_search_query": "강릉 초당 전망대 198",
-    "address_short": "초당동",
-    "rating": 4.6,
-    "image_url": "https://images.unsplash.com/photo-1635702961175-f6949dded992?w=400",
+    "naver_search_query": "강릉 강릉 호텔",
+    "address_short": "교동",
+    "rating": 3.5,
+    "image_url": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?w=400",
     "is_hot": false,
     "moods": [
-      "evening",
-      "sunrise"
+      "date"
     ],
     "best_time": [
-      "night",
       "afternoon"
     ]
   },
   {
     "id": "200",
-    "name": "경포 하우스 199",
-    "category_main": "stay",
-    "category_sub": "펜션",
+    "name": "연곡면 푸른 베이커리",
+    "category_main": "cafe",
+    "category_sub": "감성카페",
     "tags": [
-      "#펜션",
-      "#중앙동",
-      "#추천"
+      "#인생샷",
+      "#노트북",
+      "#감성카페"
     ],
-    "naver_search_query": "강릉 경포 하우스 199",
-    "address_short": "연곡면",
-    "rating": 3.8,
-    "image_url": "https://images.unsplash.com/photo-1495365200479-c4ed1d35e1aa?w=400",
+    "naver_search_query": "강릉 연곡면 푸른 베이커리",
+    "address_short": "노암동",
+    "rating": 3.9,
+    "image_url": "https://images.unsplash.com/photo-1511081692775-05d0f180a065?w=400",
     "is_hot": false,
     "moods": [
-      "evening"
+      "date",
+      "rainy",
+      "family"
     ],
     "best_time": [
-      "night",
+      "evening",
       "morning"
     ]
   }
