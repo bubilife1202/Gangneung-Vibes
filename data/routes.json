@@ -1,42 +1,32 @@
 [
   {
-    "id": "morning-coffee",
-    "title": "☕ 아침 커피 투어",
-    "description": "강릉의 대표 커피 명소를 한번에",
-    "spots": ["6", "2", "8"],
-    "duration": "2-3시간",
-    "distance": "차로 약 25분"
+    "id": "route-1",
+    "title": "Classic Food Tour",
+    "description": "강릉의 대표 맛집을 돌아보는 코스",
+    "spots": ["1", "4", "11", "41", "42"]
   },
   {
-    "id": "ocean-view",
-    "title": "🌊 오션뷰 감성 루트",
-    "description": "바다가 보이는 카페 투어",
-    "spots": ["3", "6", "12"],
-    "duration": "3-4시간",
-    "distance": "차로 약 30분"
+    "id": "route-2",
+    "title": "Ocean View Cafe Tour",
+    "description": "바다를 보며 즐기는 커피 한 잔",
+    "spots": ["2", "3", "6", "12", "54"]
   },
   {
-    "id": "food-tour",
-    "title": "🍜 강릉 맛집 정복",
-    "description": "순두부부터 교동짬뽕까지",
-    "spots": ["1", "11", "13"],
-    "duration": "하루",
-    "distance": "차로 약 40분"
+    "id": "route-3",
+    "title": "Culture & History",
+    "description": "강릉의 역사와 예술을 만나는 시간",
+    "spots": ["22", "23", "34", "35", "20"]
   },
   {
-    "id": "insta-tour",
-    "title": "📸 인스타 감성 루트",
-    "description": "사진 찍기 좋은 핫플",
-    "spots": ["3", "2", "9"],
-    "duration": "3-4시간",
-    "distance": "차로 약 35분"
+    "id": "route-4",
+    "title": "Hidden Gems",
+    "description": "현지인들이 찾는 숨은 명소",
+    "spots": ["19", "24", "49", "51", "55"]
   },
   {
-    "id": "culture-tour",
-    "title": "🎨 예술과 문화 산책",
-    "description": "하슬라 아트월드부터 오죽헌까지",
-    "spots": ["21", "23", "22"],
-    "duration": "반나절",
-    "distance": "차로 약 45분"
+    "id": "route-5",
+    "title": "Activity & Nature",
+    "description": "액티비티와 자연을 동시에",
+    "spots": ["25", "26", "39", "31", "32"]
   }
 ]
