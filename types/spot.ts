@@ -7,6 +7,8 @@ export type TimeOfDay = "morning" | "afternoon" | "evening" | "night";
 export interface Spot {
   id: string;
   name: string;
+  name_en?: string; // English Name
+  name_ko?: string; // Korean Name
   category_main: Category;
   category_sub: string;
   tags: string[];
