@@ -2,6 +2,7 @@
 
 import { Spot } from "@/types/spot";
 import Image from "next/image";
+import { useState } from "react";
 
 interface Route {
   id: string;
@@ -18,11 +19,15 @@ interface RouteCardProps {
 }
 
 export default function RouteCard({ route, spots }: RouteCardProps) {
+  const [showDetails, setShowDetails] = useState(false);
+
   const routeSpots = route.spots
     .map((id) => spots.find((s) => s.id === id))
     .filter((s): s is Spot => s !== undefined);
 
-  // 구글 맵스로 전체 루트 열기 (여러 경유지 지원)
+  if (routeSpots.length === 0) return null;
+
+  // 구글 맵스로 전체 루트 열기 (모든 경유지 포함)
   const handleOpenGoogleMapsRoute = () => {
     const waypoints = routeSpots
       .map((spot) => encodeURIComponent(spot.name + " 강릉"))
@@ -31,13 +36,50 @@ export default function RouteCard({ route, spots }: RouteCardProps) {
     window.open(googleMapsUrl, "_blank");
   };
 
-  // 카카오맵 길찾기 (출발지 → 도착지)
+  // 카카오맵 길찾기 - 출발지와 도착지 경로 + 경유지 정보
   const handleOpenKakaoRoute = () => {
     if (routeSpots.length < 2) return;
-    const start = encodeURIComponent(routeSpots[0].name);
-    const end = encodeURIComponent(routeSpots[routeSpots.length - 1].name);
+
+    // 출발지와 도착지
+    const start = encodeURIComponent(routeSpots[0].name + " 강릉");
+    const end = encodeURIComponent(routeSpots[routeSpots.length - 1].name + " 강릉");
+
+    // 카카오맵 길찾기 (출발-도착)
     const kakaoUrl = `https://map.kakao.com/?sName=${start}&eName=${end}`;
     window.open(kakaoUrl, "_blank");
+  };
+
+  // 네이버 지도 길찾기 - 출발지와 도착지 경로
+  const handleOpenNaverRoute = () => {
+    if (routeSpots.length < 2) return;
+
+    const start = encodeURIComponent(routeSpots[0].naver_search_query);
+    const end = encodeURIComponent(routeSpots[routeSpots.length - 1].naver_search_query);
+
+    // 네이버 지도 길찾기 (출발-도착)
+    const naverUrl = `https://map.naver.com/v5/directions/${start}/${end}/car`;
+    window.open(naverUrl, "_blank");
+  };
+
+  // 티맵 앱 열기 (모바일 전용)
+  const handleOpenTmap = () => {
+    if (routeSpots.length < 2) return;
+
+    const start = encodeURIComponent(routeSpots[0].name);
+    const end = encodeURIComponent(routeSpots[routeSpots.length - 1].name);
+
+    // 티맵 앱 URL 스키마 (iOS/Android)
+    const tmapUrl = `tmap://route?rGoName=${end}&rStartName=${start}`;
+
+    // 앱이 없으면 스토어로 이동
+    const timeout = setTimeout(() => {
+      window.open('https://www.tmapmobility.com/app.jsp', '_blank');
+    }, 1500);
+
+    window.location.href = tmapUrl;
+
+    // 앱이 성공적으로 열리면 타이머 취소
+    window.addEventListener('blur', () => clearTimeout(timeout));
   };
 
   // 개별 장소를 네이버 지도로 열기
@@ -48,14 +90,14 @@ export default function RouteCard({ route, spots }: RouteCardProps) {
     window.open(naverMapUrl, "_blank");
   };
 
-  // 모든 장소를 순차적으로 열기
-  const handleOpenAllSequentially = () => {
-    routeSpots.forEach((spot, index) => {
-      setTimeout(() => {
-        handleOpenSpot(spot);
-      }, index * 500); // 0.5초 간격으로 열기
-    });
+  // 장소 리스트 복사
+  const handleCopyRoute = () => {
+    const routeText = routeSpots.map((spot, i) => `${i + 1}. ${spot.name}`).join('\n');
+    navigator.clipboard.writeText(routeText);
+    alert('📋 루트가 클립보드에 복사되었습니다!');
   };
+
+  const middleSpots = routeSpots.slice(1, -1);
 
   return (
     <div className="bg-white rounded-2xl shadow-lg overflow-hidden hover:shadow-xl transition-all duration-300 border border-gray-100">
@@ -74,87 +116,132 @@ export default function RouteCard({ route, spots }: RouteCardProps) {
           </div>
         </div>
 
-        {/* Spot Preview - 클릭 가능 */}
-        <div className="space-y-3 mb-4">
-          {routeSpots.map((spot, index) => (
-            <div
-              key={spot.id}
-              onClick={() => handleOpenSpot(spot)}
-              className="flex items-center gap-3 cursor-pointer hover:bg-gray-50 p-2 rounded-lg transition-all group"
+        {/* 경로 요약 */}
+        <div className="bg-blue-50 border border-blue-200 rounded-xl p-4 mb-4">
+          <div className="flex items-center gap-2 mb-2">
+            <span className="text-sm font-semibold text-gray-700">📍 경로 요약</span>
+            <button
+              onClick={() => setShowDetails(!showDetails)}
+              className="text-xs text-blue-600 hover:text-blue-700"
             >
-              <div className="flex-shrink-0 w-8 h-8 bg-primary text-white rounded-full flex items-center justify-center font-bold text-sm group-hover:bg-primary/80 transition-all">
-                {index + 1}
-              </div>
-              <div className="flex-shrink-0 w-16 h-16 rounded-lg overflow-hidden relative">
-                <Image
-                  src={spot.image_url}
-                  alt={spot.name}
-                  fill
-                  className="object-cover"
-                  sizes="64px"
-                />
-              </div>
-              <div className="flex-1 min-w-0">
-                <h4 className="font-semibold text-gray-800 truncate group-hover:text-primary transition-colors">
-                  {spot.name}
-                </h4>
-                <p className="text-xs text-gray-500">{spot.address_short}</p>
-              </div>
-              {index < routeSpots.length - 1 && (
-                <div className="text-gray-300 group-hover:text-primary transition-colors">
-                  →
-                </div>
-              )}
-              <div className="text-xs text-gray-400 group-hover:text-primary transition-colors">
-                클릭
-              </div>
+              {showDetails ? '접기 ▲' : '펼치기 ▼'}
+            </button>
+          </div>
+
+          <div className="space-y-2">
+            <div className="flex items-center gap-2 text-sm">
+              <span className="font-semibold text-green-600">출발</span>
+              <span className="text-gray-700">{routeSpots[0].name}</span>
             </div>
-          ))}
+
+            {middleSpots.length > 0 && (
+              <div className="flex items-start gap-2 text-sm">
+                <span className="font-semibold text-orange-600 flex-shrink-0">경유</span>
+                <span className="text-gray-600">
+                  {middleSpots.map(s => s.name).join(' → ')}
+                </span>
+              </div>
+            )}
+
+            <div className="flex items-center gap-2 text-sm">
+              <span className="font-semibold text-red-600">도착</span>
+              <span className="text-gray-700">{routeSpots[routeSpots.length - 1].name}</span>
+            </div>
+          </div>
         </div>
+
+        {/* 상세 장소 리스트 (접었다 펼쳤다) */}
+        {showDetails && (
+          <div className="space-y-2 mb-4 animate-fadeIn">
+            {routeSpots.map((spot, index) => (
+              <div
+                key={spot.id}
+                onClick={() => handleOpenSpot(spot)}
+                className="flex items-center gap-3 cursor-pointer hover:bg-gray-50 p-2 rounded-lg transition-all group"
+              >
+                <div className="flex-shrink-0 w-8 h-8 bg-primary text-white rounded-full flex items-center justify-center font-bold text-sm group-hover:bg-primary/80 transition-all">
+                  {index + 1}
+                </div>
+                <div className="flex-shrink-0 w-12 h-12 rounded-lg overflow-hidden relative">
+                  <Image
+                    src={spot.image_url}
+                    alt={spot.name}
+                    fill
+                    className="object-cover"
+                    sizes="48px"
+                  />
+                </div>
+                <div className="flex-1 min-w-0">
+                  <h4 className="font-semibold text-gray-800 text-sm truncate group-hover:text-primary transition-colors">
+                    {spot.name}
+                  </h4>
+                  <p className="text-xs text-gray-500">{spot.address_short}</p>
+                </div>
+              </div>
+            ))}
+          </div>
+        )}
 
         {/* 버튼 그룹 */}
         <div className="space-y-2">
-          {/* 구글 맵스 전체 루트 */}
+          {/* 구글 맵스 전체 루트 (메인 추천) */}
           <button
             onClick={handleOpenGoogleMapsRoute}
             className="w-full bg-primary hover:bg-primary/90 text-white py-3 rounded-xl font-semibold transition-all shadow-md hover:shadow-lg flex items-center justify-center gap-2"
           >
-            <span>🗺️ 구글 맵스로 전체 루트 보기</span>
-            <svg
-              className="w-5 h-5"
-              fill="none"
-              stroke="currentColor"
-              viewBox="0 0 24 24"
+            <span>🗺️ 구글맵 전체 경로 보기</span>
+            <span className="text-xs bg-white/20 px-2 py-0.5 rounded-full">추천</span>
+          </button>
+
+          {/* 2열 버튼 그룹 */}
+          <div className="grid grid-cols-2 gap-2">
+            {/* 카카오맵 길찾기 */}
+            <button
+              onClick={handleOpenKakaoRoute}
+              className="bg-yellow-400 hover:bg-yellow-500 text-gray-800 py-2.5 rounded-xl font-semibold transition-all shadow-sm hover:shadow-md flex items-center justify-center gap-1 text-sm"
             >
-              <path
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                strokeWidth={2}
-                d="M9 5l7 7-7 7"
-              />
-            </svg>
-          </button>
+              <span>📍 카카오맵</span>
+            </button>
 
-          {/* 카카오맵 길찾기 */}
-          <button
-            onClick={handleOpenKakaoRoute}
-            className="w-full bg-yellow-400 hover:bg-yellow-500 text-gray-800 py-2.5 rounded-xl font-semibold transition-all shadow-sm hover:shadow-md flex items-center justify-center gap-2 text-sm"
-          >
-            <span>📍 카카오맵 길찾기 ({routeSpots[0]?.name} → {routeSpots[routeSpots.length - 1]?.name})</span>
-          </button>
+            {/* 네이버 지도 길찾기 */}
+            <button
+              onClick={handleOpenNaverRoute}
+              className="bg-green-500 hover:bg-green-600 text-white py-2.5 rounded-xl font-semibold transition-all shadow-sm hover:shadow-md flex items-center justify-center gap-1 text-sm"
+            >
+              <span>🧭 네이버</span>
+            </button>
+          </div>
 
-          {/* 네이버 지도 순차 열기 */}
-          <button
-            onClick={handleOpenAllSequentially}
-            className="w-full bg-green-500 hover:bg-green-600 text-white py-2.5 rounded-xl font-semibold transition-all shadow-sm hover:shadow-md flex items-center justify-center gap-2 text-sm"
-          >
-            <span>🔗 네이버 지도 순서대로 열기</span>
-          </button>
+          {/* 추가 옵션들 */}
+          <div className="grid grid-cols-2 gap-2">
+            {/* 티맵 */}
+            <button
+              onClick={handleOpenTmap}
+              className="bg-blue-500 hover:bg-blue-600 text-white py-2 rounded-lg font-medium transition-all text-xs"
+            >
+              🚗 티맵
+            </button>
+
+            {/* 복사 */}
+            <button
+              onClick={handleCopyRoute}
+              className="bg-gray-500 hover:bg-gray-600 text-white py-2 rounded-lg font-medium transition-all text-xs"
+            >
+              📋 복사
+            </button>
+          </div>
         </div>
 
-        <p className="text-xs text-gray-500 mt-3 text-center">
-          💡 위 장소들을 클릭하면 네이버 지도에서 개별적으로 확인할 수 있어요
-        </p>
+        <div className="mt-3 text-xs text-gray-500 space-y-1">
+          <p className="flex items-start gap-1">
+            <span>💡</span>
+            <span><strong>구글맵</strong>은 모든 경유지를 포함한 최적 경로를 보여줍니다</span>
+          </p>
+          <p className="flex items-start gap-1">
+            <span>📍</span>
+            <span><strong>카카오맵/네이버</strong>는 출발지→도착지 경로를 보여줍니다 (중간 경유지는 직접 추가 필요)</span>
+          </p>
+        </div>
       </div>
     </div>
   );
