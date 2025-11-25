@@ -27,12 +27,23 @@ export default function RouteCard({ route, spots }: RouteCardProps) {
 
   if (routeSpots.length === 0) return null;
 
+  const middleSpots = routeSpots.slice(1, -1);
+
   // 구글 맵스로 전체 루트 열기 (모든 경유지 포함)
   const handleOpenGoogleMapsRoute = () => {
-    const waypoints = routeSpots
+    if (routeSpots.length === 0) return;
+
+    const origin = encodeURIComponent(routeSpots[0].name + " 강릉");
+    const destination = encodeURIComponent(
+      routeSpots[routeSpots.length - 1].name + " 강릉"
+    );
+    const waypoints = middleSpots
       .map((spot) => encodeURIComponent(spot.name + " 강릉"))
-      .join("/");
-    const googleMapsUrl = `https://www.google.com/maps/dir/${waypoints}`;
+      .join("|");
+
+    const googleMapsUrl = `https://www.google.com/maps/dir/?api=1&travelmode=driving&origin=${origin}&destination=${destination}${
+      waypoints ? `&waypoints=${waypoints}` : ""
+    }`;
     window.open(googleMapsUrl, "_blank");
   };
 
@@ -40,12 +51,15 @@ export default function RouteCard({ route, spots }: RouteCardProps) {
   const handleOpenKakaoRoute = () => {
     if (routeSpots.length < 2) return;
 
-    // 출발지와 도착지
-    const start = encodeURIComponent(routeSpots[0].name + " 강릉");
-    const end = encodeURIComponent(routeSpots[routeSpots.length - 1].name + " 강릉");
+    const start = routeSpots[0].name + " 강릉";
+    const end = routeSpots[routeSpots.length - 1].name + " 강릉";
+    const via = middleSpots
+      .map((spot) => `&vName=${encodeURIComponent(spot.name + " 강릉")}`)
+      .join("");
 
-    // 카카오맵 길찾기 (출발-도착)
-    const kakaoUrl = `https://map.kakao.com/?sName=${start}&eName=${end}`;
+    const kakaoUrl = `https://map.kakao.com/?sName=${encodeURIComponent(
+      start
+    )}&eName=${encodeURIComponent(end)}${via}`;
     window.open(kakaoUrl, "_blank");
   };
 
@@ -53,33 +67,16 @@ export default function RouteCard({ route, spots }: RouteCardProps) {
   const handleOpenNaverRoute = () => {
     if (routeSpots.length < 2) return;
 
-    const start = encodeURIComponent(routeSpots[0].naver_search_query);
-    const end = encodeURIComponent(routeSpots[routeSpots.length - 1].naver_search_query);
+    const start = routeSpots[0].naver_search_query;
+    const end = routeSpots[routeSpots.length - 1].naver_search_query;
+    const via = middleSpots
+      .map((spot, index) => `&via${index + 1}=${encodeURIComponent(spot.naver_search_query)}`)
+      .join("");
 
-    // 네이버 지도 길찾기 (출발-도착)
-    const naverUrl = `https://map.naver.com/v5/directions/${start}/${end}/car`;
+    const naverUrl = `https://map.naver.com/p/directions/?sname=${encodeURIComponent(
+      start
+    )}&ename=${encodeURIComponent(end)}&pathType=0${via}`;
     window.open(naverUrl, "_blank");
-  };
-
-  // 티맵 앱 열기 (모바일 전용)
-  const handleOpenTmap = () => {
-    if (routeSpots.length < 2) return;
-
-    const start = encodeURIComponent(routeSpots[0].name);
-    const end = encodeURIComponent(routeSpots[routeSpots.length - 1].name);
-
-    // 티맵 앱 URL 스키마 (iOS/Android)
-    const tmapUrl = `tmap://route?rGoName=${end}&rStartName=${start}`;
-
-    // 앱이 없으면 스토어로 이동
-    const timeout = setTimeout(() => {
-      window.open('https://www.tmapmobility.com/app.jsp', '_blank');
-    }, 1500);
-
-    window.location.href = tmapUrl;
-
-    // 앱이 성공적으로 열리면 타이머 취소
-    window.addEventListener('blur', () => clearTimeout(timeout));
   };
 
   // 개별 장소를 네이버 지도로 열기
@@ -96,8 +93,6 @@ export default function RouteCard({ route, spots }: RouteCardProps) {
     navigator.clipboard.writeText(routeText);
     alert('📋 루트가 클립보드에 복사되었습니다!');
   };
-
-  const middleSpots = routeSpots.slice(1, -1);
 
   return (
     <div className="bg-white rounded-2xl shadow-lg overflow-hidden hover:shadow-xl transition-all duration-300 border border-gray-100">
@@ -213,16 +208,7 @@ export default function RouteCard({ route, spots }: RouteCardProps) {
           </div>
 
           {/* 추가 옵션들 */}
-          <div className="grid grid-cols-2 gap-2">
-            {/* 티맵 */}
-            <button
-              onClick={handleOpenTmap}
-              className="bg-blue-500 hover:bg-blue-600 text-white py-2 rounded-lg font-medium transition-all text-xs"
-            >
-              🚗 티맵
-            </button>
-
-            {/* 복사 */}
+          <div className="grid grid-cols-1 gap-2">
             <button
               onClick={handleCopyRoute}
               className="bg-gray-500 hover:bg-gray-600 text-white py-2 rounded-lg font-medium transition-all text-xs"
