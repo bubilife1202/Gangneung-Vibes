@@ -22,13 +22,39 @@ export default function RouteCard({ route, spots }: RouteCardProps) {
     .map((id) => spots.find((s) => s.id === id))
     .filter((s): s is Spot => s !== undefined);
 
-  const handleOpenRoute = () => {
-    // 모든 장소를 경유지로 포함하는 네이버 지도 URL 생성
-    const queries = routeSpots
-      .map((spot) => encodeURIComponent(spot.naver_search_query))
-      .join(",");
-    const naverMapUrl = `https://m.map.naver.com/search2/search.naver?query=${queries}`;
+  // 구글 맵스로 전체 루트 열기 (여러 경유지 지원)
+  const handleOpenGoogleMapsRoute = () => {
+    const waypoints = routeSpots
+      .map((spot) => encodeURIComponent(spot.name + " 강릉"))
+      .join("/");
+    const googleMapsUrl = `https://www.google.com/maps/dir/${waypoints}`;
+    window.open(googleMapsUrl, "_blank");
+  };
+
+  // 카카오맵 길찾기 (출발지 → 도착지)
+  const handleOpenKakaoRoute = () => {
+    if (routeSpots.length < 2) return;
+    const start = encodeURIComponent(routeSpots[0].name);
+    const end = encodeURIComponent(routeSpots[routeSpots.length - 1].name);
+    const kakaoUrl = `https://map.kakao.com/?sName=${start}&eName=${end}`;
+    window.open(kakaoUrl, "_blank");
+  };
+
+  // 개별 장소를 네이버 지도로 열기
+  const handleOpenSpot = (spot: Spot) => {
+    const naverMapUrl = `https://m.map.naver.com/search2/search.naver?query=${encodeURIComponent(
+      spot.naver_search_query
+    )}`;
     window.open(naverMapUrl, "_blank");
+  };
+
+  // 모든 장소를 순차적으로 열기
+  const handleOpenAllSequentially = () => {
+    routeSpots.forEach((spot, index) => {
+      setTimeout(() => {
+        handleOpenSpot(spot);
+      }, index * 500); // 0.5초 간격으로 열기
+    });
   };
 
   return (
@@ -48,11 +74,15 @@ export default function RouteCard({ route, spots }: RouteCardProps) {
           </div>
         </div>
 
-        {/* Spot Preview */}
+        {/* Spot Preview - 클릭 가능 */}
         <div className="space-y-3 mb-4">
           {routeSpots.map((spot, index) => (
-            <div key={spot.id} className="flex items-center gap-3">
-              <div className="flex-shrink-0 w-8 h-8 bg-primary text-white rounded-full flex items-center justify-center font-bold text-sm">
+            <div
+              key={spot.id}
+              onClick={() => handleOpenSpot(spot)}
+              className="flex items-center gap-3 cursor-pointer hover:bg-gray-50 p-2 rounded-lg transition-all group"
+            >
+              <div className="flex-shrink-0 w-8 h-8 bg-primary text-white rounded-full flex items-center justify-center font-bold text-sm group-hover:bg-primary/80 transition-all">
                 {index + 1}
               </div>
               <div className="flex-shrink-0 w-16 h-16 rounded-lg overflow-hidden relative">
@@ -65,37 +95,66 @@ export default function RouteCard({ route, spots }: RouteCardProps) {
                 />
               </div>
               <div className="flex-1 min-w-0">
-                <h4 className="font-semibold text-gray-800 truncate">
+                <h4 className="font-semibold text-gray-800 truncate group-hover:text-primary transition-colors">
                   {spot.name}
                 </h4>
                 <p className="text-xs text-gray-500">{spot.address_short}</p>
               </div>
               {index < routeSpots.length - 1 && (
-                <div className="text-gray-300">→</div>
+                <div className="text-gray-300 group-hover:text-primary transition-colors">
+                  →
+                </div>
               )}
+              <div className="text-xs text-gray-400 group-hover:text-primary transition-colors">
+                클릭
+              </div>
             </div>
           ))}
         </div>
 
-        <button
-          onClick={handleOpenRoute}
-          className="w-full bg-primary hover:bg-primary/90 text-white py-3 rounded-xl font-semibold transition-all shadow-md hover:shadow-lg flex items-center justify-center gap-2"
-        >
-          <span>네이버 지도로 루트 보기</span>
-          <svg
-            className="w-5 h-5"
-            fill="none"
-            stroke="currentColor"
-            viewBox="0 0 24 24"
+        {/* 버튼 그룹 */}
+        <div className="space-y-2">
+          {/* 구글 맵스 전체 루트 */}
+          <button
+            onClick={handleOpenGoogleMapsRoute}
+            className="w-full bg-primary hover:bg-primary/90 text-white py-3 rounded-xl font-semibold transition-all shadow-md hover:shadow-lg flex items-center justify-center gap-2"
           >
-            <path
-              strokeLinecap="round"
-              strokeLinejoin="round"
-              strokeWidth={2}
-              d="M9 5l7 7-7 7"
-            />
-          </svg>
-        </button>
+            <span>🗺️ 구글 맵스로 전체 루트 보기</span>
+            <svg
+              className="w-5 h-5"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth={2}
+                d="M9 5l7 7-7 7"
+              />
+            </svg>
+          </button>
+
+          {/* 카카오맵 길찾기 */}
+          <button
+            onClick={handleOpenKakaoRoute}
+            className="w-full bg-yellow-400 hover:bg-yellow-500 text-gray-800 py-2.5 rounded-xl font-semibold transition-all shadow-sm hover:shadow-md flex items-center justify-center gap-2 text-sm"
+          >
+            <span>📍 카카오맵 길찾기 ({routeSpots[0]?.name} → {routeSpots[routeSpots.length - 1]?.name})</span>
+          </button>
+
+          {/* 네이버 지도 순차 열기 */}
+          <button
+            onClick={handleOpenAllSequentially}
+            className="w-full bg-green-500 hover:bg-green-600 text-white py-2.5 rounded-xl font-semibold transition-all shadow-sm hover:shadow-md flex items-center justify-center gap-2 text-sm"
+          >
+            <span>🔗 네이버 지도 순서대로 열기</span>
+          </button>
+        </div>
+
+        <p className="text-xs text-gray-500 mt-3 text-center">
+          💡 위 장소들을 클릭하면 네이버 지도에서 개별적으로 확인할 수 있어요
+        </p>
       </div>
     </div>
   );
