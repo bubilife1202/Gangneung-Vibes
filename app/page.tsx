@@ -1,8 +1,8 @@
 "use client";
 
 import { useState, useMemo, useEffect } from "react";
+import { useRouter } from "next/navigation";
 import SpotCard from "@/components/SpotCard";
-import RouteCard from "@/components/RouteCard";
 import {
   Spot,
   Category,
@@ -12,7 +12,6 @@ import {
   TIME_LABELS,
 } from "@/types/spot";
 import spotsData from "@/data/spots.json";
-import routesData from "@/data/routes.json";
 import {
   getDailyPick,
   getCurrentTimeOfDay,
@@ -21,13 +20,18 @@ import {
 
 export default function Home() {
   const spots = spotsData as Spot[];
-  const routes = routesData;
+  const router = useRouter();
   const [selectedCategory, setSelectedCategory] = useState<Category | "all">(
     "all"
   );
   const [selectedMood, setSelectedMood] = useState<Mood | "all">("all");
   const [searchQuery, setSearchQuery] = useState("");
-  const [showRoutes, setShowRoutes] = useState(false);
+
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    history.scrollRestoration = "manual";
+    window.scrollTo({ top: 0, behavior: "auto" });
+  }, []);
 
   // 오늘의 추천 (매일 바뀜)
   const dailyPicks = useMemo(() => {
@@ -118,7 +122,7 @@ export default function Home() {
           {/* Quick Actions */}
           <div className="flex gap-2 justify-center flex-wrap">
             <button
-              onClick={() => setShowRoutes(!showRoutes)}
+              onClick={() => router.push("/routes")}
               className="bg-white/20 hover:bg-white/30 text-white px-4 py-2 rounded-full font-semibold text-sm transition-all"
             >
               🗺️ 추천 루트
@@ -191,28 +195,6 @@ export default function Home() {
 
       {/* Main Content */}
       <main className="max-w-7xl mx-auto px-4 py-8">
-        {/* Routes Section (Collapsible) */}
-        {showRoutes && (
-          <section className="mb-12 animate-fadeIn">
-            <div className="flex items-center justify-between mb-6">
-              <h2 className="text-2xl font-bold text-gray-800 flex items-center gap-2">
-                🗺️ 추천 루트
-              </h2>
-              <button
-                onClick={() => setShowRoutes(false)}
-                className="text-gray-500 hover:text-gray-700"
-              >
-                ✕
-              </button>
-            </div>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-              {routes.map((route) => (
-                <RouteCard key={route.id} route={route} spots={spots} />
-              ))}
-            </div>
-          </section>
-        )}
-
         {/* 오늘의 강릉 Section (only show when no filters applied) */}
         {selectedCategory === "all" &&
           selectedMood === "all" &&
